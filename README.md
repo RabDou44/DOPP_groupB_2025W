@@ -9,6 +9,9 @@
 - Which is the worst connected city in Europe in terms of minimising travel times to other cities?
 
 ### Datasets:
+- https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records
+- https://www.kaggle.com/datasets/headsortails/train-stations-in-europe
+- https://data.4tu.nl/datasets/f045231a-a153-43cb-a5b2-9b37f4528ccf 
 
 ### General data :
 - [EC report](https://ec.europa.eu/regional_policy/sources/work/2023-rail-vs-air_en.pdf)
@@ -17,6 +20,11 @@
 - [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/transp?lang=en&subtheme=rail.rail_pa&display=list&sort=category&extractionId=rail_pa_nbpass)
 
 ### Datasets we would like to be find:
+- Explicit Train-route timetables
+
+### Project Assumptions & Sources
+- Average Traveltime to the Airport:
+- Average Airport Check-in Time:
 
 ### Workplan:
 
