@@ -29,3 +29,40 @@
 ### Workplan:
 
 ### Deadlines:
+
+### Project Requirements:
+
+#### 1. Introduction
+This is a rather open ended exercise with the aim to get you some practice working through the
+steps of the Data Science Process covered in the lectures:
+- Ask interesting questions
+- Get the data
+- Explore the data
+- Model the data
+- Communicate and visualise the results
+
+#### 2. Task
+The task is to take one of the questions listed in Section 3 as a starting point. Then work through
+the steps of the Data Science process (including steps back as required) to answer the questions.
+Some of the first cycles through the Data Science Process could also lead to a refinement or
+modification of the questions. You may use whichever datasets are required to answer the questions
+(some potentially useful datasets are listed in Section 4). During the data science process steps,
+you may have to do some of the following:
+- Understand what is in the data – are the data measurements or estimates? How accurate are
+these measurements or estimates? Are there biases in the data (e.g. in the data gathering
+process)? If you use estimates to make new estimates, how accurate are the new estimates?
+Note that this list of questions is not exhaustive.
+- Clean the data
+- Check for missing data points – decide what to do about them
+- Check for outliers – decide what to do about them
+- Check for inconsistencies – decide what to do about them
+- Calculate descriptive statistics
+- Transform the data (e.g. changing units of measurements)
+- Check if the necessary data is there to answer the questions. If not, then you could:
+    - Combine columns in some way to generate the necessary data
+    - Find the necessary data in another dataset
+    - Change the questions asked (in this case you have the freedom to do this, but this may
+not be the case if someone else is asking the questions)
+- Visualise the data
+- Calculate correlations
+- Check predictions
