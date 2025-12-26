@@ -9,7 +9,7 @@
 - Which is the worst connected city in Europe in terms of minimising travel times to other cities?
 
 ### Datasets:
-- https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records
+- https://github.com/Jonty/airline-route-data/tree/main
 - https://www.kaggle.com/datasets/headsortails/train-stations-in-europe
 - https://data.4tu.nl/datasets/f045231a-a153-43cb-a5b2-9b37f4528ccf 
 
@@ -23,8 +23,8 @@
 - Explicit Train-route timetables
 
 ### Project Assumptions & Sources
-- Average Traveltime to the Airport:
-- Average Airport Check-in Time:
+- **Airport Check-in/Security:** 120 minutes - this is recommmended by most european airlines. (https://help.ryanair.com/hc/en-gb/sections/12502774638865-Estimated-Times-at-the-Airport, https://www.swedavia.com/arlanda/when-should-i-be-at-the-airport/)
+- **City-to-Airport Travel:** the time is calculated for each city based on location of the city center and the airport with average of 40 km/hr - assuming car/taxi travel. This assumption is based on the method used in the "How fast are rail trips between EU cities and is rail faster than air" paper (https://ec.europa.eu/regional_policy/information-sources/publications/working-papers/2023/how-fast-are-rail-trips-between-eu-cities-and-is-rail-faster-than-air_en). This time is calculated for both departure and arrival airports and added to toal travel time. 
 - Main Trainstation rule (Need your feedbacks):
     - to make analysis more consistent, only the main trainstations are retained
  
