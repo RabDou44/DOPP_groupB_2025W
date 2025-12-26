@@ -1,4 +1,4 @@
-from_city_name,from_airport_code,to_city_name,to_airport_code,distance_km,flight_duration_minutes,total_journey_time_mins
+departure_city_name,departure_airport_code,arrival_city_name,arrival_airport_code,distance_km,flight_duration_minutes,total_travel_time_mins
 Malaga,AGP,Barcelona,BCN,766,95,245.23
 Malaga,AGP,Amsterdam,AMS,1883,185,333.88
 Malaga,AGP,Dublin,DUB,1866,185,329.87

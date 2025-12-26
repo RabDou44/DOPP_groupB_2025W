@@ -1,4 +1,4 @@
-city_name,airport_name,airport_code,longitude,latitude,dist_to_city_centroid_km,estimated_transit_mins
+city_name,airport_name,airport_code,longitude,latitude,dist_to_city_center_km,estimated_transit_mins
 Malaga,Málaga Airport,AGP,-4.489616,36.675181,7.92,11.88
 Amsterdam,Schiphol,AMS,4.763385,52.309069,11.33,17.0
 Antwerp,Deurne,ANR,4.450672,51.18916,4.74,7.11
