@@ -61,9 +61,9 @@ Its important that each Dataset contains the EU27 countries in order to be compa
 ### Workplan:
 
 ### Deadlines:
-Project handin due: Thursday, 8 January 2026, 11:55 PM
-Presentation Slides due: Monday, 26 January 2026, 9:00 AM
-Presentation on: Monday, 26 January 2026, 2:00 PM
+- Project handin due: Thursday, 8 January 2026, 11:55 PM
+- Presentation Slides due: Monday, 26 January 2026, 9:00 AM
+- Presentation on: Monday, 26 January 2026, 2:00 PM
 
 ### Project Requirements:
 
