@@ -1,12 +1,14 @@
 ## DOPP group B project
 
 ### Problem questions:
-- How do rail travel times compare to air travel times between cities in Europe? 
-- Are there routes on which high-speed rail leads to shorter journey times than air travel? 
-- Which percentage of routes are faster travelled by train than by flight?
-- How can estimates of travel time to and from airports be included? 
-- Which is the most well-connected city in Europe in terms of minimising travel times to other cities?
-- Which is the worst connected city in Europe in terms of minimising travel times to other cities?
+| Question |  Responsible  | Status |
+|:--------|:--------:|:--------:|
+| How do rail travel times compare to air travel times between cities in Europe? | @Adam, @Noah, @Sara | :white_check_mark: |
+|Are there routes on which high-speed rail leads to shorter journey times than air travel? |||
+|Which percentage of routes are faster travelled by train than by flight?|||
+|How can estimates of travel time to and from airports be included?||| 
+| Which is the most well-connected city in Europe in terms of minimising travel times to other cities?|||
+| Which is the worst connected city in Europe in terms of minimising travel times to other cities|||
 
 ### Datasets:
 - https://github.com/Jonty/airline-route-data/tree/main
@@ -38,7 +40,6 @@ For a more reasonable Analysis, specific island / island states will be excluded
 - Belgium : BE
 - Bulgaria : BG
 - Croatia : HR
-- Cyprus : CY
 - Czech Republic : CZ
 - Denmark : DK
 - Estonia : EE
@@ -52,7 +53,6 @@ For a more reasonable Analysis, specific island / island states will be excluded
 - Latvia : LV
 - Lithuania : LT
 - Luxembourg : LU
-- Malta : MT
 - Netherlands : NL
 - Poland : PL
 - Portugal : PT
