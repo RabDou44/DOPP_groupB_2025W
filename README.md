@@ -20,16 +20,20 @@
 - [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/transp?lang=en&subtheme=rail.rail_pa&display=list&sort=category&extractionId=rail_pa_nbpass)
 
 ### Datasets we would like to be find:
-- Explicit Train-route timetables
 
 ### Project Assumptions & Sources
 - **Airport Check-in/Security:** 120 minutes - this is recommmended by most european airlines. (https://help.ryanair.com/hc/en-gb/sections/12502774638865-Estimated-Times-at-the-Airport, https://www.swedavia.com/arlanda/when-should-i-be-at-the-airport/)
 - **City-to-Airport Travel:** the time is calculated for each city based on location of the city center and the airport with average of 40 km/hr - assuming car/taxi travel. This assumption is based on the method used in the "How fast are rail trips between EU cities and is rail faster than air" paper (https://ec.europa.eu/regional_policy/information-sources/publications/working-papers/2023/how-fast-are-rail-trips-between-eu-cities-and-is-rail-faster-than-air_en). This time is calculated for both departure and arrival airports and added to toal travel time. 
-- Main Trainstation rule (Need your feedbacks):
+- **Main Trainstation rule**:
     - to make analysis more consistent, only the main trainstations are retained
+- **Door-to-door estimation:**
+    - Door-to-Door times will be calculated using an API and geolocation from City-center to the respective destinations
  
+   
 ### Country List: EU 27
 Its important that each Dataset contains the EU27 countries in order to be comparable. Scope may be reduced later down the line. 
+For a more reasonable Analysis, specific island / island states will be excluded from the analysis as they do not have any reasonably comparable train connections (enter removed countries here)
+
 - Austria : AT
 - Belgium : BE
 - Bulgaria : BG
@@ -58,9 +62,34 @@ Its important that each Dataset contains the EU27 countries in order to be compa
 - Spain : ES
 - Sweden : SE
 
+### Methodology:
+Currently 2 different types of engineered Datasets are proposed:
+
+1. City/Station/Airport aggregate Dataset:
+    - This Dataset contains all selected cities Airports & Trainstations, aswell as Door-to-Door estimates and will be used to select which routes collect
+  
+2. Route Dataset:
+    - Contains a city-based grid (e.g. 52x52) of routes, most likely containing route information, time deltas, etc.
+    - This Dataset will be used to compare different routes and answer the research questions 
+
+
 ### Workplan:
 
+Phase 1: (Noah, Adam, Sara)
+Creation of CSA aggregate Dataset
+Route API access
+Creation of city-grid route Dataset
+
+Phase 2: ()
+Refactoring --> into a single, well structured notebook (Noah, [])
+Analysis --> Answering of the research questions ()
+Modelling --> Identify potential applications of modelling techniques (e.g. Clustering) ()
+
 ### Deadlines:
+- Project Phase 2 Handover: Tuesday, 30 December 2025
+- Finish Analysis & Peer-Review : Tuesday, 6 January 2026
+- Finish Executive Summary: Wednesday, 7 January 2026
+  
 - Project handin due: Thursday, 8 January 2026, 11:55 PM
 - Presentation Slides due: Monday, 26 January 2026, 9:00 AM
 - Presentation on: Monday, 26 January 2026, 2:00 PM
