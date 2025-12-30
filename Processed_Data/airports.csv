@@ -1,0 +1,76 @@
+city_name,airport_name,airport_code,longitude,latitude,dist_to_city_center_km,estimated_transit_mins
+malaga,Málaga Airport,AGP,-4.489616,36.675181,7.92,11.88
+amsterdam,Schiphol,AMS,4.763385,52.309069,11.33,17.0
+antwerp,Deurne,ANR,4.450672,51.18916,4.74,7.11
+stockholm,Stockholm Arlanda Airport,ARN,17.930364,59.649818,36.47,54.71
+athens,Athens International Airport,ATH,23.946486,37.93635,19.87,29.81
+bucharest,Baneasa,BBU,26.080995,44.495932,7.28,10.93
+barcelona,El Prat Airport,BCN,2.07593,41.303027,12.24,18.35
+berlin,Berlin Brandenburg Airport,BER,13.503333,52.366667,18.31,27.46
+milan,Orio al Serio International Airport,BGY,9.698713,45.665315,45.33,68.0
+stockholm,Bromma,BMA,17.946079,59.35566,7.54,11.3
+bordeaux,Bordeaux–Mérignac Airport,BOD,-0.70217,44.83102,9.68,14.53
+bremen,Bremen,BRE,8.785352,53.052971,2.93,4.39
+brussels,Brussels Airport,BRU,4.483602,50.89717,10.78,16.16
+bratislava,M R Stefanik,BTS,17.212665,48.170125,8.18,12.26
+budapest,Budapest Ferenc Liszt International Airport,BUD,19.261621,47.433037,17.13,25.7
+paris,Beauvais–Tillé Airport,BVA,2.110815,49.459488,69.29,103.93
+paris,Charles De Gaulle,CDG,2.567023,49.003196,22.62,33.93
+cologne,Cologne Bonn Airport,CGN,7.122224,50.878363,13.52,20.28
+rome,Ciampino,CIA,12.590987,41.799065,13.79,20.68
+copenhagen,Copenhagen Airport,CPH,12.647601,55.629053,7.22,10.83
+brussels,Brussels South Charleroi Airport,CRL,4.45382,50.459206,43.68,65.51
+dresden,Dresden,DRS,13.766082,51.124333,8.46,12.7
+dortmund,Dortmund,DTM,7.613139,51.514826,10.23,15.35
+dusseldorf,Dusseldorf Airport,DUS,6.76558,51.278327,5.16,7.73
+tilburg,Eindhoven Airport,EIN,5.391795,51.457953,23.68,35.52
+rome,Fiumicino,FCO,12.250346,41.794594,22.16,33.25
+frankfurt,Frankfurt Airport,FRA,8.573678,50.048952,10.34,15.51
+genoa,Genova Sestri,GOA,8.85081,44.415066,6.53,9.79
+gothenburg,Göteborg Landvetter Airport,GOT,12.294878,57.666643,19.98,29.97
+hannover,Hannover Airport,HAJ,9.694766,52.459254,10.4,15.6
+hamburg,Hamburg Airport,HAM,10.006414,53.631279,9.05,13.57
+helsinki,Helsinki Airport,HEL,24.966449,60.317953,16.44,24.66
+krakow,Kraków John Paul II International Airport,KRK,19.793744,50.075491,10.36,15.54
+leipzig,Leipzig Halle,LEJ,12.221202,51.420262,13.91,20.87
+milan,Linate,LIN,9.279157,45.460958,6.98,10.48
+lisbon,Lisbon Airport,LIS,-9.128165,38.770043,5.32,7.99
+ljubljana,Ljubljana,LJU,14.454972,46.23102,20.36,30.54
+luxembourg,Luxembourg Airport,LUX,6.209539,49.631113,5.99,8.99
+lyon,Lyon–Saint-Exupéry Airport,LYS,5.080334,45.721426,19.14,28.71
+madrid,Barajas,MAD,-3.564479,40.49027,14.3,21.45
+marseille,Marseille Provence Airport,MRS,5.222137,43.44178,20.1,30.16
+munich,Munich Airport,MUC,11.790143,48.353005,28.78,43.16
+milan,Milan Malpensa Airport,MXP,8.71237,45.627405,41.25,61.88
+naples,Naples International Airport,NAP,14.291667,40.886111,6.84,10.26
+dusseldorf,Niederrhein,NRN,6.150168,51.599286,59.87,89.8
+nuremberg,Nuremberg Airport,NUE,11.077062,49.494168,4.48,6.72
+stockholm,Skavsta,NYO,16.922866,58.784247,89.25,133.87
+paris,Orly Airport,ORY,2.3597,48.728283,14.29,21.43
+bucharest,Henri Coandă International Airport,OTP,26.077063,44.571155,15.56,23.35
+poznan,Lawica,POZ,16.828845,52.414327,7.14,10.71
+prague,Václav Havel Airport Prague,PRG,14.266638,50.106188,11.23,16.85
+dusseldorf,Dusseldorf Hauptbahnhof,QDU,6.773333,51.207500,2.95,4.43
+cologne,Cologne Railway,QKL,7.183,50.9,16.64,24.96
+berlin,Berlin Hauptbahnhof,QPP,13.36963,52.52493,2.46,3.68
+warsaw,Radom Airport,RDO,21.213611,51.389167,94.53,141.79
+riga,Riga International Airport,RIX,23.979806,56.92208,8.24,12.36
+rotterdam,Rotterdam The Hague Airport,RTM,4.433606,51.948949,4.53,6.79
+sofia,Sofia Airport,SOF,23.414431,42.688342,7.02,10.53
+stuttgart,Stuttgart Airport,STR,9.193624,48.690732,9.7,14.55
+sevilla,Seville Airport,SVQ,-5.900136,37.423476,8.77,13.15
+berlin,Berlin Schönefeld Airport,SXF,13.521388,52.370278,18.42,27.63
+tallinn,Tallinn,TLL,24.798703,59.416622,3.79,5.68
+toulouse,Toulouse–Blagnac Airport,TLS,1.374321,43.630071,6.29,9.43
+turin,Turin Airport,TRN,7.643049,45.191455,12.75,19.12
+vienna,Vienna International Airport,VIE,16.563583,48.11972,17.26,25.89
+valencia,Valencia Arport,VLC,-0.473475,39.491792,8.68,13.01
+vilnius,Vilnius Airport,VNO,25.279605,54.643079,4.91,7.36
+stockholm,Vasteras,VST,16.630556,59.589167,86.23,129.35
+warsaw,Warsaw Chopin Airport,WAW,20.973289,52.170906,7.06,10.59
+lyon,Lyon Part-Dieu Railway,XYD,5.151667,46.235278,58.07,87.11
+zagreb,Zagreb Airport,ZAG,16.061519,45.733242,11.01,16.52
+zaragoza,Zaragoza Ab,ZAZ,-1.007466,41.663862,10.43,15.64
+stuttgart,Stuttgart Railway Station,ZWS,9.181667,48.783611,0.69,1.04
+amsterdam,Amsterdam Centraal,ZYA,4.9003,52.3791,0.84,1.25
+brussels,Brussels Gare du Midi,ZYR,4.335556,50.836945,1.61,2.41
