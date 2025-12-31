@@ -1,0 +1,2276 @@
+origin_id,destination_id,origin_name,destination_name,min_duration_minutes,transfers,trains,check_date
+8103000,8000261,Wien Hbf,München Hbf,253,2,,2026-01-06
+8103000,8002549,Wien Hbf,Hamburg Hbf,524,2,,2026-01-06
+8103000,8003368,Wien Hbf,Köln Messe/Deutz Gl.11-12,481,2,,2026-01-06
+8103000,8000105,Wien Hbf,Frankfurt(Main)Hbf,384,0,,2026-01-06
+8103000,8000085,Wien Hbf,Düsseldorf Hbf,499,2,,2026-01-06
+8103000,8010205,Wien Hbf,Leipzig Hbf,378,4,,2026-01-06
+8103000,8000080,Wien Hbf,Dortmund Hbf,546,4,,2026-01-06
+8103000,8000098,Wien Hbf,Essen Hbf,525,2,,2026-01-06
+8103000,8000050,Wien Hbf,Bremen Hbf,514,4,,2026-01-06
+8103000,8010085,Wien Hbf,Dresden Hbf,400,4,,2026-01-06
+8103000,8000152,Wien Hbf,Hannover Hbf,439,2,,2026-01-06
+8103000,8000284,Wien Hbf,Nürnberg Hbf,252,0,,2026-01-06
+8103000,8000086,Wien Hbf,Duisburg Hbf,512,2,,2026-01-06
+8103000,8601242,Wien Hbf,Koebenhavns Lufthavn st,910,4,,2026-01-06
+8103000,7100064,Wien Hbf,Barcelona Sants,1195,8,,2026-01-06
+8103000,8700012,Wien Hbf,Paris Lyon Banlieue,714,6,,2026-01-06
+8103000,8700047,Wien Hbf,Bordeaux-St-Jean,1246,6,,2026-01-06
+8103000,8700074,Wien Hbf,Marseille-St-Charles,1236,8,,2026-01-06
+8103000,8700152,Wien Hbf,Lyon Part Dieu,991,8,,2026-01-06
+8103000,8700065,Wien Hbf,Toulouse-Matabiau,1160,8,,2026-01-06
+8103000,7800020,Wien Hbf,Zagreb Glavni kolodvor,421,6,,2026-01-06
+8103000,5500728,Wien Hbf,Budapest-Nyugati,187,1,,2026-01-06
+8103000,8300262,Wien Hbf,Roma Tiburtina,691,6,,2026-01-06
+8103000,8300047,Wien Hbf,Milano Porta Garibaldi Passante,602,4,,2026-01-06
+8103000,8300522,Wien Hbf,Torino Porta Susa,676,6,,2026-01-06
+8103000,8300153,Wien Hbf,Genova Piazza Principe,732,6,,2026-01-06
+8103000,8200100,Wien Hbf,Luxembourg,637,6,,2026-01-06
+8103000,8400597,Wien Hbf,Tilburg,652,8,,2026-01-06
+8103000,8400058,Wien Hbf,Amsterdam Centraal,712,8,,2026-01-06
+8103000,8400530,Wien Hbf,Rotterdam Centraal,691,8,,2026-01-06
+8103000,5100065,Wien Hbf,Warszawa Centralna,474,2,,2026-01-06
+8103000,5100028,Wien Hbf,Krakow Glowny,320,0,,2026-01-06
+8103000,5100069,Wien Hbf,Wroclaw Glowny,316,0,,2026-01-06
+8103000,5100081,Wien Hbf,Poznan Glowny,434,6,,2026-01-06
+8103000,7400002,Wien Hbf,Stockholm Central,1303,4,,2026-01-06
+8103000,7900003,Wien Hbf,Ljubljana,316,2,,2026-01-06
+8103000,5600207,Wien Hbf,Bratislava hl.st.,56,0,,2026-01-06
+8800004,8103000,Bruxelles Midi,Wien Hbf,622,2,,2026-01-06
+8800004,8800007,Bruxelles Midi,Antwerpen Centraal,34,0,,2026-01-06
+8800004,5400014,Bruxelles Midi,Praha hl.n.,656,8,,2026-01-06
+8800004,8011160,Bruxelles Midi,Berlin Hbf,390,2,,2026-01-06
+8800004,8000096,Bruxelles Midi,Stuttgart Hbf,248,2,,2026-01-06
+8800004,8000261,Bruxelles Midi,München Hbf,375,2,,2026-01-06
+8800004,8002549,Bruxelles Midi,Hamburg Hbf,349,2,,2026-01-06
+8800004,8003368,Bruxelles Midi,Köln Messe/Deutz,119,2,,2026-01-06
+8800004,8000105,Bruxelles Midi,Frankfurt(Main)Hbf,182,0,,2026-01-06
+8800004,8000085,Bruxelles Midi,Düsseldorf Hbf,142,2,,2026-01-06
+8800004,8010205,Bruxelles Midi,Leipzig Hbf,399,8,,2026-01-06
+8800004,8000080,Bruxelles Midi,Dortmund Hbf,191,2,,2026-01-06
+8800004,8000098,Bruxelles Midi,Essen Hbf,168,2,,2026-01-06
+8800004,8000050,Bruxelles Midi,Bremen Hbf,325,2,,2026-01-06
+8800004,8010085,Bruxelles Midi,Dresden Hbf,492,4,,2026-01-06
+8800004,8000152,Bruxelles Midi,Hannover Hbf,294,2,,2026-01-06
+8800004,8000284,Bruxelles Midi,Nürnberg Hbf,333,4,,2026-01-06
+8800004,8000086,Bruxelles Midi,Duisburg Hbf,155,2,,2026-01-06
+8800004,8601242,Bruxelles Midi,Koebenhavns Lufthavn st,723,6,,2026-01-06
+8800004,7100064,Bruxelles Midi,Barcelona Sants,546,2,,2026-01-06
+8800004,8700012,Bruxelles Midi,Paris Lyon Banlieue,114,4,,2026-01-06
+8800004,8700047,Bruxelles Midi,Bordeaux-St-Jean,271,2,,2026-01-06
+8103000,8800004,Wien Hbf,Bruxelles Midi,622,2,,2026-01-06
+8103000,8800007,Wien Hbf,Antwerpen Centraal,653,4,,2026-01-06
+8103000,8800004,,,-1,0,,2026-01-06
+8103000,8800007,,,-1,0,,2026-01-06
+8103000,5400014,Wien Hbf,Praha hl.n.,253,0,,2026-01-06
+8103000,8011160,Wien Hbf,Berlin Hbf,429,2,,2026-01-06
+8103000,8000096,Wien Hbf,Stuttgart Hbf,391,2,,2026-01-06
+8103000,8000261,Wien Hbf,München Hbf,253,2,,2026-01-06
+8103000,8002549,Wien Hbf,Hamburg Hbf,524,2,,2026-01-06
+8103000,8003368,Wien Hbf,Köln Messe/Deutz Gl.11-12,481,2,,2026-01-06
+8103000,8000105,Wien Hbf,Frankfurt(Main)Hbf,384,0,,2026-01-06
+8103000,8000085,Wien Hbf,Düsseldorf Hbf,499,2,,2026-01-06
+8103000,8010205,Wien Hbf,Leipzig Hbf,378,4,,2026-01-06
+8103000,8000080,Wien Hbf,Dortmund Hbf,546,4,,2026-01-06
+8103000,8000098,Wien Hbf,Essen Hbf,525,2,,2026-01-06
+8103000,8000050,Wien Hbf,Bremen Hbf,514,4,,2026-01-06
+8103000,8010085,Wien Hbf,Dresden Hbf,400,4,,2026-01-06
+8103000,8000152,Wien Hbf,Hannover Hbf,439,2,,2026-01-06
+8103000,8000284,Wien Hbf,Nürnberg Hbf,252,0,,2026-01-06
+8103000,8000086,Wien Hbf,Duisburg Hbf,512,2,,2026-01-06
+8103000,8601242,Wien Hbf,Koebenhavns Lufthavn st,910,4,,2026-01-06
+8103000,8800004,Wien Hbf,Bruxelles Midi,622,2,,2026-01-06
+8103000,8800007,Wien Hbf,Antwerpen Centraal,653,4,,2026-01-06
+8103000,5400014,Wien Hbf,Praha hl.n.,253,0,,2026-01-06
+8103000,8011160,Wien Hbf,Berlin Hbf,429,2,,2026-01-06
+8103000,8000096,Wien Hbf,Stuttgart Hbf,391,2,,2026-01-06
+8103000,8000261,Wien Hbf,München Hbf,253,2,,2026-01-06
+8103000,8002549,Wien Hbf,Hamburg Hbf,524,2,,2026-01-06
+8103000,8003368,Wien Hbf,Köln Messe/Deutz Gl.11-12,481,2,,2026-01-06
+8103000,8000105,Wien Hbf,Frankfurt(Main)Hbf,384,0,,2026-01-06
+8103000,8000085,Wien Hbf,Düsseldorf Hbf,499,2,,2026-01-06
+8103000,8010205,Wien Hbf,Leipzig Hbf,378,4,,2026-01-06
+8103000,8000080,Wien Hbf,Dortmund Hbf,546,4,,2026-01-06
+8103000,8000098,Wien Hbf,Essen Hbf,525,2,,2026-01-06
+8103000,8000050,Wien Hbf,Bremen Hbf,514,4,,2026-01-06
+8103000,8010085,Wien Hbf,Dresden Hbf,400,4,,2026-01-06
+8103000,8000152,Wien Hbf,Hannover Hbf,439,2,,2026-01-06
+8103000,8000284,Wien Hbf,Nürnberg Hbf,252,0,,2026-01-06
+8103000,8000086,Wien Hbf,Duisburg Hbf,512,2,,2026-01-06
+8103000,8601242,Wien Hbf,Koebenhavns Lufthavn st,910,4,,2026-01-06
+8103000,7100064,Wien Hbf,Barcelona Sants,1195,8,,2026-01-06
+8103000,8700012,Wien Hbf,Paris Lyon Banlieue,714,6,,2026-01-06
+8103000,8700047,Wien Hbf,Bordeaux-St-Jean,1246,6,,2026-01-06
+8103000,8700074,Wien Hbf,Marseille-St-Charles,1236,8,,2026-01-06
+8103000,8700152,Wien Hbf,Lyon Part Dieu,991,8,,2026-01-06
+8103000,8700065,Wien Hbf,Toulouse-Matabiau,1160,8,,2026-01-06
+8103000,7800020,Wien Hbf,Zagreb Glavni kolodvor,421,6,,2026-01-06
+8103000,5500728,Wien Hbf,Budapest-Nyugati,187,1,,2026-01-06
+8103000,8300262,Wien Hbf,Roma Tiburtina,691,6,,2026-01-06
+8103000,8300047,Wien Hbf,Milano Porta Garibaldi Passante,602,4,,2026-01-06
+8103000,8300522,Wien Hbf,Torino Porta Susa,676,6,,2026-01-06
+8103000,8300153,Wien Hbf,Genova Piazza Principe,732,6,,2026-01-06
+8103000,8200100,Wien Hbf,Luxembourg,637,6,,2026-01-06
+8103000,8400597,Wien Hbf,Tilburg,652,8,,2026-01-06
+8103000,8400058,Wien Hbf,Amsterdam Centraal,712,8,,2026-01-06
+8103000,8400530,Wien Hbf,Rotterdam Centraal,691,8,,2026-01-06
+8103000,5100065,Wien Hbf,Warszawa Centralna,474,2,,2026-01-06
+8103000,5100028,Wien Hbf,Krakow Glowny,320,0,,2026-01-06
+8103000,5100069,Wien Hbf,Wroclaw Glowny,316,0,,2026-01-06
+8103000,5100081,Wien Hbf,Poznan Glowny,434,6,,2026-01-06
+8103000,7400002,Wien Hbf,Stockholm Central,1303,4,,2026-01-06
+8103000,7900003,Wien Hbf,Ljubljana,316,2,,2026-01-06
+8103000,5600207,Wien Hbf,Bratislava hl.st.,56,0,,2026-01-06
+8800004,8103000,Bruxelles Midi,Wien Hbf,622,2,,2026-01-06
+8800004,8800007,Bruxelles Midi,Antwerpen Centraal,34,0,,2026-01-06
+8800004,5400014,Bruxelles Midi,Praha hl.n.,656,8,,2026-01-06
+8800004,8011160,Bruxelles Midi,Berlin Hbf,390,2,,2026-01-06
+8800004,8000096,Bruxelles Midi,Stuttgart Hbf,248,2,,2026-01-06
+8800004,8000261,Bruxelles Midi,München Hbf,375,2,,2026-01-06
+8800004,8002549,Bruxelles Midi,Hamburg Hbf,349,2,,2026-01-06
+8800004,8003368,Bruxelles Midi,Köln Messe/Deutz,119,2,,2026-01-06
+8800004,8000105,Bruxelles Midi,Frankfurt(Main)Hbf,182,0,,2026-01-06
+8800004,8000085,Bruxelles Midi,Düsseldorf Hbf,142,2,,2026-01-06
+8800004,8010205,Bruxelles Midi,Leipzig Hbf,399,8,,2026-01-06
+8800004,8000080,Bruxelles Midi,Dortmund Hbf,191,2,,2026-01-06
+8800004,8000098,Bruxelles Midi,Essen Hbf,168,2,,2026-01-06
+8800004,8000050,Bruxelles Midi,Bremen Hbf,325,2,,2026-01-06
+8800004,8010085,Bruxelles Midi,Dresden Hbf,492,4,,2026-01-06
+8800004,8000152,Bruxelles Midi,Hannover Hbf,294,2,,2026-01-06
+8800004,8000284,Bruxelles Midi,Nürnberg Hbf,333,4,,2026-01-06
+8800004,8000086,Bruxelles Midi,Duisburg Hbf,155,2,,2026-01-06
+8800004,8601242,Bruxelles Midi,Koebenhavns Lufthavn st,723,6,,2026-01-06
+8800004,7100064,Bruxelles Midi,Barcelona Sants,546,2,,2026-01-06
+8800004,8700012,Bruxelles Midi,Paris Lyon Banlieue,114,4,,2026-01-06
+8800004,8700047,Bruxelles Midi,Bordeaux-St-Jean,271,2,,2026-01-06
+8800004,8700074,Bruxelles Midi,Marseille-St-Charles,341,2,,2026-01-06
+8800004,8700152,Bruxelles Midi,Lyon Part Dieu,223,0,,2026-01-06
+8800004,8700065,Bruxelles Midi,Toulouse-Matabiau,435,2,,2026-01-06
+8800004,7800020,Bruxelles Midi,Zagreb Glavni kolodvor,1088,4,,2026-01-06
+8800004,5500728,Bruxelles Midi,Budapest-Nyugati,864,5,,2026-01-06
+8800004,8300262,Bruxelles Midi,Roma Tiburtina,778,4,,2026-01-06
+8800004,8300047,Bruxelles Midi,Milano Porta Garibaldi,538,4,,2026-01-06
+8800004,8300522,Bruxelles Midi,Torino Porta Susa,453,2,,2026-01-06
+8800004,8300153,Bruxelles Midi,Genova Piazza Principe,588,4,,2026-01-06
+8800004,8200100,Bruxelles Midi,Luxembourg,197,0,,2026-01-06
+8800004,8400597,Bruxelles Midi,Tilburg,110,4,,2026-01-06
+8800004,8400058,Bruxelles Midi,Amsterdam Centraal,117,0,,2026-01-06
+8800004,8400530,Bruxelles Midi,Rotterdam Centraal,69,0,,2026-01-06
+8800004,5100065,Bruxelles Midi,Warszawa Centralna,755,4,,2026-01-06
+8800004,5100028,Bruxelles Midi,Krakow Glowny,859,4,,2026-01-06
+8800004,5100069,Bruxelles Midi,Wroclaw Glowny,683,4,,2026-01-06
+8800004,5100081,Bruxelles Midi,Poznan Glowny,608,4,,2026-01-06
+8800004,7400002,Bruxelles Midi,Stockholm Central,1171,4,,2026-01-06
+8800004,7900003,Bruxelles Midi,Ljubljana,833,6,,2026-01-06
+8800004,5600207,Bruxelles Midi,Bratislava hl.st.,705,4,,2026-01-06
+8800007,8103000,Antwerpen Centraal,Wien Hbf,653,4,,2026-01-06
+8800007,8800004,Antwerpen Centraal,Bruxelles Midi,33,0,,2026-01-06
+8800007,5400014,Antwerpen Centraal,Praha hl.n.,691,6,,2026-01-06
+8800007,8011160,Antwerpen Centraal,Berlin Hbf,421,4,,2026-01-06
+8800007,8000096,Antwerpen Centraal,Stuttgart Hbf,317,4,,2026-01-06
+8800007,8000261,Antwerpen Centraal,München Hbf,433,4,,2026-01-06
+8800007,8002549,Antwerpen Centraal,Hamburg Hbf,380,4,,2026-01-06
+8800007,8003368,Antwerpen Centraal,Köln Messe/Deutz,152,4,,2026-01-06
+8800007,8000105,Antwerpen Centraal,Frankfurt(Main)Hbf,213,2,,2026-01-06
+8800007,8000085,Antwerpen Centraal,Düsseldorf Hbf,173,4,,2026-01-06
+8800007,8010205,Antwerpen Centraal,Leipzig Hbf,435,4,,2026-01-06
+8800007,8000080,Antwerpen Centraal,Dortmund Hbf,236,6,,2026-01-06
+8800007,8000098,Antwerpen Centraal,Essen Hbf,209,8,,2026-01-06
+8800007,8000050,Antwerpen Centraal,Bremen Hbf,339,8,,2026-01-06
+8800007,8010085,Antwerpen Centraal,Dresden Hbf,523,6,,2026-01-06
+8800007,8000152,Antwerpen Centraal,Hannover Hbf,325,4,,2026-01-06
+8800007,8000284,Antwerpen Centraal,Nürnberg Hbf,364,4,,2026-01-06
+8800007,8000086,Antwerpen Centraal,Duisburg Hbf,189,4,,2026-01-06
+8800007,8601242,Antwerpen Centraal,Koebenhavns Lufthavn st,754,8,,2026-01-06
+8800007,7100064,Antwerpen Centraal,Barcelona Sants,590,4,,2026-01-06
+8800007,8700012,Antwerpen Centraal,Paris Lyon Banlieue,154,4,,2026-01-06
+8800007,8700047,Antwerpen Centraal,Bordeaux-St-Jean,313,2,,2026-01-06
+8800007,8700074,Antwerpen Centraal,Marseille-St-Charles,381,2,,2026-01-06
+8800007,8700152,Antwerpen Centraal,Lyon Part Dieu,289,2,,2026-01-06
+8800007,8700065,Antwerpen Centraal,Toulouse-Matabiau,475,2,,2026-01-06
+8800007,7800020,Antwerpen Centraal,Zagreb Glavni kolodvor,1145,6,,2026-01-06
+8800007,5500728,Antwerpen Centraal,Budapest-Nyugati,895,7,,2026-01-06
+8800007,8300262,Antwerpen Centraal,Roma Tiburtina,847,4,,2026-01-06
+8800007,8300047,,,-1,0,,2026-01-06
+8800007,8300522,,,-1,0,,2026-01-06
+8800007,8300153,,,-1,0,,2026-01-06
+8800007,8200100,,,-1,0,,2026-01-06
+8103000,8800004,,,-1,0,,2026-01-06
+8103000,8800007,,,-1,0,,2026-01-06
+8103000,5400014,,,-1,0,,2026-01-06
+8103000,8011160,,,-1,0,,2026-01-06
+8103000,8000096,Wien Hbf,Stuttgart Hbf,391,2,,2026-01-06
+8103000,8000261,Wien Hbf,München Hbf,253,2,,2026-01-06
+8103000,8002549,Wien Hbf,Hamburg Hbf,524,2,,2026-01-06
+8103000,8003368,Wien Hbf,Köln Messe/Deutz Gl.11-12,481,2,,2026-01-06
+8103000,8000105,Wien Hbf,Frankfurt(Main)Hbf,384,0,,2026-01-06
+8103000,8000085,Wien Hbf,Düsseldorf Hbf,499,2,,2026-01-06
+8103000,8010205,Wien Hbf,Leipzig Hbf,378,4,,2026-01-06
+8103000,8000080,Wien Hbf,Dortmund Hbf,546,4,,2026-01-06
+8103000,8000098,Wien Hbf,Essen Hbf,525,2,,2026-01-06
+8103000,8000050,Wien Hbf,Bremen Hbf,514,4,,2026-01-06
+8103000,8010085,Wien Hbf,Dresden Hbf,400,4,,2026-01-06
+8103000,8000152,Wien Hbf,Hannover Hbf,439,2,,2026-01-06
+8103000,8000284,Wien Hbf,Nürnberg Hbf,252,0,,2026-01-06
+8103000,8000086,Wien Hbf,Duisburg Hbf,512,2,,2026-01-06
+8103000,8601242,Wien Hbf,Koebenhavns Lufthavn st,910,4,,2026-01-06
+8103000,7100064,Wien Hbf,Barcelona Sants,1195,8,,2026-01-06
+8103000,8700012,Wien Hbf,Paris Lyon Banlieue,714,6,,2026-01-06
+8103000,8700047,Wien Hbf,Bordeaux-St-Jean,1246,6,,2026-01-06
+8103000,8700074,Wien Hbf,Marseille-St-Charles,1236,8,,2026-01-06
+8103000,8700152,Wien Hbf,Lyon Part Dieu,991,8,,2026-01-06
+8103000,8700065,Wien Hbf,Toulouse-Matabiau,1160,8,,2026-01-06
+8103000,7800020,Wien Hbf,Zagreb Glavni kolodvor,421,6,,2026-01-06
+8103000,5500728,Wien Hbf,Budapest-Nyugati,187,1,,2026-01-06
+8103000,8300262,Wien Hbf,Roma Tiburtina,691,6,,2026-01-06
+8103000,8300047,Wien Hbf,Milano Porta Garibaldi Passante,602,4,,2026-01-06
+8103000,8300522,Wien Hbf,Torino Porta Susa,676,6,,2026-01-06
+8103000,8300153,Wien Hbf,Genova Piazza Principe,732,6,,2026-01-06
+8103000,8200100,Wien Hbf,Luxembourg,637,6,,2026-01-06
+8103000,8400597,Wien Hbf,Tilburg,652,8,,2026-01-06
+8103000,8400058,Wien Hbf,Amsterdam Centraal,712,8,,2026-01-06
+8103000,8400530,Wien Hbf,Rotterdam Centraal,691,8,,2026-01-06
+8103000,5100065,Wien Hbf,Warszawa Centralna,474,2,,2026-01-06
+8103000,5100028,Wien Hbf,Krakow Glowny,320,0,,2026-01-06
+8103000,5100069,Wien Hbf,Wroclaw Glowny,316,0,,2026-01-06
+8103000,5100081,Wien Hbf,Poznan Glowny,434,6,,2026-01-06
+8103000,7400002,Wien Hbf,Stockholm Central,1303,4,,2026-01-06
+8103000,7900003,Wien Hbf,Ljubljana,316,2,,2026-01-06
+8103000,5600207,Wien Hbf,Bratislava hl.st.,56,0,,2026-01-06
+8800004,8103000,Bruxelles Midi,Wien Hbf,622,2,,2026-01-06
+8800004,8800007,Bruxelles Midi,Antwerpen Centraal,34,0,,2026-01-06
+8800004,5400014,Bruxelles Midi,Praha hl.n.,656,8,,2026-01-06
+8800004,8011160,Bruxelles Midi,Berlin Hbf,390,2,,2026-01-06
+8800004,8000096,Bruxelles Midi,Stuttgart Hbf,248,2,,2026-01-06
+8800004,8000261,Bruxelles Midi,München Hbf,375,2,,2026-01-06
+8800004,8002549,Bruxelles Midi,Hamburg Hbf,349,2,,2026-01-06
+8800004,8003368,Bruxelles Midi,Köln Messe/Deutz,119,2,,2026-01-06
+8800004,8000105,Bruxelles Midi,Frankfurt(Main)Hbf,182,0,,2026-01-06
+8800004,8000085,Bruxelles Midi,Düsseldorf Hbf,142,2,,2026-01-06
+8800004,8010205,Bruxelles Midi,Leipzig Hbf,399,8,,2026-01-06
+8800004,8000080,Bruxelles Midi,Dortmund Hbf,191,2,,2026-01-06
+8800004,8000098,Bruxelles Midi,Essen Hbf,168,2,,2026-01-06
+8800004,8000050,Bruxelles Midi,Bremen Hbf,325,2,,2026-01-06
+8800004,8010085,Bruxelles Midi,Dresden Hbf,492,4,,2026-01-06
+8800004,8000152,Bruxelles Midi,Hannover Hbf,294,2,,2026-01-06
+8800004,8000284,Bruxelles Midi,Nürnberg Hbf,333,4,,2026-01-06
+8800004,8000086,Bruxelles Midi,Duisburg Hbf,155,2,,2026-01-06
+8800004,8601242,Bruxelles Midi,Koebenhavns Lufthavn st,723,6,,2026-01-06
+8800004,7100064,Bruxelles Midi,Barcelona Sants,546,2,,2026-01-06
+8800004,8700012,Bruxelles Midi,Paris Lyon Banlieue,114,4,,2026-01-06
+8800004,8700047,Bruxelles Midi,Bordeaux-St-Jean,271,2,,2026-01-06
+8800004,8700074,Bruxelles Midi,Marseille-St-Charles,341,2,,2026-01-06
+8800004,8700152,Bruxelles Midi,Lyon Part Dieu,223,0,,2026-01-06
+8800004,8700065,Bruxelles Midi,Toulouse-Matabiau,435,2,,2026-01-06
+8800004,7800020,Bruxelles Midi,Zagreb Glavni kolodvor,1088,4,,2026-01-06
+8800004,5500728,Bruxelles Midi,Budapest-Nyugati,864,5,,2026-01-06
+8800004,8300262,Bruxelles Midi,Roma Tiburtina,778,4,,2026-01-06
+8800004,8300047,Bruxelles Midi,Milano Porta Garibaldi,538,4,,2026-01-06
+8800004,8300522,Bruxelles Midi,Torino Porta Susa,453,2,,2026-01-06
+8800004,8300153,Bruxelles Midi,Genova Piazza Principe,588,4,,2026-01-06
+8800004,8200100,Bruxelles Midi,Luxembourg,197,0,,2026-01-06
+8800004,8400597,Bruxelles Midi,Tilburg,110,4,,2026-01-06
+8800004,8400058,Bruxelles Midi,Amsterdam Centraal,117,0,,2026-01-06
+8800004,8400530,Bruxelles Midi,Rotterdam Centraal,69,0,,2026-01-06
+8800004,5100065,Bruxelles Midi,Warszawa Centralna,755,4,,2026-01-06
+8800004,5100028,Bruxelles Midi,Krakow Glowny,859,4,,2026-01-06
+8800004,5100069,Bruxelles Midi,Wroclaw Glowny,683,4,,2026-01-06
+8800004,5100081,Bruxelles Midi,Poznan Glowny,608,4,,2026-01-06
+8800004,7400002,Bruxelles Midi,Stockholm Central,1171,4,,2026-01-06
+8800004,7900003,Bruxelles Midi,Ljubljana,833,6,,2026-01-06
+8800004,5600207,Bruxelles Midi,Bratislava hl.st.,705,4,,2026-01-06
+8800007,8103000,Antwerpen Centraal,Wien Hbf,653,4,,2026-01-06
+8800007,8800004,Antwerpen Centraal,Bruxelles Midi,33,0,,2026-01-06
+8800007,5400014,Antwerpen Centraal,Praha hl.n.,691,6,,2026-01-06
+8800007,8011160,Antwerpen Centraal,Berlin Hbf,421,4,,2026-01-06
+8800007,8000096,Antwerpen Centraal,Stuttgart Hbf,317,4,,2026-01-06
+8800007,8000261,Antwerpen Centraal,München Hbf,433,4,,2026-01-06
+8800007,8002549,Antwerpen Centraal,Hamburg Hbf,380,4,,2026-01-06
+8800007,8003368,Antwerpen Centraal,Köln Messe/Deutz,152,4,,2026-01-06
+8800007,8000105,Antwerpen Centraal,Frankfurt(Main)Hbf,213,2,,2026-01-06
+8800007,8000085,Antwerpen Centraal,Düsseldorf Hbf,173,4,,2026-01-06
+8800007,8010205,Antwerpen Centraal,Leipzig Hbf,435,4,,2026-01-06
+8800007,8000080,Antwerpen Centraal,Dortmund Hbf,236,6,,2026-01-06
+8800007,8000098,Antwerpen Centraal,Essen Hbf,209,8,,2026-01-06
+8800007,8000050,Antwerpen Centraal,Bremen Hbf,339,8,,2026-01-06
+8800007,8010085,Antwerpen Centraal,Dresden Hbf,523,6,,2026-01-06
+8800007,8000152,Antwerpen Centraal,Hannover Hbf,325,4,,2026-01-06
+8800007,8000284,Antwerpen Centraal,Nürnberg Hbf,364,4,,2026-01-06
+8800007,8000086,Antwerpen Centraal,Duisburg Hbf,189,4,,2026-01-06
+8800007,8601242,Antwerpen Centraal,Koebenhavns Lufthavn st,754,8,,2026-01-06
+8800007,7100064,Antwerpen Centraal,Barcelona Sants,590,4,,2026-01-06
+8800007,8700012,Antwerpen Centraal,Paris Lyon Banlieue,154,4,,2026-01-06
+8800007,8700047,Antwerpen Centraal,Bordeaux-St-Jean,313,2,,2026-01-06
+8800007,8700074,Antwerpen Centraal,Marseille-St-Charles,381,2,,2026-01-06
+8800007,8700152,Antwerpen Centraal,Lyon Part Dieu,289,2,,2026-01-06
+8800007,8700065,Antwerpen Centraal,Toulouse-Matabiau,475,2,,2026-01-06
+8800007,7800020,Antwerpen Centraal,Zagreb Glavni kolodvor,1145,6,,2026-01-06
+8800007,5500728,Antwerpen Centraal,Budapest-Nyugati,895,7,,2026-01-06
+8800007,8300262,Antwerpen Centraal,Roma Tiburtina,847,4,,2026-01-06
+8800007,8300047,Antwerpen Centraal,Milano Porta Garibaldi,601,4,,2026-01-06
+8800007,8300522,Antwerpen Centraal,Torino Porta Susa,522,2,,2026-01-06
+8800007,8300153,Antwerpen Centraal,Genova Piazza Principe,657,4,,2026-01-06
+8800007,8200100,Antwerpen Centraal,Luxembourg,235,2,,2026-01-06
+8800007,8400597,Antwerpen Centraal,Tilburg,58,2,,2026-01-06
+8800007,8400058,Antwerpen Centraal,Amsterdam Centraal,80,0,,2026-01-06
+8800007,8400530,Antwerpen Centraal,Rotterdam Centraal,32,0,,2026-01-06
+8800007,5100065,Antwerpen Centraal,Warszawa Centralna,745,8,,2026-01-06
+8800007,5100028,Antwerpen Centraal,Krakow Glowny,1020,6,,2026-01-06
+8800007,5100069,Antwerpen Centraal,Wroclaw Glowny,740,6,,2026-01-06
+8800007,5100081,Antwerpen Centraal,Poznan Glowny,598,8,,2026-01-06
+8800007,7400002,Antwerpen Centraal,Stockholm Central,1166,6,,2026-01-06
+8800007,7900003,Antwerpen Centraal,Ljubljana,924,6,,2026-01-06
+8800007,5600207,Antwerpen Centraal,Bratislava hl.st.,736,6,,2026-01-06
+5400014,8103000,Praha hl.n.,Wien Hbf,252,2,,2026-01-06
+5400014,8800004,Praha hl.n.,Bruxelles Midi,660,8,,2026-01-06
+5400014,8800007,Praha hl.n.,Antwerpen Centraal,695,6,,2026-01-06
+5400014,8011160,Praha hl.n.,Berlin Hbf,237,0,,2026-01-06
+5400014,8000096,Praha hl.n.,Stuttgart Hbf,447,4,,2026-01-06
+5400014,8000261,Praha hl.n.,München Hbf,341,0,,2026-01-06
+5400014,8002549,Praha hl.n.,Hamburg Hbf,400,2,,2026-01-06
+5400014,8003368,Praha hl.n.,Köln Messe/Deutz Gl.11-12,519,4,,2026-01-06
+5400014,8000105,Praha hl.n.,Frankfurt(Main)Hbf,433,4,,2026-01-06
+5400014,8000085,Praha hl.n.,Düsseldorf Hbf,519,2,,2026-01-06
+5400014,8010205,Praha hl.n.,Leipzig Hbf,240,2,,2026-01-06
+5400014,8000080,Praha hl.n.,Dortmund Hbf,460,2,,2026-01-06
+5400014,8000098,Praha hl.n.,Essen Hbf,486,2,,2026-01-06
+5400014,8000050,Praha hl.n.,Bremen Hbf,439,4,,2026-01-06
+5400014,8010085,Praha hl.n.,Dresden Hbf,139,0,,2026-01-06
+5400014,8000152,Praha hl.n.,Hannover Hbf,357,2,,2026-01-06
+5400014,8000284,Praha hl.n.,Nürnberg Hbf,280,2,,2026-01-06
+5400014,8000086,Praha hl.n.,Duisburg Hbf,500,2,,2026-01-06
+5400014,8601242,Praha hl.n.,Koebenhavns Lufthavn st,892,2,,2026-01-06
+5400014,7100064,Praha hl.n.,Barcelona Sants,1492,6,,2026-01-06
+5400014,8700012,Praha hl.n.,Paris Lyon Banlieue,921,6,,2026-01-06
+5400014,8700047,Praha hl.n.,Bordeaux-St-Jean,1063,6,,2026-01-06
+5400014,8700074,Praha hl.n.,Marseille-St-Charles,1123,6,,2026-01-06
+5400014,8700152,Praha hl.n.,Lyon Part Dieu,988,6,,2026-01-06
+5400014,8700065,Praha hl.n.,Toulouse-Matabiau,1244,8,,2026-01-06
+5400014,7800020,Praha hl.n.,Zagreb Glavni kolodvor,719,4,,2026-01-06
+5400014,5500728,Praha hl.n.,Budapest-Nyugati,411,0,,2026-01-06
+5400014,8300262,Praha hl.n.,Roma Tiburtina,993,8,,2026-01-06
+5400014,8300047,Praha hl.n.,Milano Porta Garibaldi Passante,868,6,,2026-01-06
+5400014,8300522,Praha hl.n.,Torino Porta Susa,1067,8,,2026-01-06
+5400014,8300153,Praha hl.n.,Genova Piazza Principe,1183,8,,2026-01-06
+5400014,8200100,,,-1,0,,2026-01-06
+5400014,8400597,,,-1,0,,2026-01-06
+5400014,8400058,,,-1,0,,2026-01-06
+5400014,8400530,,,-1,0,,2026-01-06
+5400014,5100065,,,-1,0,,2026-01-06
+5400014,5100028,,,-1,0,,2026-01-06
+5400014,5100069,,,-1,0,,2026-01-06
+5400014,5100081,,,-1,0,,2026-01-06
+5400014,7400002,,,-1,0,,2026-01-06
+5400014,7900003,Praha hl.n.,Ljubljana,615,6,,2026-01-06
+5400014,5600207,Praha hl.n.,Bratislava hl.st.,265,0,,2026-01-06
+8011160,8103000,Berlin Hbf,Wien Hbf,431,2,,2026-01-06
+8011160,8800004,Berlin Hbf,Bruxelles Midi,391,2,,2026-01-06
+8011160,8800007,Berlin Hbf,Antwerpen Centraal,422,4,,2026-01-06
+8011160,5400014,Berlin Hbf,Praha hl.n.,237,0,,2026-01-06
+8011160,8000096,Berlin Hbf,Stuttgart Hbf,317,2,,2026-01-06
+8011160,8000261,Berlin Hbf,München Hbf,235,0,,2026-01-06
+8011160,8002549,Berlin Hbf,Hamburg Hbf,148,0,,2026-01-06
+8011160,8003368,Berlin Hbf,Köln Messe/Deutz,251,2,,2026-01-06
+8011160,8000105,Berlin Hbf,Frankfurt(Main)Hbf,231,0,,2026-01-06
+8011160,8000085,Berlin Hbf,Düsseldorf Hbf,254,2,,2026-01-06
+8011160,8010205,Berlin Hbf,Leipzig Hbf,75,0,,2026-01-06
+8011160,8000080,Berlin Hbf,Dortmund Hbf,204,0,,2026-01-06
+8011160,8000098,Berlin Hbf,Essen Hbf,229,0,,2026-01-06
+8011160,8000050,Berlin Hbf,Bremen Hbf,164,0,,2026-01-06
+8011160,8010085,Berlin Hbf,Dresden Hbf,99,0,,2026-01-06
+8011160,8000152,Berlin Hbf,Hannover Hbf,93,0,,2026-01-06
+8011160,8000284,Berlin Hbf,Nürnberg Hbf,166,0,,2026-01-06
+8011160,8000086,Berlin Hbf,Duisburg Hbf,242,0,,2026-01-06
+8011160,8601242,Berlin Hbf,Koebenhavns Lufthavn st,500,4,,2026-01-06
+8011160,7100064,Berlin Hbf,Barcelona Sants,1024,4,,2026-01-06
+8011160,8700012,Berlin Hbf,Paris Lyon Banlieue,531,6,,2026-01-06
+8011160,8700047,Berlin Hbf,Bordeaux-St-Jean,673,6,,2026-01-06
+8011160,8700074,Berlin Hbf,Marseille-St-Charles,730,4,,2026-01-06
+8011160,8700152,Berlin Hbf,Lyon Part Dieu,622,4,,2026-01-06
+8011160,8700065,Berlin Hbf,Toulouse-Matabiau,1068,8,,2026-01-06
+8011160,7800020,Berlin Hbf,Zagreb Glavni kolodvor,894,4,,2026-01-06
+8011160,5500728,Berlin Hbf,Budapest-Nyugati,660,2,,2026-01-06
+8011160,8300262,Berlin Hbf,Roma Tiburtina,973,6,,2026-01-06
+8011160,8300047,Berlin Hbf,Milano Porta Garibaldi,722,8,,2026-01-06
+8011160,8300522,Berlin Hbf,Torino Porta Susa,833,6,,2026-01-06
+8011160,8300153,Berlin Hbf,Genova Piazza Principe,836,6,,2026-01-06
+8011160,8200100,Berlin Hbf,Luxembourg,499,4,,2026-01-06
+8011160,8400597,Berlin Hbf,Tilburg,370,2,,2026-01-06
+8011160,8400058,Berlin Hbf,Amsterdam Centraal,344,0,,2026-01-06
+8011160,8400530,Berlin Hbf,Rotterdam Centraal,369,4,,2026-01-06
+8011160,5100065,Berlin Hbf,Warszawa Centralna,306,2,,2026-01-06
+8011160,5100028,Berlin Hbf,Krakow Glowny,412,0,,2026-01-06
+8011160,5100069,Berlin Hbf,Wroclaw Glowny,241,0,,2026-01-06
+8011160,5100081,Berlin Hbf,Poznan Glowny,161,0,,2026-01-06
+8011160,7400002,Berlin Hbf,Stockholm Central,810,6,,2026-01-06
+8011160,7900003,Berlin Hbf,Ljubljana,642,6,,2026-01-06
+8011160,5600207,Berlin Hbf,Bratislava hl.st.,514,2,,2026-01-06
+8000096,8103000,Stuttgart Hbf,Wien Hbf,394,2,,2026-01-06
+8000096,8800004,Stuttgart Hbf,Bruxelles Midi,286,2,,2026-01-06
+8000096,8800007,Stuttgart Hbf,Antwerpen Centraal,317,4,,2026-01-06
+8000096,5400014,Stuttgart Hbf,Praha hl.n.,441,4,,2026-01-06
+8000096,8011160,Stuttgart Hbf,Berlin Hbf,314,2,,2026-01-06
+8000096,8000261,Stuttgart Hbf,München Hbf,117,0,,2026-01-06
+8000096,8002549,Stuttgart Hbf,Hamburg Hbf,306,0,,2026-01-06
+8000096,8003368,Stuttgart Hbf,Köln Messe/Deutz Gl.11-12,123,0,,2026-01-06
+8000096,8000105,Stuttgart Hbf,Frankfurt(Main)Hbf,77,0,,2026-01-06
+8000096,8000085,Stuttgart Hbf,Düsseldorf Hbf,147,0,,2026-01-06
+8000096,8010205,Stuttgart Hbf,Leipzig Hbf,262,4,,2026-01-06
+8000096,8000080,Stuttgart Hbf,Dortmund Hbf,202,0,,2026-01-06
+8000096,8000098,Stuttgart Hbf,Essen Hbf,176,0,,2026-01-06
+8000096,8000050,Stuttgart Hbf,Bremen Hbf,316,2,,2026-01-06
+8000096,8010085,Stuttgart Hbf,Dresden Hbf,334,4,,2026-01-06
+8000096,8000152,Stuttgart Hbf,Hannover Hbf,222,0,,2026-01-06
+8000096,8000284,Stuttgart Hbf,Nürnberg Hbf,129,0,,2026-01-06
+8000096,8000086,Stuttgart Hbf,Duisburg Hbf,163,0,,2026-01-06
+8000096,8601242,Stuttgart Hbf,Koebenhavns Lufthavn st,665,4,,2026-01-06
+8000096,7100064,Stuttgart Hbf,Barcelona Sants,742,2,,2026-01-06
+8000096,8700012,Stuttgart Hbf,Paris Lyon Banlieue,232,2,,2026-01-06
+8000096,8700047,Stuttgart Hbf,Bordeaux-St-Jean,382,2,,2026-01-06
+8000096,8700074,Stuttgart Hbf,Marseille-St-Charles,457,2,,2026-01-06
+8000096,8700152,Stuttgart Hbf,Lyon Part Dieu,351,4,,2026-01-06
+8000096,8700065,Stuttgart Hbf,Toulouse-Matabiau,528,2,,2026-01-06
+8000096,7800020,Stuttgart Hbf,Zagreb Glavni kolodvor,742,2,,2026-01-06
+8000096,5500728,Stuttgart Hbf,Budapest-Nyugati,591,5,,2026-01-06
+8000096,8300262,Stuttgart Hbf,Roma Tiburtina,626,4,,2026-01-06
+8000096,8300047,Stuttgart Hbf,Milano Porta Garibaldi,413,4,,2026-01-06
+8000096,8300522,Stuttgart Hbf,Torino Porta Susa,496,6,,2026-01-06
+8000096,8300153,Stuttgart Hbf,Genova Piazza Principe,493,6,,2026-01-06
+8000096,8200100,Stuttgart Hbf,Luxembourg,203,2,,2026-01-06
+8000096,8400597,Stuttgart Hbf,Tilburg,316,8,,2026-01-06
+8000096,8400058,Stuttgart Hbf,Amsterdam Centraal,303,2,,2026-01-06
+8000096,8400530,Stuttgart Hbf,Rotterdam Centraal,314,4,,2026-01-06
+8000096,5100065,Stuttgart Hbf,Warszawa Centralna,651,4,,2026-01-06
+8000096,5100028,Stuttgart Hbf,Krakow Glowny,732,4,,2026-01-06
+8000096,5100069,Stuttgart Hbf,Wroclaw Glowny,501,4,,2026-01-06
+8000096,5100081,Stuttgart Hbf,Poznan Glowny,504,4,,2026-01-06
+8000096,7400002,Stuttgart Hbf,Stockholm Central,1069,4,,2026-01-06
+8000096,7900003,Stuttgart Hbf,Ljubljana,491,2,,2026-01-06
+8000096,5600207,Stuttgart Hbf,Bratislava hl.st.,475,6,,2026-01-06
+8000261,8103000,München Hbf,Wien Hbf,256,2,,2026-01-06
+8000261,8800004,München Hbf,Bruxelles Midi,403,2,,2026-01-06
+8000261,8800007,München Hbf,Antwerpen Centraal,434,4,,2026-01-06
+8000261,5400014,München Hbf,Praha hl.n.,337,0,,2026-01-06
+8000261,8011160,München Hbf,Berlin Hbf,232,0,,2026-01-06
+8000261,8000096,München Hbf,Stuttgart Hbf,118,0,,2026-01-06
+8000261,8002549,München Hbf,Hamburg Hbf,335,0,,2026-01-06
+8000261,8003368,München Hbf,Köln Messe/Deutz Gl.11-12,250,0,,2026-01-06
+8000261,8000105,München Hbf,Frankfurt(Main)Hbf,202,2,,2026-01-06
+8000261,8000085,München Hbf,Düsseldorf Hbf,274,0,,2026-01-06
+8000261,8010205,München Hbf,Leipzig Hbf,184,2,,2026-01-06
+8000261,8000080,München Hbf,Dortmund Hbf,328,0,,2026-01-06
+8000261,8000098,München Hbf,Essen Hbf,303,0,,2026-01-06
+8000261,8000050,,,-1,0,,2026-01-06
+8000261,8010085,,,-1,0,,2026-01-06
+8000261,8000152,,,-1,0,,2026-01-06
+8000261,8000284,,,-1,0,,2026-01-06
+8000261,8000086,,,-1,0,,2026-01-06
+8000261,8601242,,,-1,0,,2026-01-06
+8000261,7100064,,,-1,0,,2026-01-06
+8000261,8700012,,,-1,0,,2026-01-06
+8103000,8800004,Wien Hbf,Bruxelles Midi,622,2,,2026-01-06
+8103000,8800007,Wien Hbf,Antwerpen Centraal,653,4,,2026-01-06
+8103000,5400014,Wien Hbf,Praha hl.n.,253,0,,2026-01-06
+8103000,8011160,Wien Hbf,Berlin Hbf,429,2,,2026-01-06
+8103000,8000096,Wien Hbf,Stuttgart Hbf,391,2,,2026-01-06
+8103000,8000261,Wien Hbf,München Hbf,253,2,,2026-01-06
+8103000,8002549,Wien Hbf,Hamburg Hbf,524,2,,2026-01-06
+8103000,8003368,Wien Hbf,Köln Messe/Deutz Gl.11-12,481,2,,2026-01-06
+8103000,8000105,Wien Hbf,Frankfurt(Main)Hbf,384,0,,2026-01-06
+8103000,8000085,Wien Hbf,Düsseldorf Hbf,499,2,,2026-01-06
+8103000,8010205,Wien Hbf,Leipzig Hbf,378,4,,2026-01-06
+8103000,8000080,Wien Hbf,Dortmund Hbf,546,4,,2026-01-06
+8103000,8000098,Wien Hbf,Essen Hbf,525,2,,2026-01-06
+8103000,8000050,Wien Hbf,Bremen Hbf,514,4,,2026-01-06
+8103000,8010085,Wien Hbf,Dresden Hbf,400,4,,2026-01-06
+8103000,8000152,Wien Hbf,Hannover Hbf,439,2,,2026-01-06
+8103000,8000284,Wien Hbf,Nürnberg Hbf,252,0,,2026-01-06
+8103000,8000086,Wien Hbf,Duisburg Hbf,512,2,,2026-01-06
+8103000,8601242,Wien Hbf,Koebenhavns Lufthavn st,910,4,,2026-01-06
+8103000,7100064,Wien Hbf,Barcelona Sants,1195,8,,2026-01-06
+8103000,8700012,Wien Hbf,Paris Lyon Banlieue,714,6,,2026-01-06
+8103000,8700047,Wien Hbf,Bordeaux-St-Jean,1246,6,,2026-01-06
+8103000,8700074,Wien Hbf,Marseille-St-Charles,1236,8,,2026-01-06
+8103000,8700152,Wien Hbf,Lyon Part Dieu,991,8,,2026-01-06
+8103000,8700065,Wien Hbf,Toulouse-Matabiau,1160,8,,2026-01-06
+8103000,7800020,Wien Hbf,Zagreb Glavni kolodvor,421,6,,2026-01-06
+8103000,5500728,Wien Hbf,Budapest-Nyugati,187,1,,2026-01-06
+8103000,8300262,Wien Hbf,Roma Tiburtina,691,6,,2026-01-06
+8103000,8300047,Wien Hbf,Milano Porta Garibaldi Passante,602,4,,2026-01-06
+8103000,8300522,Wien Hbf,Torino Porta Susa,676,6,,2026-01-06
+8103000,8300153,Wien Hbf,Genova Piazza Principe,732,6,,2026-01-06
+8103000,8200100,Wien Hbf,Luxembourg,637,6,,2026-01-06
+8103000,8400597,Wien Hbf,Tilburg,652,8,,2026-01-06
+8103000,8400058,Wien Hbf,Amsterdam Centraal,712,8,,2026-01-06
+8103000,8400530,Wien Hbf,Rotterdam Centraal,691,8,,2026-01-06
+8103000,5100065,Wien Hbf,Warszawa Centralna,474,2,,2026-01-06
+8103000,5100028,Wien Hbf,Krakow Glowny,320,0,,2026-01-06
+8103000,5100069,Wien Hbf,Wroclaw Glowny,316,0,,2026-01-06
+8103000,5100081,Wien Hbf,Poznan Glowny,434,6,,2026-01-06
+8103000,7400002,Wien Hbf,Stockholm Central,1303,4,,2026-01-06
+8103000,7900003,Wien Hbf,Ljubljana,316,2,,2026-01-06
+8103000,5600207,Wien Hbf,Bratislava hl.st.,56,0,,2026-01-06
+8800004,8103000,Bruxelles Midi,Wien Hbf,622,2,,2026-01-06
+8800004,8800007,Bruxelles Midi,Antwerpen Centraal,34,0,,2026-01-06
+8800004,5400014,Bruxelles Midi,Praha hl.n.,656,8,,2026-01-06
+8800004,8011160,Bruxelles Midi,Berlin Hbf,390,2,,2026-01-06
+8800004,8000096,Bruxelles Midi,Stuttgart Hbf,248,2,,2026-01-06
+8800004,8000261,Bruxelles Midi,München Hbf,375,2,,2026-01-06
+8800004,8002549,Bruxelles Midi,Hamburg Hbf,349,2,,2026-01-06
+8800004,8003368,Bruxelles Midi,Köln Messe/Deutz,119,2,,2026-01-06
+8800004,8000105,Bruxelles Midi,Frankfurt(Main)Hbf,182,0,,2026-01-06
+8800004,8000085,Bruxelles Midi,Düsseldorf Hbf,142,2,,2026-01-06
+8800004,8010205,Bruxelles Midi,Leipzig Hbf,399,8,,2026-01-06
+8800004,8000080,Bruxelles Midi,Dortmund Hbf,191,2,,2026-01-06
+8800004,8000098,Bruxelles Midi,Essen Hbf,168,2,,2026-01-06
+8800004,8000050,Bruxelles Midi,Bremen Hbf,325,2,,2026-01-06
+8800004,8010085,Bruxelles Midi,Dresden Hbf,492,4,,2026-01-06
+8800004,8000152,Bruxelles Midi,Hannover Hbf,294,2,,2026-01-06
+8800004,8000284,Bruxelles Midi,Nürnberg Hbf,333,4,,2026-01-06
+8800004,8000086,Bruxelles Midi,Duisburg Hbf,155,2,,2026-01-06
+8800004,8601242,Bruxelles Midi,Koebenhavns Lufthavn st,723,6,,2026-01-06
+8800004,7100064,Bruxelles Midi,Barcelona Sants,546,2,,2026-01-06
+8800004,8700012,Bruxelles Midi,Paris Lyon Banlieue,114,4,,2026-01-06
+8800004,8700047,Bruxelles Midi,Bordeaux-St-Jean,271,2,,2026-01-06
+8800004,8700074,Bruxelles Midi,Marseille-St-Charles,341,2,,2026-01-06
+8800004,8700152,Bruxelles Midi,Lyon Part Dieu,223,0,,2026-01-06
+8800004,8700065,Bruxelles Midi,Toulouse-Matabiau,435,2,,2026-01-06
+8800004,7800020,Bruxelles Midi,Zagreb Glavni kolodvor,1088,4,,2026-01-06
+8800004,5500728,Bruxelles Midi,Budapest-Nyugati,864,5,,2026-01-06
+8800004,8300262,Bruxelles Midi,Roma Tiburtina,778,4,,2026-01-06
+8800004,8300047,Bruxelles Midi,Milano Porta Garibaldi,538,4,,2026-01-06
+8800004,8300522,Bruxelles Midi,Torino Porta Susa,453,2,,2026-01-06
+8800004,8300153,Bruxelles Midi,Genova Piazza Principe,588,4,,2026-01-06
+8800004,8200100,Bruxelles Midi,Luxembourg,197,0,,2026-01-06
+8800004,8400597,Bruxelles Midi,Tilburg,110,4,,2026-01-06
+8800004,8400058,Bruxelles Midi,Amsterdam Centraal,117,0,,2026-01-06
+8800004,8400530,Bruxelles Midi,Rotterdam Centraal,69,0,,2026-01-06
+8800004,5100065,Bruxelles Midi,Warszawa Centralna,755,4,,2026-01-06
+8800004,5100028,Bruxelles Midi,Krakow Glowny,859,4,,2026-01-06
+8800004,5100069,Bruxelles Midi,Wroclaw Glowny,683,4,,2026-01-06
+8800004,5100081,Bruxelles Midi,Poznan Glowny,608,4,,2026-01-06
+8800004,7400002,Bruxelles Midi,Stockholm Central,1171,4,,2026-01-06
+8800004,7900003,Bruxelles Midi,Ljubljana,833,6,,2026-01-06
+8800004,5600207,Bruxelles Midi,Bratislava hl.st.,705,4,,2026-01-06
+8800007,8103000,Antwerpen Centraal,Wien Hbf,653,4,,2026-01-06
+8800007,8800004,Antwerpen Centraal,Bruxelles Midi,33,0,,2026-01-06
+8800007,5400014,Antwerpen Centraal,Praha hl.n.,691,6,,2026-01-06
+8800007,8011160,Antwerpen Centraal,Berlin Hbf,421,4,,2026-01-06
+8800007,8000096,Antwerpen Centraal,Stuttgart Hbf,317,4,,2026-01-06
+8800007,8000261,Antwerpen Centraal,München Hbf,433,4,,2026-01-06
+8800007,8002549,Antwerpen Centraal,Hamburg Hbf,380,4,,2026-01-06
+8800007,8003368,Antwerpen Centraal,Köln Messe/Deutz,152,4,,2026-01-06
+8800007,8000105,Antwerpen Centraal,Frankfurt(Main)Hbf,213,2,,2026-01-06
+8800007,8000085,Antwerpen Centraal,Düsseldorf Hbf,173,4,,2026-01-06
+8800007,8010205,Antwerpen Centraal,Leipzig Hbf,435,4,,2026-01-06
+8800007,8000080,Antwerpen Centraal,Dortmund Hbf,236,6,,2026-01-06
+8800007,8000098,Antwerpen Centraal,Essen Hbf,209,8,,2026-01-06
+8800007,8000050,Antwerpen Centraal,Bremen Hbf,339,8,,2026-01-06
+8800007,8010085,Antwerpen Centraal,Dresden Hbf,523,6,,2026-01-06
+8800007,8000152,Antwerpen Centraal,Hannover Hbf,325,4,,2026-01-06
+8800007,8000284,Antwerpen Centraal,Nürnberg Hbf,364,4,,2026-01-06
+8800007,8000086,Antwerpen Centraal,Duisburg Hbf,189,4,,2026-01-06
+8800007,8601242,Antwerpen Centraal,Koebenhavns Lufthavn st,754,8,,2026-01-06
+8800007,7100064,Antwerpen Centraal,Barcelona Sants,590,4,,2026-01-06
+8800007,8700012,Antwerpen Centraal,Paris Lyon Banlieue,154,4,,2026-01-06
+8800007,8700047,Antwerpen Centraal,Bordeaux-St-Jean,313,2,,2026-01-06
+8800007,8700074,Antwerpen Centraal,Marseille-St-Charles,381,2,,2026-01-06
+8800007,8700152,Antwerpen Centraal,Lyon Part Dieu,289,2,,2026-01-06
+8800007,8700065,Antwerpen Centraal,Toulouse-Matabiau,475,2,,2026-01-06
+8800007,7800020,Antwerpen Centraal,Zagreb Glavni kolodvor,1145,6,,2026-01-06
+8800007,5500728,Antwerpen Centraal,Budapest-Nyugati,895,7,,2026-01-06
+8800007,8300262,Antwerpen Centraal,Roma Tiburtina,847,4,,2026-01-06
+8800007,8300047,Antwerpen Centraal,Milano Porta Garibaldi,601,4,,2026-01-06
+8800007,8300522,Antwerpen Centraal,Torino Porta Susa,522,2,,2026-01-06
+8800007,8300153,Antwerpen Centraal,Genova Piazza Principe,657,4,,2026-01-06
+8800007,8200100,Antwerpen Centraal,Luxembourg,235,2,,2026-01-06
+8800007,8400597,Antwerpen Centraal,Tilburg,58,2,,2026-01-06
+8800007,8400058,Antwerpen Centraal,Amsterdam Centraal,80,0,,2026-01-06
+8800007,8400530,Antwerpen Centraal,Rotterdam Centraal,32,0,,2026-01-06
+8800007,5100065,Antwerpen Centraal,Warszawa Centralna,745,8,,2026-01-06
+8800007,5100028,Antwerpen Centraal,Krakow Glowny,1020,6,,2026-01-06
+8800007,5100069,Antwerpen Centraal,Wroclaw Glowny,740,6,,2026-01-06
+8800007,5100081,Antwerpen Centraal,Poznan Glowny,598,8,,2026-01-06
+8800007,7400002,Antwerpen Centraal,Stockholm Central,1166,6,,2026-01-06
+8800007,7900003,Antwerpen Centraal,Ljubljana,924,6,,2026-01-06
+8800007,5600207,,,-1,0,,2026-01-06
+5400014,8103000,,,-1,0,,2026-01-06
+5400014,8800004,,,-1,0,,2026-01-06
+5400014,8800007,,,-1,0,,2026-01-06
+5400014,8011160,,,-1,0,,2026-01-06
+5400014,8000096,,,-1,0,,2026-01-06
+5400014,8000261,,,-1,0,,2026-01-06
+5400014,8002549,,,-1,0,,2026-01-06
+5400014,8003368,,,-1,0,,2026-01-06
+5400014,8000105,Praha hl.n.,Frankfurt(Main)Hbf,433,4,,2026-01-06
+5400014,8000085,Praha hl.n.,Düsseldorf Hbf,519,2,,2026-01-06
+5400014,8010205,Praha hl.n.,Leipzig Hbf,240,2,,2026-01-06
+5400014,8000080,Praha hl.n.,Dortmund Hbf,460,2,,2026-01-06
+5400014,8000098,Praha hl.n.,Essen Hbf,486,2,,2026-01-06
+5400014,8000050,Praha hl.n.,Bremen Hbf,439,4,,2026-01-06
+5400014,8010085,Praha hl.n.,Dresden Hbf,139,0,,2026-01-06
+5400014,8000152,Praha hl.n.,Hannover Hbf,357,2,,2026-01-06
+5400014,8000284,Praha hl.n.,Nürnberg Hbf,280,2,,2026-01-06
+5400014,8000086,Praha hl.n.,Duisburg Hbf,500,2,,2026-01-06
+5400014,8601242,Praha hl.n.,Koebenhavns Lufthavn st,892,2,,2026-01-06
+5400014,7100064,Praha hl.n.,Barcelona Sants,1492,6,,2026-01-06
+5400014,8700012,Praha hl.n.,Paris Lyon Banlieue,921,6,,2026-01-06
+5400014,8700047,Praha hl.n.,Bordeaux-St-Jean,1063,6,,2026-01-06
+5400014,8700074,Praha hl.n.,Marseille-St-Charles,1123,6,,2026-01-06
+5400014,8700152,Praha hl.n.,Lyon Part Dieu,988,6,,2026-01-06
+5400014,8700065,Praha hl.n.,Toulouse-Matabiau,1244,8,,2026-01-06
+5400014,7800020,Praha hl.n.,Zagreb Glavni kolodvor,719,4,,2026-01-06
+5400014,5500728,Praha hl.n.,Budapest-Nyugati,411,0,,2026-01-06
+5400014,8300262,Praha hl.n.,Roma Tiburtina,993,8,,2026-01-06
+5400014,8300047,Praha hl.n.,Milano Porta Garibaldi Passante,868,6,,2026-01-06
+5400014,8300522,Praha hl.n.,Torino Porta Susa,1067,8,,2026-01-06
+5400014,8300153,Praha hl.n.,Genova Piazza Principe,1183,8,,2026-01-06
+5400014,8200100,Praha hl.n.,Luxembourg,674,8,,2026-01-06
+5400014,8400597,Praha hl.n.,Tilburg,675,8,,2026-01-06
+5400014,8400058,Praha hl.n.,Amsterdam Centraal,658,4,,2026-01-06
+5400014,8400530,Praha hl.n.,Rotterdam Centraal,669,6,,2026-01-06
+5400014,5100065,Praha hl.n.,Warszawa Centralna,491,2,,2026-01-06
+5400014,5100028,Praha hl.n.,Krakow Glowny,349,2,,2026-01-06
+5400014,5100069,Praha hl.n.,Wroclaw Glowny,237,0,,2026-01-06
+5400014,5100081,Praha hl.n.,Poznan Glowny,335,2,,2026-01-06
+5400014,7400002,Praha hl.n.,Stockholm Central,1222,8,,2026-01-06
+5400014,7900003,Praha hl.n.,Ljubljana,615,6,,2026-01-06
+5400014,5600207,Praha hl.n.,Bratislava hl.st.,265,0,,2026-01-06
+8011160,8103000,Berlin Hbf,Wien Hbf,431,2,,2026-01-06
+8011160,8800004,Berlin Hbf,Bruxelles Midi,391,2,,2026-01-06
+8011160,8800007,Berlin Hbf,Antwerpen Centraal,422,4,,2026-01-06
+8011160,5400014,Berlin Hbf,Praha hl.n.,237,0,,2026-01-06
+8011160,8000096,Berlin Hbf,Stuttgart Hbf,317,2,,2026-01-06
+8011160,8000261,Berlin Hbf,München Hbf,235,0,,2026-01-06
+8011160,8002549,Berlin Hbf,Hamburg Hbf,148,0,,2026-01-06
+8011160,8003368,Berlin Hbf,Köln Messe/Deutz,251,2,,2026-01-06
+8011160,8000105,Berlin Hbf,Frankfurt(Main)Hbf,231,0,,2026-01-06
+8011160,8000085,Berlin Hbf,Düsseldorf Hbf,254,2,,2026-01-06
+8011160,8010205,Berlin Hbf,Leipzig Hbf,75,0,,2026-01-06
+8011160,8000080,Berlin Hbf,Dortmund Hbf,204,0,,2026-01-06
+8011160,8000098,Berlin Hbf,Essen Hbf,229,0,,2026-01-06
+8011160,8000050,Berlin Hbf,Bremen Hbf,164,0,,2026-01-06
+8011160,8010085,Berlin Hbf,Dresden Hbf,99,0,,2026-01-06
+8011160,8000152,Berlin Hbf,Hannover Hbf,93,0,,2026-01-06
+8011160,8000284,Berlin Hbf,Nürnberg Hbf,166,0,,2026-01-06
+8011160,8000086,Berlin Hbf,Duisburg Hbf,242,0,,2026-01-06
+8011160,8601242,Berlin Hbf,Koebenhavns Lufthavn st,500,4,,2026-01-06
+8011160,7100064,Berlin Hbf,Barcelona Sants,1024,4,,2026-01-06
+8011160,8700012,Berlin Hbf,Paris Lyon Banlieue,531,6,,2026-01-06
+8011160,8700047,Berlin Hbf,Bordeaux-St-Jean,673,6,,2026-01-06
+8011160,8700074,Berlin Hbf,Marseille-St-Charles,730,4,,2026-01-06
+8011160,8700152,Berlin Hbf,Lyon Part Dieu,622,4,,2026-01-06
+8011160,8700065,Berlin Hbf,Toulouse-Matabiau,1068,8,,2026-01-06
+8011160,7800020,Berlin Hbf,Zagreb Glavni kolodvor,894,4,,2026-01-06
+8011160,5500728,Berlin Hbf,Budapest-Nyugati,660,2,,2026-01-06
+8011160,8300262,Berlin Hbf,Roma Tiburtina,973,6,,2026-01-06
+8011160,8300047,Berlin Hbf,Milano Porta Garibaldi,722,8,,2026-01-06
+8011160,8300522,Berlin Hbf,Torino Porta Susa,833,6,,2026-01-06
+8011160,8300153,Berlin Hbf,Genova Piazza Principe,836,6,,2026-01-06
+8011160,8200100,Berlin Hbf,Luxembourg,499,4,,2026-01-06
+8011160,8400597,Berlin Hbf,Tilburg,370,2,,2026-01-06
+8011160,8400058,Berlin Hbf,Amsterdam Centraal,344,0,,2026-01-06
+8011160,8400530,Berlin Hbf,Rotterdam Centraal,369,4,,2026-01-06
+8011160,5100065,Berlin Hbf,Warszawa Centralna,306,2,,2026-01-06
+8011160,5100028,Berlin Hbf,Krakow Glowny,412,0,,2026-01-06
+8011160,5100069,Berlin Hbf,Wroclaw Glowny,241,0,,2026-01-06
+8011160,5100081,Berlin Hbf,Poznan Glowny,161,0,,2026-01-06
+8011160,7400002,Berlin Hbf,Stockholm Central,810,6,,2026-01-06
+8011160,7900003,Berlin Hbf,Ljubljana,642,6,,2026-01-06
+8011160,5600207,Berlin Hbf,Bratislava hl.st.,514,2,,2026-01-06
+8000096,8103000,Stuttgart Hbf,Wien Hbf,394,2,,2026-01-06
+8000096,8800004,Stuttgart Hbf,Bruxelles Midi,286,2,,2026-01-06
+8000096,8800007,Stuttgart Hbf,Antwerpen Centraal,317,4,,2026-01-06
+8000096,5400014,Stuttgart Hbf,Praha hl.n.,441,4,,2026-01-06
+8000096,8011160,Stuttgart Hbf,Berlin Hbf,314,2,,2026-01-06
+8000096,8000261,Stuttgart Hbf,München Hbf,117,0,,2026-01-06
+8000096,8002549,Stuttgart Hbf,Hamburg Hbf,306,0,,2026-01-06
+8000096,8003368,Stuttgart Hbf,Köln Messe/Deutz Gl.11-12,123,0,,2026-01-06
+8000096,8000105,Stuttgart Hbf,Frankfurt(Main)Hbf,77,0,,2026-01-06
+8000096,8000085,Stuttgart Hbf,Düsseldorf Hbf,147,0,,2026-01-06
+8000096,8010205,Stuttgart Hbf,Leipzig Hbf,262,4,,2026-01-06
+8000096,8000080,Stuttgart Hbf,Dortmund Hbf,202,0,,2026-01-06
+8000096,8000098,Stuttgart Hbf,Essen Hbf,176,0,,2026-01-06
+8000096,8000050,Stuttgart Hbf,Bremen Hbf,316,2,,2026-01-06
+8000096,8010085,Stuttgart Hbf,Dresden Hbf,334,4,,2026-01-06
+8000096,8000152,Stuttgart Hbf,Hannover Hbf,222,0,,2026-01-06
+8000096,8000284,Stuttgart Hbf,Nürnberg Hbf,129,0,,2026-01-06
+8000096,8000086,Stuttgart Hbf,Duisburg Hbf,163,0,,2026-01-06
+8000096,8601242,Stuttgart Hbf,Koebenhavns Lufthavn st,665,4,,2026-01-06
+8000096,7100064,Stuttgart Hbf,Barcelona Sants,742,2,,2026-01-06
+8000096,8700012,Stuttgart Hbf,Paris Lyon Banlieue,232,2,,2026-01-06
+8000096,8700047,Stuttgart Hbf,Bordeaux-St-Jean,382,2,,2026-01-06
+8000096,8700074,Stuttgart Hbf,Marseille-St-Charles,457,2,,2026-01-06
+8000096,8700152,Stuttgart Hbf,Lyon Part Dieu,351,4,,2026-01-06
+8000096,8700065,Stuttgart Hbf,Toulouse-Matabiau,528,2,,2026-01-06
+8000096,7800020,Stuttgart Hbf,Zagreb Glavni kolodvor,742,2,,2026-01-06
+8000096,5500728,Stuttgart Hbf,Budapest-Nyugati,591,5,,2026-01-06
+8000096,8300262,Stuttgart Hbf,Roma Tiburtina,626,4,,2026-01-06
+8000096,8300047,Stuttgart Hbf,Milano Porta Garibaldi,413,4,,2026-01-06
+8000096,8300522,Stuttgart Hbf,Torino Porta Susa,496,6,,2026-01-06
+8000096,8300153,Stuttgart Hbf,Genova Piazza Principe,493,6,,2026-01-06
+8000096,8200100,Stuttgart Hbf,Luxembourg,203,2,,2026-01-06
+8000096,8400597,Stuttgart Hbf,Tilburg,316,8,,2026-01-06
+8000096,8400058,Stuttgart Hbf,Amsterdam Centraal,303,2,,2026-01-06
+8000096,8400530,Stuttgart Hbf,Rotterdam Centraal,314,4,,2026-01-06
+8000096,5100065,Stuttgart Hbf,Warszawa Centralna,651,4,,2026-01-06
+8000096,5100028,Stuttgart Hbf,Krakow Glowny,732,4,,2026-01-06
+8000096,5100069,Stuttgart Hbf,Wroclaw Glowny,501,4,,2026-01-06
+8000096,5100081,Stuttgart Hbf,Poznan Glowny,504,4,,2026-01-06
+8000096,7400002,Stuttgart Hbf,Stockholm Central,1069,4,,2026-01-06
+8000096,7900003,Stuttgart Hbf,Ljubljana,491,2,,2026-01-06
+8000096,5600207,Stuttgart Hbf,Bratislava hl.st.,475,6,,2026-01-06
+8000261,8103000,München Hbf,Wien Hbf,256,2,,2026-01-06
+8000261,8800004,München Hbf,Bruxelles Midi,403,2,,2026-01-06
+8000261,8800007,München Hbf,Antwerpen Centraal,434,4,,2026-01-06
+8000261,5400014,München Hbf,Praha hl.n.,337,0,,2026-01-06
+8000261,8011160,München Hbf,Berlin Hbf,232,0,,2026-01-06
+8000261,8000096,München Hbf,Stuttgart Hbf,118,0,,2026-01-06
+8000261,8002549,München Hbf,Hamburg Hbf,335,0,,2026-01-06
+8000261,8003368,München Hbf,Köln Messe/Deutz Gl.11-12,250,0,,2026-01-06
+8000261,8000105,München Hbf,Frankfurt(Main)Hbf,202,2,,2026-01-06
+8000261,8000085,München Hbf,Düsseldorf Hbf,274,0,,2026-01-06
+8000261,8010205,München Hbf,Leipzig Hbf,184,2,,2026-01-06
+8000261,8000080,München Hbf,Dortmund Hbf,328,0,,2026-01-06
+8000261,8000098,München Hbf,Essen Hbf,303,0,,2026-01-06
+8000261,8000050,München Hbf,Bremen Hbf,323,2,,2026-01-06
+8000261,8010085,München Hbf,Dresden Hbf,256,2,,2026-01-06
+8000261,8000152,München Hbf,Hannover Hbf,250,0,,2026-01-06
+8000261,8000284,München Hbf,Nürnberg Hbf,63,0,,2026-01-06
+8000261,8000086,München Hbf,Duisburg Hbf,290,0,,2026-01-06
+8000261,8601242,München Hbf,Koebenhavns Lufthavn st,696,6,,2026-01-06
+8000261,7100064,München Hbf,Barcelona Sants,864,6,,2026-01-06
+8000261,8700012,München Hbf,Paris Lyon Banlieue,387,4,,2026-01-06
+8000261,8700047,München Hbf,Bordeaux-St-Jean,528,4,,2026-01-06
+8000261,8700074,München Hbf,Marseille-St-Charles,618,2,,2026-01-06
+8000261,8700152,München Hbf,Lyon Part Dieu,481,4,,2026-01-06
+8000261,8700065,München Hbf,Toulouse-Matabiau,710,8,,2026-01-06
+8000261,7800020,München Hbf,Zagreb Glavni kolodvor,544,0,,2026-01-06
+8000261,5500728,München Hbf,Budapest-Nyugati,453,5,,2026-01-06
+8000261,8300262,München Hbf Gl.5-10,Roma Tiburtina,547,2,,2026-01-06
+8000261,8300047,München Hbf Gl.27-36,Milano Porta Garibaldi,456,6,,2026-01-06
+8000261,8300522,München Hbf Gl.27-36,Torino Porta Susa,526,8,,2026-01-06
+8000261,8300153,München Hbf,Genova Piazza Principe,548,4,,2026-01-06
+8000261,8200100,München Hbf,Luxembourg,350,4,,2026-01-06
+8000261,8400597,München Hbf,Tilburg,433,6,,2026-01-06
+8000261,8400058,München Hbf,Amsterdam Centraal,430,2,,2026-01-06
+8000261,8400530,München Hbf,Rotterdam Centraal,441,4,,2026-01-06
+8000261,5100065,München Hbf,Warszawa Centralna,568,4,,2026-01-06
+8000261,5100028,München Hbf Gl.5-10,Krakow Glowny,594,4,,2026-01-06
+8000261,5100069,München Hbf,Wroclaw Glowny,423,4,,2026-01-06
+8000261,5100081,München Hbf,Poznan Glowny,423,2,,2026-01-06
+8000261,7400002,München Hbf,Stockholm Central,1116,2,,2026-01-06
+8000261,7900003,München Hbf,Ljubljana,353,2,,2026-01-06
+8000261,5600207,München Hbf,Bratislava hl.st.,323,4,,2026-01-06
+8002549,8103000,Hamburg Hbf,Wien Hbf,526,2,,2026-01-06
+8002549,8800004,Hamburg Hbf,Bruxelles Midi,383,2,,2026-01-06
+8002549,8800007,Hamburg Hbf,Antwerpen Centraal,401,8,,2026-01-06
+8002549,5400014,Hamburg Hbf,Praha hl.n.,444,4,,2026-01-06
+8002549,8011160,Hamburg Hbf,Berlin Hbf,151,0,,2026-01-06
+8002549,8000096,Hamburg Hbf,Stuttgart Hbf,309,0,,2026-01-06
+8002549,8000261,Hamburg Hbf,München Hbf,339,0,,2026-01-06
+8002549,8003368,Hamburg Hbf,Köln Messe/Deutz,254,4,,2026-01-06
+8002549,8000105,Hamburg Hbf,Frankfurt(Main)Hbf,215,0,,2026-01-06
+8002549,8000085,Hamburg Hbf,Düsseldorf Hbf,220,2,,2026-01-06
+8002549,8010205,Hamburg Hbf,Leipzig Hbf,237,0,,2026-01-06
+8002549,8000080,Hamburg Hbf,Dortmund Hbf,167,0,,2026-01-06
+8002549,8000098,Hamburg Hbf,Essen Hbf,193,2,,2026-01-06
+8002549,8000050,Hamburg Hbf,Bremen Hbf,56,0,,2026-01-06
+8002549,8010085,Hamburg Hbf,Dresden Hbf,306,4,,2026-01-06
+8002549,8000152,Hamburg Hbf,Hannover Hbf,75,0,,2026-01-06
+8002549,8000284,Hamburg Hbf,Nürnberg Hbf,264,0,,2026-01-06
+8002549,8000086,Hamburg Hbf,Duisburg Hbf,206,2,,2026-01-06
+8002549,8601242,Hamburg Hbf,Koebenhavns Lufthavn st,321,2,,2026-01-06
+8002549,7100064,Hamburg Hbf,Barcelona Sants,1025,4,,2026-01-06
+8002549,8700012,Hamburg Hbf,Paris Lyon Banlieue,503,4,,2026-01-06
+8002549,8700047,Hamburg Hbf,Bordeaux-St-Jean,645,4,,2026-01-06
+8002549,8700074,,,-1,0,,2026-01-06
+8002549,8700152,,,-1,0,,2026-01-06
+8002549,8700065,,,-1,0,,2026-01-06
+8002549,7800020,,,-1,0,,2026-01-06
+8002549,5500728,,,-1,0,,2026-01-06
+8002549,8300262,,,-1,0,,2026-01-06
+8002549,8300047,,,-1,0,,2026-01-06
+8002549,8300522,,,-1,0,,2026-01-06
+8002549,8300153,,,-1,0,,2026-01-06
+8002549,8200100,Hamburg Hbf,Luxembourg,434,2,,2026-01-06
+8002549,8400597,Hamburg Hbf,Tilburg,341,4,,2026-01-06
+8002549,8400058,Hamburg Hbf,Amsterdam Centraal,315,2,,2026-01-06
+8002549,8400530,Hamburg Hbf,Rotterdam Centraal,331,4,,2026-01-06
+8002549,5100065,Hamburg Hbf,Warszawa Centralna,488,2,,2026-01-06
+8002549,5100028,Hamburg Hbf,Krakow Glowny,595,2,,2026-01-06
+8002549,5100069,Hamburg Hbf,Wroclaw Glowny,419,2,,2026-01-06
+8002549,5100081,Hamburg Hbf,Poznan Glowny,341,2,,2026-01-06
+8002549,7400002,Hamburg Hbf,Stockholm Central,643,4,,2026-01-06
+8002549,7900003,Hamburg Hbf,Ljubljana,737,6,,2026-01-06
+8002549,5600207,Hamburg Hbf,Bratislava hl.st.,609,4,,2026-01-06
+8003368,8103000,Köln Messe/Deutz Gl.11-12,Wien Hbf,436,2,,2026-01-06
+8003368,8800004,Köln Messe/Deutz,Bruxelles Midi,124,2,,2026-01-06
+8003368,8800007,Köln Messe/Deutz,Antwerpen Centraal,155,4,,2026-01-06
+8003368,5400014,Köln Messe/Deutz Gl.11-12,Praha hl.n.,516,4,,2026-01-06
+8003368,8011160,Köln Messe/Deutz,Berlin Hbf,261,2,,2026-01-06
+8003368,8000096,Köln Messe/Deutz Gl.11-12,Stuttgart Hbf,122,0,,2026-01-06
+8003368,8000261,Köln Messe/Deutz Gl.11-12,München Hbf,249,0,,2026-01-06
+8003368,8002549,Köln Messe/Deutz Gl.11-12,Hamburg Hbf,222,2,,2026-01-06
+8003368,8000105,Köln Messe/Deutz Gl.11-12,Frankfurt(Main)Hbf,66,0,,2026-01-06
+8003368,8000085,Köln Messe/Deutz Gl.11-12,Düsseldorf Hbf,19,0,,2026-01-06
+8003368,8010205,Köln Messe/Deutz Gl.11-12,Leipzig Hbf,259,4,,2026-01-06
+8003368,8000080,Köln Messe/Deutz,Dortmund Hbf,80,2,,2026-01-06
+8003368,8000098,Köln Messe/Deutz Gl.11-12,Essen Hbf,45,0,,2026-01-06
+8003368,8000050,Köln Messe/Deutz,Bremen Hbf,193,2,,2026-01-06
+8003368,8010085,Köln Messe/Deutz Gl.11-12,Dresden Hbf,345,2,,2026-01-06
+8003368,8000152,Köln Messe/Deutz,Hannover Hbf,165,2,,2026-01-06
+8003368,8000284,Köln Messe/Deutz Gl.11-12,Nürnberg Hbf,193,0,,2026-01-06
+8003368,8000086,Köln Messe/Deutz Gl.11-12,Duisburg Hbf,32,0,,2026-01-06
+8003368,8601242,Köln Messe/Deutz Gl.11-12,Koebenhavns Lufthavn st,596,6,,2026-01-06
+8003368,7100064,Köln Messe/Deutz,Barcelona Sants,712,6,,2026-01-06
+8003368,8700012,Köln Messe/Deutz,Paris Lyon Banlieue,250,6,,2026-01-06
+8003368,8700047,Köln Messe/Deutz,Bordeaux-St-Jean,407,4,,2026-01-06
+8003368,8700074,Köln Messe/Deutz,Marseille-St-Charles,510,4,,2026-01-06
+8003368,8700152,Köln Messe/Deutz,Lyon Part Dieu,389,4,,2026-01-06
+8003368,8700065,Köln Messe/Deutz,Toulouse-Matabiau,561,4,,2026-01-06
+8003368,7800020,Köln Messe/Deutz,Zagreb Glavni kolodvor,849,4,,2026-01-06
+8003368,5500728,Köln Messe/Deutz Gl.11-12,Budapest-Nyugati,678,5,,2026-01-06
+8003368,8300262,Köln Messe/Deutz Gl.11-12,Roma Tiburtina,729,8,,2026-01-06
+8003368,8300047,Köln Messe/Deutz Gl.11-12,Milano Porta Garibaldi,524,8,,2026-01-06
+8003368,8300522,Köln Messe/Deutz Gl.11-12,Torino Porta Susa,604,8,,2026-01-06
+8003368,8300153,Köln Messe/Deutz Gl.11-12,Genova Piazza Principe,613,8,,2026-01-06
+8003368,8200100,Köln Messe/Deutz,Luxembourg,222,4,,2026-01-06
+8003368,8400597,Köln Messe/Deutz,Tilburg,166,6,,2026-01-06
+8003368,8400058,Köln Messe/Deutz,Amsterdam Centraal,172,2,,2026-01-06
+8003368,8400530,Köln Messe/Deutz,Rotterdam Centraal,183,4,,2026-01-06
+8003368,5100065,Köln Messe/Deutz,Warszawa Centralna,623,8,,2026-01-06
+8003368,5100028,Köln Messe/Deutz,Krakow Glowny,697,4,,2026-01-06
+8003368,5100069,Köln Messe/Deutz Gl.11-12,Wroclaw Glowny,512,4,,2026-01-06
+8003368,5100081,Köln Messe/Deutz,Poznan Glowny,478,6,,2026-01-06
+8003368,7400002,Köln Messe/Deutz,Stockholm Central,930,6,,2026-01-06
+8003368,7900003,Köln Messe/Deutz Gl.11-12,Ljubljana,665,4,,2026-01-06
+8003368,5600207,Köln Messe/Deutz Gl.11-12,Bratislava hl.st.,519,4,,2026-01-06
+8000105,8103000,Frankfurt(Main)Hbf,Wien Hbf,362,0,,2026-01-06
+8000105,8800004,Frankfurt(Main)Hbf,Bruxelles Midi,181,0,,2026-01-06
+8000105,8800007,Frankfurt(Main)Hbf,Antwerpen Centraal,212,2,,2026-01-06
+8000105,5400014,Frankfurt(Main)Hbf,Praha hl.n.,430,4,,2026-01-06
+8000105,8011160,Frankfurt(Main)Hbf,Berlin Hbf,232,0,,2026-01-06
+8000105,8000096,Frankfurt(Main)Hbf,Stuttgart Hbf,78,0,,2026-01-06
+8000105,8000261,Frankfurt(Main)Hbf,München Hbf,189,0,,2026-01-06
+8000105,8002549,Frankfurt(Main)Hbf,Hamburg Hbf,215,0,,2026-01-06
+8000105,8003368,Frankfurt(Main)Hbf,Köln Messe/Deutz Gl.11-12,66,0,,2026-01-06
+8000105,8000085,Frankfurt(Main)Hbf,Düsseldorf Hbf,88,0,,2026-01-06
+8000105,8010205,Frankfurt(Main)Hbf,Leipzig Hbf,174,0,,2026-01-06
+8000105,8000080,Frankfurt(Main)Hbf,Dortmund Hbf,149,2,,2026-01-06
+8000105,8000098,Frankfurt(Main)Hbf,Essen Hbf,118,0,,2026-01-06
+8000105,8000050,Frankfurt(Main)Hbf,Bremen Hbf,228,2,,2026-01-06
+8000105,8010085,Frankfurt(Main)Hbf,Dresden Hbf,264,0,,2026-01-06
+8000105,8000152,Frankfurt(Main)Hbf,Hannover Hbf,134,0,,2026-01-06
+8000105,8000284,Frankfurt(Main)Hbf,Nürnberg Hbf,121,0,,2026-01-06
+8000105,8000086,Frankfurt(Main)Hbf,Duisburg Hbf,105,0,,2026-01-06
+8000105,8601242,Frankfurt(Main)Hbf,Koebenhavns Lufthavn st,582,4,,2026-01-06
+8000105,7100064,Frankfurt(Main)Hbf,Barcelona Sants,750,4,,2026-01-06
+8000105,8700012,Frankfurt(Main)Hbf,Paris Lyon Banlieue,264,4,,2026-01-06
+8000105,8700047,Frankfurt(Main)Hbf,Bordeaux-St-Jean,414,4,,2026-01-06
+8000105,8700074,Frankfurt(Main)Hbf,Marseille-St-Charles,464,0,,2026-01-06
+8000105,8700152,Frankfurt(Main)Hbf,Lyon Part Dieu,362,2,,2026-01-06
+8000105,8700065,Frankfurt(Main)Hbf,Toulouse-Matabiau,560,4,,2026-01-06
+8000105,7800020,Frankfurt(Main)Hbf,Zagreb Glavni kolodvor,803,4,,2026-01-06
+8000105,5500728,Frankfurt(Main)Hbf,Budapest-Nyugati,579,7,,2026-01-06
+8000105,8300262,Frankfurt(Main)Hbf,Roma Tiburtina,679,9,,2026-01-06
+8000105,8300047,Frankfurt(Main)Hbf,Milano Porta Garibaldi,459,8,,2026-01-06
+8000105,8300522,Frankfurt(Main)Hbf,Torino Porta Susa,549,8,,2026-01-06
+8000105,8300153,Frankfurt(Main)Hbf,Genova Piazza Principe,564,6,,2026-01-06
+8000105,8200100,Frankfurt(Main)Hbf,Luxembourg,235,4,,2026-01-06
+8000105,8400597,Frankfurt(Main)Hbf,Tilburg,237,6,,2026-01-06
+8000105,8400058,Frankfurt(Main)Hbf,Amsterdam Centraal,235,0,,2026-01-06
+8000105,8400530,Frankfurt(Main)Hbf,Rotterdam Centraal,246,2,,2026-01-06
+8000105,5100065,Frankfurt(Main)Hbf,Warszawa Centralna,583,4,,2026-01-06
+8000105,5100028,Frankfurt(Main)Hbf,Krakow Glowny,662,2,,2026-01-06
+8000105,5100069,Frankfurt(Main)Hbf,Wroclaw Glowny,431,2,,2026-01-06
+8000105,5100081,Frankfurt(Main)Hbf,Poznan Glowny,438,2,,2026-01-06
+8000105,7400002,Frankfurt(Main)Hbf,Stockholm Central,889,6,,2026-01-06
+8000105,7900003,Frankfurt(Main)Hbf,Ljubljana,552,4,,2026-01-06
+8000105,5600207,Frankfurt(Main)Hbf,Bratislava hl.st.,445,2,,2026-01-06
+8000085,8103000,Düsseldorf Hbf,Wien Hbf,461,2,,2026-01-06
+8000085,8800004,Düsseldorf Hbf,Bruxelles Midi,156,2,,2026-01-06
+8000085,8800007,Düsseldorf Hbf,Antwerpen Centraal,188,4,,2026-01-06
+8000085,5400014,Düsseldorf Hbf,Praha hl.n.,539,4,,2026-01-06
+8000085,8011160,Düsseldorf Hbf,Berlin Hbf,254,2,,2026-01-06
+8000085,8000096,Düsseldorf Hbf,Stuttgart Hbf,147,0,,2026-01-06
+8000085,8000261,Düsseldorf Hbf,München Hbf,274,0,,2026-01-06
+8000085,8002549,Düsseldorf Hbf,Hamburg Hbf,193,0,,2026-01-06
+8000085,8003368,Düsseldorf Hbf,Köln Messe/Deutz Gl.11-12,20,0,,2026-01-06
+8000085,8000105,Düsseldorf Hbf,Frankfurt(Main)Hbf,89,0,,2026-01-06
+8000085,8010205,Düsseldorf Hbf,Leipzig Hbf,282,4,,2026-01-06
+8000085,8000080,Düsseldorf Hbf,Dortmund Hbf,47,0,,2026-01-06
+8000085,8000098,Düsseldorf Hbf,Essen Hbf,24,0,,2026-01-06
+8000085,8000050,Düsseldorf Hbf,Bremen Hbf,160,0,,2026-01-06
+8000085,8010085,,,-1,0,,2026-01-06
+8000085,8000152,,,-1,0,,2026-01-06
+8000085,8000284,,,-1,0,,2026-01-06
+8000085,8000086,,,-1,0,,2026-01-06
+8000085,8601242,,,-1,0,,2026-01-06
+8000085,7100064,,,-1,0,,2026-01-06
+8000085,8700012,,,-1,0,,2026-01-06
+8000085,8700047,,,-1,0,,2026-01-06
+8000085,8700074,,,-1,0,,2026-01-06
+8000085,8700152,Düsseldorf Hbf,Lyon Part Dieu,457,6,,2026-01-06
+8000085,8700065,Düsseldorf Hbf,Toulouse-Matabiau,589,4,,2026-01-06
+8000085,7800020,Düsseldorf Hbf,Zagreb Glavni kolodvor,880,4,,2026-01-06
+8000085,5500728,Düsseldorf Hbf,Budapest-Nyugati,703,5,,2026-01-06
+8000085,8300262,Düsseldorf Hbf,Roma Tiburtina,754,8,,2026-01-06
+8000085,8300047,Düsseldorf Hbf,Milano Porta Garibaldi,542,6,,2026-01-06
+8000085,8300522,Düsseldorf Hbf,Torino Porta Susa,617,8,,2026-01-06
+8000085,8300153,Düsseldorf Hbf,Genova Piazza Principe,638,8,,2026-01-06
+8000085,8200100,Düsseldorf Hbf,Luxembourg,236,4,,2026-01-06
+8000085,8400597,Düsseldorf Hbf,Tilburg,137,4,,2026-01-06
+8000085,8400058,Düsseldorf Hbf,Amsterdam Centraal,138,0,,2026-01-06
+8000085,8400530,Düsseldorf Hbf,Rotterdam Centraal,149,2,,2026-01-06
+8000085,5100065,Düsseldorf Hbf,Warszawa Centralna,586,6,,2026-01-06
+8000085,5100028,Düsseldorf Hbf,Krakow Glowny,698,2,,2026-01-06
+8000085,5100069,Düsseldorf Hbf,Wroclaw Glowny,522,2,,2026-01-06
+8000085,5100081,Düsseldorf Hbf,Poznan Glowny,441,4,,2026-01-06
+8000085,7400002,Düsseldorf Hbf,Stockholm Central,901,6,,2026-01-06
+8000085,7900003,Düsseldorf Hbf,Ljubljana,690,4,,2026-01-06
+8000085,5600207,Düsseldorf Hbf,Bratislava hl.st.,544,4,,2026-01-06
+8010205,8103000,Leipzig Hbf,Wien Hbf,380,4,,2026-01-06
+8010205,8800004,Leipzig Hbf,Bruxelles Midi,406,2,,2026-01-06
+8010205,8800007,Leipzig Hbf,Antwerpen Centraal,437,4,,2026-01-06
+8010205,5400014,Leipzig Hbf,Praha hl.n.,240,2,,2026-01-06
+8010205,8011160,Leipzig Hbf,Berlin Hbf,74,0,,2026-01-06
+8010205,8000096,Leipzig Hbf,Stuttgart Hbf,265,4,,2026-01-06
+8010205,8000261,Leipzig Hbf,München Hbf,187,0,,2026-01-06
+8010205,8002549,Leipzig Hbf,Hamburg Hbf,236,2,,2026-01-06
+8010205,8003368,Leipzig Hbf,Köln Messe/Deutz Gl.11-12,255,4,,2026-01-06
+8010205,8000105,Leipzig Hbf,Frankfurt(Main)Hbf,175,0,,2026-01-06
+8010205,8000085,Leipzig Hbf,Düsseldorf Hbf,277,4,,2026-01-06
+8010205,8000080,Leipzig Hbf,Dortmund Hbf,265,0,,2026-01-06
+8010205,8000098,Leipzig Hbf,Essen Hbf,294,2,,2026-01-06
+8010205,8000050,Leipzig Hbf,Bremen Hbf,244,2,,2026-01-06
+8010205,8010085,Leipzig Hbf,Dresden Hbf,65,0,,2026-01-06
+8010205,8000152,Leipzig Hbf,Hannover Hbf,161,0,,2026-01-06
+8010205,8000284,Leipzig Hbf,Nürnberg Hbf,115,2,,2026-01-06
+8010205,8000086,Leipzig Hbf,Duisburg Hbf,290,4,,2026-01-06
+8010205,8601242,Leipzig Hbf,Koebenhavns Lufthavn st,616,4,,2026-01-06
+8010205,7100064,Leipzig Hbf,Barcelona Sants,1192,6,,2026-01-06
+8010205,8700012,Leipzig Hbf,Paris Lyon Banlieue,481,4,,2026-01-06
+8010205,8700047,Leipzig Hbf,Bordeaux-St-Jean,625,6,,2026-01-06
+8010205,8700074,Leipzig Hbf,Marseille-St-Charles,657,2,,2026-01-06
+8010205,8700152,Leipzig Hbf,Lyon Part Dieu,549,2,,2026-01-06
+8010205,8700065,Leipzig Hbf,Toulouse-Matabiau,805,4,,2026-01-06
+8010205,7800020,Leipzig Hbf,Zagreb Glavni kolodvor,819,2,,2026-01-06
+8010205,5500728,Leipzig Hbf,Budapest-Nyugati,631,3,,2026-01-06
+8010205,8300262,Leipzig Hbf,Roma Tiburtina,799,4,,2026-01-06
+8010205,8300047,Leipzig Hbf,Milano Porta Garibaldi,640,8,,2026-01-06
+8010205,8300522,Leipzig Hbf,Torino Porta Susa,714,6,,2026-01-06
+8010205,8300153,Leipzig Hbf,Genova Piazza Principe,765,6,,2026-01-06
+8010205,8200100,Leipzig Hbf,Luxembourg,421,4,,2026-01-06
+8010205,8400597,Leipzig Hbf,Tilburg,436,8,,2026-01-06
+8010205,8400058,Leipzig Hbf,Amsterdam Centraal,439,2,,2026-01-06
+8010205,8400530,Leipzig Hbf,Rotterdam Centraal,461,4,,2026-01-06
+8010205,5100065,Leipzig Hbf,Warszawa Centralna,402,4,,2026-01-06
+8010205,5100028,Leipzig Hbf,Krakow Glowny,433,0,,2026-01-06
+8010205,5100069,Leipzig Hbf,Wroclaw Glowny,214,0,,2026-01-06
+8010205,5100081,Leipzig Hbf,Poznan Glowny,257,2,,2026-01-06
+8010205,7400002,Leipzig Hbf,Stockholm Central,1035,4,,2026-01-06
+8010205,7900003,Leipzig Hbf (tief),Ljubljana,632,6,,2026-01-06
+8010205,5600207,Leipzig Hbf,Bratislava hl.st.,472,2,,2026-01-06
+8000080,8103000,Dortmund Hbf,Wien Hbf,548,4,,2026-01-06
+8000080,8800004,Dortmund Hbf,Bruxelles Midi,225,2,,2026-01-06
+8000080,8800007,Dortmund Hbf,Antwerpen Centraal,237,6,,2026-01-06
+8000080,5400014,Dortmund Hbf,Praha hl.n.,459,2,,2026-01-06
+8000080,8011160,Dortmund Hbf,Berlin Hbf,210,0,,2026-01-06
+8000080,8000096,Dortmund Hbf,Stuttgart Hbf,215,2,,2026-01-06
+8000080,8000261,Dortmund Hbf,München Hbf,338,2,,2026-01-06
+8000080,8002549,Dortmund Hbf,Hamburg Hbf,170,0,,2026-01-06
+8000080,8003368,Dortmund Hbf,Köln Messe/Deutz,80,2,,2026-01-06
+8000080,8000105,Dortmund Hbf,Frankfurt(Main)Hbf,150,2,,2026-01-06
+8000080,8000085,Dortmund Hbf,Düsseldorf Hbf,54,0,,2026-01-06
+8000080,8010205,Dortmund Hbf,Leipzig Hbf,267,2,,2026-01-06
+8000080,8000098,Dortmund Hbf,Essen Hbf,22,0,,2026-01-06
+8000080,8000050,Dortmund Hbf,Bremen Hbf,109,0,,2026-01-06
+8000080,8010085,Dortmund Hbf,Dresden Hbf,321,2,,2026-01-06
+8000080,8000152,Dortmund Hbf,Hannover Hbf,102,0,,2026-01-06
+8000080,8000284,Dortmund Hbf,Nürnberg Hbf,277,2,,2026-01-06
+8000080,8000086,Dortmund Hbf,Duisburg Hbf,35,0,,2026-01-06
+8000080,8601242,Dortmund Hbf,Koebenhavns Lufthavn st,543,4,,2026-01-06
+8000080,7100064,Dortmund Hbf,Barcelona Sants,818,6,,2026-01-06
+8000080,8700012,Dortmund Hbf,Paris Lyon Banlieue,347,6,,2026-01-06
+8000080,8700047,Dortmund Hbf,Bordeaux-St-Jean,504,4,,2026-01-06
+8000080,8700074,Dortmund Hbf,Marseille-St-Charles,607,4,,2026-01-06
+8000080,8700152,Dortmund Hbf,Lyon Part Dieu,486,4,,2026-01-06
+8000080,8700065,Dortmund Hbf,Toulouse-Matabiau,658,4,,2026-01-06
+8000080,7800020,Dortmund Hbf,Zagreb Glavni kolodvor,981,4,,2026-01-06
+8000080,5500728,Dortmund Hbf,Budapest-Nyugati,758,9,,2026-01-06
+8000080,8300262,Dortmund Hbf,Roma Tiburtina,813,7,,2026-01-06
+8000080,8300047,Dortmund Hbf,Milano Porta Garibaldi,593,6,,2026-01-06
+8000080,8300522,Dortmund Hbf,Torino Porta Susa,668,8,,2026-01-06
+8000080,8300153,Dortmund Hbf,Genova Piazza Principe,706,6,,2026-01-06
+8000080,8200100,Dortmund Hbf,Luxembourg,287,4,,2026-01-06
+8000080,8400597,Dortmund Hbf,Tilburg,170,8,,2026-01-06
+8000080,8400058,Dortmund Hbf,Amsterdam Centraal,176,2,,2026-01-06
+8000080,8400530,Dortmund Hbf,Rotterdam Centraal,184,4,,2026-01-06
+8000080,5100065,Dortmund Hbf,Warszawa Centralna,527,4,,2026-01-06
+8000080,5100028,Dortmund Hbf,Krakow Glowny,650,2,,2026-01-06
+8000080,5100069,Dortmund Hbf,Wroclaw Glowny,463,2,,2026-01-06
+8000080,5100081,Dortmund Hbf,Poznan Glowny,382,2,,2026-01-06
+8000080,7400002,Dortmund Hbf,Stockholm Central,851,6,,2026-01-06
+8000080,7900003,Dortmund Hbf,Ljubljana,756,8,,2026-01-06
+8000080,5600207,Dortmund Hbf,Bratislava hl.st.,631,6,,2026-01-06
+8000098,8103000,Essen Hbf,Wien Hbf,527,2,,2026-01-06
+8000098,8800004,Essen Hbf,Bruxelles Midi,195,4,,2026-01-06
+8000098,8800007,Essen Hbf,Antwerpen Centraal,207,6,,2026-01-06
+8000098,5400014,Essen Hbf,Praha hl.n.,486,2,,2026-01-06
+8000098,8011160,Essen Hbf,Berlin Hbf,235,0,,2026-01-06
+8000098,8000096,Essen Hbf,Stuttgart Hbf,192,2,,2026-01-06
+8000098,8000261,Essen Hbf,München Hbf,314,0,,2026-01-06
+8000098,8002549,Essen Hbf,Hamburg Hbf,166,0,,2026-01-06
+8000098,8003368,Essen Hbf,Köln Messe/Deutz Gl.11-12,49,0,,2026-01-06
+8000098,8000105,Essen Hbf,Frankfurt(Main)Hbf,118,0,,2026-01-06
+8000098,8000085,Essen Hbf,Düsseldorf Hbf,26,0,,2026-01-06
+8000098,8010205,Essen Hbf,Leipzig Hbf,294,2,,2026-01-06
+8000098,8000080,Essen Hbf,Dortmund Hbf,23,0,,2026-01-06
+8000098,8000050,Essen Hbf,Bremen Hbf,132,0,,2026-01-06
+8000098,8010085,Essen Hbf,Dresden Hbf,348,2,,2026-01-06
+8000098,8000152,Essen Hbf,Hannover Hbf,128,0,,2026-01-06
+8000098,8000284,Essen Hbf,Nürnberg Hbf,245,0,,2026-01-06
+8000098,8000086,Essen Hbf,Duisburg Hbf,12,0,,2026-01-06
+8000098,8601242,Essen Hbf,Koebenhavns Lufthavn st,540,4,,2026-01-06
+8000098,7100064,Essen Hbf,Barcelona Sants,783,8,,2026-01-06
+8000098,8700012,Essen Hbf,Paris Lyon Banlieue,317,8,,2026-01-06
+8000098,8700047,Essen Hbf,Bordeaux-St-Jean,474,6,,2026-01-06
+8000098,8700074,Essen Hbf,Marseille-St-Charles,577,6,,2026-01-06
+8000098,8700152,Essen Hbf,Lyon Part Dieu,462,4,,2026-01-06
+8000098,8700065,Essen Hbf,Toulouse-Matabiau,628,6,,2026-01-06
+8000098,7800020,Essen Hbf,Zagreb Glavni kolodvor,911,4,,2026-01-06
+8000098,5500728,Essen Hbf,Budapest-Nyugati,734,9,,2026-01-06
+8000098,8300262,Essen Hbf,Roma Tiburtina,789,7,,2026-01-06
+8000098,8300047,Essen Hbf,Milano Porta Garibaldi,569,6,,2026-01-06
+8000098,8300522,Essen Hbf,Torino Porta Susa,644,8,,2026-01-06
+8000098,8300153,Essen Hbf,Genova Piazza Principe,704,4,,2026-01-06
+8000098,8200100,Essen Hbf,Luxembourg,263,4,,2026-01-06
+8000098,8400597,Essen Hbf,Tilburg,139,6,,2026-01-06
+8000098,8400058,Essen Hbf,Amsterdam Centraal,146,2,,2026-01-06
+8000098,8400530,Essen Hbf,Rotterdam Centraal,157,4,,2026-01-06
+8000098,5100065,Essen Hbf,Warszawa Centralna,551,4,,2026-01-06
+8000098,5100028,Essen Hbf,Krakow Glowny,672,2,,2026-01-06
+8000098,5100069,Essen Hbf,Wroclaw Glowny,496,2,,2026-01-06
+8000098,5100081,Essen Hbf,Poznan Glowny,406,2,,2026-01-06
+8000098,7400002,Essen Hbf,Stockholm Central,875,6,,2026-01-06
+8000098,7900003,Essen Hbf,Ljubljana,743,8,,2026-01-06
+8000098,5600207,Essen Hbf,Bratislava hl.st.,610,4,,2026-01-06
+8000050,8103000,Bremen Hbf,Wien Hbf,512,4,,2026-01-06
+8000050,8800004,Bremen Hbf,Bruxelles Midi,324,2,,2026-01-06
+8000050,8800007,Bremen Hbf,Antwerpen Centraal,342,8,,2026-01-06
+8000050,5400014,Bremen Hbf,Praha hl.n.,436,4,,2026-01-06
+8000050,8011160,Bremen Hbf,Berlin Hbf,166,2,,2026-01-06
+8000050,8000096,Bremen Hbf,Stuttgart Hbf,321,2,,2026-01-06
+8000050,8000261,Bremen Hbf,München Hbf,325,2,,2026-01-06
+8000050,8002549,Bremen Hbf,Hamburg Hbf,55,0,,2026-01-06
+8000050,8003368,Bremen Hbf,Köln Messe/Deutz,194,2,,2026-01-06
+8000050,8000105,Bremen Hbf,Frankfurt(Main)Hbf,227,2,,2026-01-06
+8000050,8000085,Bremen Hbf,Düsseldorf Hbf,159,0,,2026-01-06
+8000050,8010205,Bremen Hbf,Leipzig Hbf,242,2,,2026-01-06
+8000050,8000080,Bremen Hbf,Dortmund Hbf,107,0,,2026-01-06
+8000050,8000098,Bremen Hbf,Essen Hbf,132,0,,2026-01-06
+8000050,8010085,Bremen Hbf,Dresden Hbf,298,4,,2026-01-06
+8000050,8000152,Bremen Hbf,Hannover Hbf,59,0,,2026-01-06
+8000050,8000284,Bremen Hbf,Nürnberg Hbf,251,2,,2026-01-06
+8000050,8000086,Bremen Hbf,Duisburg Hbf,145,0,,2026-01-06
+8000050,8601242,Bremen Hbf,Koebenhavns Lufthavn st,416,4,,2026-01-06
+8000050,7100064,Bremen Hbf,Barcelona Sants,1150,8,,2026-01-06
+8000050,8700012,Bremen Hbf,Paris Lyon Banlieue,515,6,,2026-01-06
+8000050,8700047,Bremen Hbf,Bordeaux-St-Jean,657,6,,2026-01-06
+8000050,8700074,Bremen Hbf,Marseille-St-Charles,722,2,,2026-01-06
+8000050,8700152,Bremen Hbf,Lyon Part Dieu,614,2,,2026-01-06
+8000050,8700065,Bremen Hbf,Toulouse-Matabiau,1140,4,,2026-01-06
+8000050,7800020,Bremen Hbf,Zagreb Glavni kolodvor,1035,6,,2026-01-06
+8000050,5500728,Bremen Hbf,Budapest-Nyugati,753,9,,2026-01-06
+8000050,8300262,Bremen Hbf,Roma Tiburtina,1125,6,,2026-01-06
+8000050,8300047,Bremen Hbf,Milano Porta Garibaldi,705,6,,2026-01-06
+8000050,8300522,Bremen Hbf,Torino Porta Susa,804,8,,2026-01-06
+8000050,8300153,Bremen Hbf,Genova Piazza Principe,820,6,,2026-01-06
+8000050,8200100,Bremen Hbf,Luxembourg,399,4,,2026-01-06
+8000050,8400597,Bremen Hbf,Tilburg,281,4,,2026-01-06
+8000050,8400058,Bremen Hbf,Amsterdam Centraal,255,2,,2026-01-06
+8000050,8400530,Bremen Hbf,Rotterdam Centraal,281,6,,2026-01-06
+8000050,5100065,Bremen Hbf,Warszawa Centralna,521,6,,2026-01-06
+8000050,5100028,Bremen Hbf,Krakow Glowny,627,4,,2026-01-06
+8000050,5100069,Bremen Hbf,Wroclaw Glowny,435,4,,2026-01-06
+8000050,5100081,Bremen Hbf,Poznan Glowny,376,4,,2026-01-06
+8000050,7400002,Bremen Hbf,Stockholm Central,738,6,,2026-01-06
+8000050,7900003,Bremen Hbf,Ljubljana,723,8,,2026-01-06
+8000050,5600207,Bremen Hbf,Bratislava hl.st.,595,6,,2026-01-06
+8010085,8103000,Dresden Hbf,Wien Hbf,399,4,,2026-01-06
+8010085,8800004,Dresden Hbf,Bruxelles Midi,493,4,,2026-01-06
+8010085,8800007,Dresden Hbf,Antwerpen Centraal,524,6,,2026-01-06
+8010085,5400014,Dresden Hbf,Praha hl.n.,135,0,,2026-01-06
+8010085,8011160,Dresden Hbf,Berlin Hbf,96,0,,2026-01-06
+8010085,8000096,Dresden Hbf,Stuttgart Hbf,342,4,,2026-01-06
+8010085,8000261,Dresden Hbf,München Hbf,266,2,,2026-01-06
+8010085,8002549,Dresden Hbf,Hamburg Hbf,276,2,,2026-01-06
+8010085,8003368,Dresden Hbf,Köln Messe/Deutz Gl.11-12,352,4,,2026-01-06
+8010085,8000105,Dresden Hbf,Frankfurt(Main)Hbf,262,2,,2026-01-06
+8010085,8000085,Dresden Hbf,Düsseldorf Hbf,374,4,,2026-01-06
+8010085,8010205,Dresden Hbf,Leipzig Hbf,69,0,,2026-01-06
+8010085,8000080,Dresden Hbf,Dortmund Hbf,319,2,,2026-01-06
+8010085,8000098,Dresden Hbf,Essen Hbf,345,2,,2026-01-06
+8010085,8000050,Dresden Hbf,Bremen Hbf,297,4,,2026-01-06
+8010085,8000152,Dresden Hbf,Hannover Hbf,215,2,,2026-01-06
+8010085,8000284,Dresden Hbf,Nürnberg Hbf,191,2,,2026-01-06
+8010085,8000086,Dresden Hbf,Duisburg Hbf,359,2,,2026-01-06
+8010085,8601242,Dresden Hbf,Koebenhavns Lufthavn st,653,6,,2026-01-06
+8010085,7100064,Dresden Hbf,Barcelona Sants,1331,8,,2026-01-06
+8010085,8700012,Dresden Hbf,Paris Lyon Banlieue,551,4,,2026-01-06
+8010085,8700047,Dresden Hbf,Bordeaux-St-Jean,712,8,,2026-01-06
+8010085,8700074,Dresden Hbf,Marseille-St-Charles,744,4,,2026-01-06
+8010085,8700152,Dresden Hbf,Lyon Part Dieu,636,4,,2026-01-06
+8010085,8700065,Dresden Hbf,Toulouse-Matabiau,1093,8,,2026-01-06
+8010085,7800020,Dresden Hbf,Zagreb Glavni kolodvor,978,8,,2026-01-06
+8010085,5500728,Dresden Hbf,Budapest-Nyugati,558,2,,2026-01-06
+8010085,8300262,Dresden Hbf,Roma Tiburtina,1058,8,,2026-01-06
+8010085,8300047,Dresden Hbf,Milano Porta Garibaldi,760,8,,2026-01-06
+8010085,8300522,Dresden Hbf,Torino Porta Susa,872,8,,2026-01-06
+8010085,8300153,Dresden Hbf,Genova Piazza Principe,875,8,,2026-01-06
+8010085,8200100,Dresden Hbf,Luxembourg,508,6,,2026-01-06
+8010085,8400597,Dresden Hbf,Tilburg,531,4,,2026-01-06
+8010085,8400058,Dresden Hbf,Amsterdam Centraal,506,2,,2026-01-06
+8010085,8400530,Dresden Hbf,Rotterdam Centraal,527,6,,2026-01-06
+8010085,5100065,Dresden Hbf,Warszawa Centralna,445,2,,2026-01-06
+8010085,5100028,Dresden Hbf,Krakow Glowny,421,4,,2026-01-06
+8010085,5100069,Dresden Hbf,Wroclaw Glowny,210,2,,2026-01-06
+8010085,5100081,Dresden Hbf,Poznan Glowny,280,2,,2026-01-06
+8010085,7400002,Dresden Hbf,Stockholm Central,1101,4,,2026-01-06
+8010085,7900003,Dresden Hbf,Ljubljana,667,8,,2026-01-06
+8010085,5600207,Dresden Hbf,Bratislava hl.st.,412,2,,2026-01-06
+8000152,8103000,Hannover Hbf,Wien Hbf,440,2,,2026-01-06
+8000152,8800004,Hannover Hbf,Bruxelles Midi,295,2,,2026-01-06
+8000152,8800007,Hannover Hbf,Antwerpen Centraal,326,4,,2026-01-06
+8000152,5400014,Hannover Hbf,Praha hl.n.,354,2,,2026-01-06
+8000152,8011160,Hannover Hbf,Berlin Hbf,93,0,,2026-01-06
+8000152,8000096,Hannover Hbf,Stuttgart Hbf,225,0,,2026-01-06
+8000152,8000261,Hannover Hbf,München Hbf,253,0,,2026-01-06
+8000152,8002549,Hannover Hbf,Hamburg Hbf,81,0,,2026-01-06
+8000152,8003368,Hannover Hbf,Köln Messe/Deutz,166,2,,2026-01-06
+8000152,8000105,Hannover Hbf,Frankfurt(Main)Hbf,137,0,,2026-01-06
+8000152,8000085,Hannover Hbf,Düsseldorf Hbf,156,0,,2026-01-06
+8000152,8010205,Hannover Hbf,Leipzig Hbf,158,2,,2026-01-06
+8000152,8000080,Hannover Hbf,Dortmund Hbf,99,0,,2026-01-06
+8000152,8000098,Hannover Hbf,Essen Hbf,124,0,,2026-01-06
+8000152,8000050,Hannover Hbf,Bremen Hbf,60,0,,2026-01-06
+8000152,8010085,Hannover Hbf,Dresden Hbf,216,2,,2026-01-06
+8000152,8000284,Hannover Hbf,Nürnberg Hbf,178,0,,2026-01-06
+8000152,8000086,Hannover Hbf,Duisburg Hbf,137,0,,2026-01-06
+8000152,8601242,Hannover Hbf,Koebenhavns Lufthavn st,425,4,,2026-01-06
+8000152,7100064,Hannover Hbf,Barcelona Sants,939,4,,2026-01-06
+8000152,8700012,Hannover Hbf,Paris Lyon Banlieue,419,4,,2026-01-06
+8000152,8700047,Hannover Hbf,Bordeaux-St-Jean,561,4,,2026-01-06
+8000152,8700074,Hannover Hbf,Marseille-St-Charles,653,2,,2026-01-06
+8000152,8700152,Hannover Hbf,Lyon Part Dieu,545,2,,2026-01-06
+8000152,8700065,Hannover Hbf,Toulouse-Matabiau,737,4,,2026-01-06
+8000152,7800020,Hannover Hbf,Zagreb Glavni kolodvor,833,2,,2026-01-06
+8000152,5500728,Hannover Hbf,Budapest-Nyugati,647,9,,2026-01-06
+8000152,8300262,Hannover Hbf,Roma Tiburtina,842,9,,2026-01-06
+8000152,8300047,Hannover Hbf,Milano Porta Garibaldi,628,8,,2026-01-06
+8000152,8300522,Hannover Hbf,Torino Porta Susa,716,8,,2026-01-06
+8000152,8300153,Hannover Hbf,Genova Piazza Principe,724,4,,2026-01-06
+8000152,8200100,Hannover Hbf,Luxembourg,402,4,,2026-01-06
+8000152,8400597,Hannover Hbf,Tilburg,270,2,,2026-01-06
+8000152,8400058,Hannover Hbf,Amsterdam Centraal,244,0,,2026-01-06
+8000152,8400530,Hannover Hbf,Rotterdam Centraal,269,4,,2026-01-06
+8000152,5100065,Hannover Hbf,Warszawa Centralna,414,4,,2026-01-06
+8000152,5100028,Hannover Hbf,Krakow Glowny,520,2,,2026-01-06
+8000152,5100069,Hannover Hbf,Wroclaw Glowny,349,2,,2026-01-06
+8000152,5100081,Hannover Hbf,Poznan Glowny,269,2,,2026-01-06
+8000152,7400002,Hannover Hbf,Stockholm Central,747,6,,2026-01-06
+8000152,7900003,Hannover Hbf,Ljubljana,651,6,,2026-01-06
+8000152,5600207,Hannover Hbf,Bratislava hl.st.,523,4,,2026-01-06
+8000284,8103000,Nürnberg Hbf,Wien Hbf,228,0,,2026-01-06
+8000284,8800004,Nürnberg Hbf,Bruxelles Midi,335,4,,2026-01-06
+8000284,8800007,Nürnberg Hbf,Antwerpen Centraal,366,4,,2026-01-06
+8000284,5400014,Nürnberg Hbf,Praha hl.n.,281,2,,2026-01-06
+8000284,8011160,Nürnberg Hbf,Berlin Hbf,164,0,,2026-01-06
+8000284,8000096,Nürnberg Hbf,Stuttgart Hbf,130,0,,2026-01-06
+8000284,8000261,Nürnberg Hbf,München Hbf,66,0,,2026-01-06
+8000284,8002549,Nürnberg Hbf,Hamburg Hbf,265,2,,2026-01-06
+8000284,8003368,Nürnberg Hbf,Köln Messe/Deutz Gl.11-12,194,0,,2026-01-06
+8000284,8000105,Nürnberg Hbf,Frankfurt(Main)Hbf,122,0,,2026-01-06
+8000284,8000085,Nürnberg Hbf,Düsseldorf Hbf,216,0,,2026-01-06
+8000284,8010205,Nürnberg Hbf,Leipzig Hbf,115,2,,2026-01-06
+8000284,8000080,Nürnberg Hbf,Dortmund Hbf,277,2,,2026-01-06
+8000284,8000098,Nürnberg Hbf,Essen Hbf,243,0,,2026-01-06
+8000284,8000050,Nürnberg Hbf,Bremen Hbf,255,2,,2026-01-06
+8000284,8010085,Nürnberg Hbf,Dresden Hbf,187,2,,2026-01-06
+8000284,8000152,Nürnberg Hbf,Hannover Hbf,180,2,,2026-01-06
+8000284,8000086,Nürnberg Hbf,Duisburg Hbf,230,0,,2026-01-06
+8000284,8601242,Nürnberg Hbf,Koebenhavns Lufthavn st,628,6,,2026-01-06
+8000284,7100064,Nürnberg Hbf,Barcelona Sants,932,4,,2026-01-06
+8000284,8700012,Nürnberg Hbf,Paris Lyon Banlieue,412,6,,2026-01-06
+8000284,8700047,Nürnberg Hbf,Bordeaux-St-Jean,554,6,,2026-01-06
+8000284,8700074,Nürnberg Hbf,Marseille-St-Charles,604,2,,2026-01-06
+8000284,8700152,Nürnberg Hbf,Lyon Part Dieu,496,2,,2026-01-06
+8000284,8700065,Nürnberg Hbf,Toulouse-Matabiau,768,6,,2026-01-06
+8000284,7800020,Nürnberg Hbf,Zagreb Glavni kolodvor,679,4,,2026-01-06
+8000284,5500728,Nürnberg Hbf,Budapest-Nyugati,445,7,,2026-01-06
+8000284,8300262,Nürnberg Hbf,Roma Tiburtina,658,4,,2026-01-06
+8000284,8300047,Nürnberg Hbf,Milano Porta Garibaldi,540,8,,2026-01-06
+8000284,8300522,Nürnberg Hbf,Torino Porta Susa,588,6,,2026-01-06
+8000284,8300153,Nürnberg Hbf,Genova Piazza Principe,639,6,,2026-01-06
+8000284,8200100,Nürnberg Hbf,Luxembourg,393,6,,2026-01-06
+8000284,8400597,Nürnberg Hbf,Tilburg,365,6,,2026-01-06
+8000284,8400058,Nürnberg Hbf,Amsterdam Centraal,389,2,,2026-01-06
+8000284,8400530,Nürnberg Hbf,Rotterdam Centraal,400,4,,2026-01-06
+8000284,5100065,Nürnberg Hbf,Warszawa Centralna,502,4,,2026-01-06
+8000284,5100028,Nürnberg Hbf,Krakow Glowny,585,4,,2026-01-06
+8000284,5100069,Nürnberg Hbf,Wroclaw Glowny,362,2,,2026-01-06
+8000284,5100081,Nürnberg Hbf,Poznan Glowny,357,2,,2026-01-06
+8000284,7400002,Nürnberg Hbf,Stockholm Central,1044,2,,2026-01-06
+8000284,7900003,Nürnberg Hbf,Ljubljana,428,4,,2026-01-06
+8000284,5600207,Nürnberg Hbf,Bratislava hl.st.,311,2,,2026-01-06
+8000086,8103000,Duisburg Hbf,Wien Hbf,514,2,,2026-01-06
+8000086,8800004,Duisburg Hbf,Bruxelles Midi,173,2,,2026-01-06
+8000086,8800007,Duisburg Hbf,Antwerpen Centraal,185,4,,2026-01-06
+8000086,5400014,Duisburg Hbf,Praha hl.n.,499,2,,2026-01-06
+8000086,8011160,Duisburg Hbf,Berlin Hbf,248,0,,2026-01-06
+8000086,8000096,Duisburg Hbf,Stuttgart Hbf,178,2,,2026-01-06
+8000086,8000261,Duisburg Hbf,München Hbf,298,0,,2026-01-06
+8000086,8002549,Duisburg Hbf,Hamburg Hbf,179,0,,2026-01-06
+8000086,8003368,Duisburg Hbf,Köln Messe/Deutz Gl.11-12,34,0,,2026-01-06
+8000086,8000105,Duisburg Hbf,Frankfurt(Main)Hbf,103,0,,2026-01-06
+8000086,8000085,Duisburg Hbf,Düsseldorf Hbf,12,0,,2026-01-06
+8000086,8010205,Duisburg Hbf,Leipzig Hbf,296,4,,2026-01-06
+8000086,8000080,Duisburg Hbf,Dortmund Hbf,36,0,,2026-01-06
+8000086,8000098,Duisburg Hbf,Essen Hbf,12,0,,2026-01-06
+8000086,8000050,Duisburg Hbf,Bremen Hbf,147,0,,2026-01-06
+8000086,8010085,Duisburg Hbf,Dresden Hbf,361,2,,2026-01-06
+8000086,8000152,Duisburg Hbf,Hannover Hbf,141,0,,2026-01-06
+8000086,8000284,Duisburg Hbf,Nürnberg Hbf,230,0,,2026-01-06
+8000086,8601242,Duisburg Hbf,Koebenhavns Lufthavn st,553,4,,2026-01-06
+8000086,7100064,Duisburg Hbf,Barcelona Sants,761,6,,2026-01-06
+8000086,8700012,Duisburg Hbf,Paris Lyon Banlieue,295,6,,2026-01-06
+8000086,8700047,Duisburg Hbf,Bordeaux-St-Jean,452,4,,2026-01-06
+8000086,8700074,Duisburg Hbf,Marseille-St-Charles,555,4,,2026-01-06
+8000086,8700152,Duisburg Hbf,Lyon Part Dieu,434,4,,2026-01-06
+8000086,8700065,Duisburg Hbf,Toulouse-Matabiau,606,4,,2026-01-06
+8000086,7800020,Duisburg Hbf,Zagreb Glavni kolodvor,897,4,,2026-01-06
+8000086,5500728,Duisburg Hbf,Budapest-Nyugati,721,9,,2026-01-06
+8000086,8300262,Duisburg Hbf,Roma Tiburtina,776,7,,2026-01-06
+8000086,8300047,Duisburg Hbf,Milano Porta Garibaldi,556,6,,2026-01-06
+8000086,8300522,Duisburg Hbf,Torino Porta Susa,631,8,,2026-01-06
+8000086,8300153,Duisburg Hbf,Genova Piazza Principe,691,4,,2026-01-06
+8000086,8200100,Duisburg Hbf,Luxembourg,250,4,,2026-01-06
+8000086,8400597,Duisburg Hbf,Tilburg,124,6,,2026-01-06
+8000086,8400058,Duisburg Hbf,Amsterdam Centraal,124,0,,2026-01-06
+8000086,8400530,Duisburg Hbf,Rotterdam Centraal,135,2,,2026-01-06
+8000086,5100065,Duisburg Hbf,Warszawa Centralna,564,4,,2026-01-06
+8000086,5100028,Duisburg Hbf,Krakow Glowny,684,2,,2026-01-06
+8000086,5100069,Duisburg Hbf,Wroclaw Glowny,508,2,,2026-01-06
+8000086,5100081,Duisburg Hbf,Poznan Glowny,419,2,,2026-01-06
+8000086,7400002,Duisburg Hbf,Stockholm Central,888,6,,2026-01-06
+8000086,7900003,Duisburg Hbf,Ljubljana,734,6,,2026-01-06
+8000086,5600207,Duisburg Hbf,Bratislava hl.st.,597,4,,2026-01-06
+8601242,8103000,Koebenhavns Lufthavn st,Wien Hbf,895,4,,2026-01-06
+8601242,8800004,Koebenhavns Lufthavn st,Bruxelles Midi,823,4,,2026-01-06
+8601242,8800007,Koebenhavns Lufthavn st,Antwerpen Centraal,814,8,,2026-01-06
+8601242,5400014,Koebenhavns Lufthavn st,Praha hl.n.,813,6,,2026-01-06
+8601242,8011160,Koebenhavns Lufthavn st,Berlin Hbf,531,4,,2026-01-06
+8601242,8000096,Koebenhavns Lufthavn st,Stuttgart Hbf,668,4,,2026-01-06
+8601242,8000261,Koebenhavns Lufthavn st,München Hbf,710,2,,2026-01-06
+8601242,8002549,Koebenhavns Lufthavn st,Hamburg Hbf,338,2,,2026-01-06
+8601242,8003368,Koebenhavns Lufthavn st,Köln Messe/Deutz,622,6,,2026-01-06
+8601242,8000105,Koebenhavns Lufthavn st,Frankfurt(Main)Hbf,584,4,,2026-01-06
+8601242,8000085,Koebenhavns Lufthavn st,Düsseldorf Hbf,591,4,,2026-01-06
+8601242,8010205,Koebenhavns Lufthavn st,Leipzig Hbf,602,4,,2026-01-06
+8601242,8000080,Koebenhavns Lufthavn st,Dortmund Hbf,542,4,,2026-01-06
+8601242,8000098,Koebenhavns Lufthavn st,Essen Hbf,564,4,,2026-01-06
+8601242,8000050,Koebenhavns Lufthavn st,Bremen Hbf,431,4,,2026-01-06
+8601242,8010085,Koebenhavns Lufthavn st,Dresden Hbf,675,6,,2026-01-06
+8601242,8000152,Koebenhavns Lufthavn st,Hannover Hbf,438,4,,2026-01-06
+8601242,8000284,Koebenhavns Lufthavn st,Nürnberg Hbf,655,4,,2026-01-06
+8601242,8000086,Koebenhavns Lufthavn st,Duisburg Hbf,577,4,,2026-01-06
+8601242,7100064,Koebenhavns Lufthavn st,Barcelona Sants,1839,8,,2026-01-06
+8601242,8700012,Koebenhavns Lufthavn st,Paris Lyon Banlieue,892,6,,2026-01-06
+8601242,8700047,Koebenhavns Lufthavn st,Bordeaux-St-Jean,1042,6,,2026-01-06
+8601242,8700074,Koebenhavns Lufthavn st,Marseille-St-Charles,1117,6,,2026-01-06
+8601242,8700152,Koebenhavns Lufthavn st,Lyon Part Dieu,1024,6,,2026-01-06
+8601242,8700065,Koebenhavns Lufthavn st,Toulouse-Matabiau,1188,6,,2026-01-06
+8601242,7800020,Koebenhavns Lufthavn st,Zagreb Glavni kolodvor,1348,6,,2026-01-06
+8601242,5500728,Koebenhavns Lufthavn st,Budapest-Nyugati,1137,7,,2026-01-06
+8601242,8300262,Koebenhavns Lufthavn st,Roma Tiburtina,1308,8,,2026-01-06
+8601242,8300047,Koebenhavns Lufthavn st,Milano Porta Garibaldi,1109,8,,2026-01-06
+8601242,8300522,Koebenhavns Lufthavn st,Torino Porta Susa,1202,8,,2026-01-06
+8601242,8300153,Koebenhavns Lufthavn st,Genova Piazza Principe,1192,8,,2026-01-06
+8601242,8200100,Koebenhavns Lufthavn st,Luxembourg,860,8,,2026-01-06
+8601242,8400597,Koebenhavns Lufthavn st,Tilburg,746,8,,2026-01-06
+8601242,8400058,Koebenhavns Lufthavn st,Amsterdam Centraal,719,6,,2026-01-06
+8601242,8400530,Koebenhavns Lufthavn st,Rotterdam Centraal,730,8,,2026-01-06
+8601242,5100065,Koebenhavns Lufthavn st,Warszawa Centralna,908,4,,2026-01-06
+8601242,5100028,Koebenhavns Lufthavn st,Krakow Glowny,1096,6,,2026-01-06
+8601242,5100069,Koebenhavns Lufthavn st,Wroclaw Glowny,775,6,,2026-01-06
+8601242,5100081,Koebenhavns Lufthavn st,Poznan Glowny,723,6,,2026-01-06
+8601242,7400002,Koebenhavns Lufthavn st,Stockholm Central,305,2,,2026-01-06
+8601242,7900003,Koebenhavns Lufthavn st,Ljubljana,1097,6,,2026-01-06
+8601242,5600207,Koebenhavns Lufthavn st,Bratislava hl.st.,978,6,,2026-01-06
+7100064,8103000,Barcelona Sants,Wien Hbf,1266,8,,2026-01-06
+7100064,8800004,Barcelona Sants,Bruxelles Midi,561,2,,2026-01-06
+7100064,8800007,Barcelona Sants,Antwerpen Centraal,601,2,,2026-01-06
+7100064,5400014,Barcelona Sants,Praha hl.n.,1439,4,,2026-01-06
+7100064,8011160,Barcelona Sants,Berlin Hbf,989,4,,2026-01-06
+7100064,8000096,Barcelona Sants,Stuttgart Hbf,705,4,,2026-01-06
+7100064,8000261,Barcelona Sants,München Hbf,829,4,,2026-01-06
+7100064,8002549,Barcelona Sants,Hamburg Hbf,1194,8,,2026-01-06
+7100064,8003368,Barcelona Sants,Köln Messe/Deutz,720,4,,2026-01-06
+7100064,8000105,Barcelona Sants,Frankfurt(Main)Hbf,703,4,,2026-01-06
+7100064,8000085,Barcelona Sants,Düsseldorf Hbf,736,2,,2026-01-06
+7100064,8010205,Barcelona Sants,Leipzig Hbf,905,6,,2026-01-06
+7100064,8000080,Barcelona Sants,Dortmund Hbf,794,4,,2026-01-06
+7100064,8000098,Barcelona Sants,Essen Hbf,779,4,,2026-01-06
+7100064,8000050,Barcelona Sants,Bremen Hbf,1213,6,,2026-01-06
+7100064,8010085,Barcelona Sants,Dresden Hbf,1208,6,,2026-01-06
+7100064,8000152,Barcelona Sants,Hannover Hbf,900,6,,2026-01-06
+7100064,8000284,Barcelona Sants,Nürnberg Hbf,911,8,,2026-01-06
+7100064,8000086,Barcelona Sants,Duisburg Hbf,752,2,,2026-01-06
+7100064,8601242,Barcelona Sants,Koebenhavns Lufthavn st,1727,8,,2026-01-06
+7100064,8700012,Barcelona Sants,Paris Gare de Lyon,406,0,,2026-01-06
+7100064,8700047,Barcelona Sants,Bordeaux-St-Jean,381,2,,2026-01-06
+7100064,8700074,Barcelona Sants,Marseille-St-Charles,299,0,,2026-01-06
+7100064,8700152,Barcelona Sants,Lyon Part Dieu,306,0,,2026-01-06
+7100064,8700065,Barcelona Sants,Toulouse-Matabiau,227,2,,2026-01-06
+7100064,7800020,Barcelona Sants,Zagreb Glavni kolodvor,2024,8,,2026-01-06
+7100064,5500728,Barcelona Sants,Budapest-Nyugati,1463,9,,2026-01-06
+7100064,8300262,Barcelona Sants,Roma Tiburtina,926,6,,2026-01-06
+7100064,8300047,Barcelona Sants,Milano Porta Garibaldi,686,6,,2026-01-06
+7100064,8300522,Barcelona Sants,Torino Porta Susa,601,4,,2026-01-06
+7100064,8300153,Barcelona Sants,Genova Piazza Principe,736,6,,2026-01-06
+7100064,8200100,Barcelona Sants,Luxembourg,627,2,,2026-01-06
+7100064,8400597,Barcelona Sants,Tilburg,677,6,,2026-01-06
+7100064,8400058,Barcelona Sants,Amsterdam Centraal,684,2,,2026-01-06
+7100064,8400530,Barcelona Sants,Rotterdam Centraal,636,2,,2026-01-06
+7100064,5100065,Barcelona Sants,Warszawa Centralna,1534,8,,2026-01-06
+7100064,5100028,Barcelona Sants,Krakow Glowny,1797,8,,2026-01-06
+7100064,5100069,Barcelona Sants,Wroclaw Glowny,1566,8,,2026-01-06
+7100064,5100081,Barcelona Sants,Poznan Glowny,1387,8,,2026-01-06
+7100064,7400002,Barcelona Sants,Stockholm Central,2049,8,,2026-01-06
+7100064,7900003,Barcelona Sants,Ljubljana,1874,8,,2026-01-06
+7100064,5600207,Barcelona Sants,Bratislava hl.st.,1364,8,,2026-01-06
+8700012,8103000,Paris Lyon Banlieue,Wien Hbf,667,6,,2026-01-06
+8700012,8800004,Paris Lyon Banlieue,Bruxelles Midi,117,4,,2026-01-06
+8700012,8800007,Paris Lyon Banlieue,Antwerpen Centraal,162,4,,2026-01-06
+8700012,5400014,Paris Lyon Banlieue,Praha hl.n.,717,8,,2026-01-06
+8700012,8011160,Paris Lyon Banlieue,Berlin Hbf,515,2,,2026-01-06
+8700012,8000096,Paris Lyon Banlieue,Stuttgart Hbf,224,2,,2026-01-06
+8700012,8000261,Paris Lyon Banlieue,München Hbf,389,4,,2026-01-06
+8700012,8002549,Paris Lyon Banlieue,Hamburg Hbf,515,6,,2026-01-06
+8700012,8003368,Paris Lyon Banlieue,Köln Messe/Deutz,246,6,,2026-01-06
+8700012,8000105,Paris Lyon Banlieue,Frankfurt(Main)Hbf,267,2,,2026-01-06
+8700012,8000085,Paris Lyon Banlieue,Düsseldorf Hbf,281,6,,2026-01-06
+8700012,8010205,Paris Lyon Banlieue,Leipzig Hbf,452,4,,2026-01-06
+8700012,8000080,Paris Lyon Banlieue,Dortmund Hbf,348,6,,2026-01-06
+8700012,8000098,Paris Lyon Banlieue,Essen Hbf,317,8,,2026-01-06
+8700012,8000050,Paris Lyon Banlieue,Bremen Hbf,474,6,,2026-01-06
+8700012,8010085,Paris Lyon Banlieue,Dresden Hbf,530,4,,2026-01-06
+8700012,8000152,Paris Lyon Banlieue,Hannover Hbf,428,6,,2026-01-06
+8700012,8000284,Paris Lyon Banlieue,Nürnberg Hbf,420,4,,2026-01-06
+8700012,8000086,Paris Lyon Banlieue,Duisburg Hbf,297,6,,2026-01-06
+8700012,8601242,Paris Lyon Banlieue,Koebenhavns Lufthavn st,894,6,,2026-01-06
+8700012,7100064,Paris Gare de Lyon,Barcelona Sants,410,0,,2026-01-06
+8700012,8700047,Paris Lyon Banlieue,Bordeaux-St-Jean,174,2,,2026-01-06
+8700012,8700074,Paris Gare de Lyon,Marseille-St-Charles,184,0,,2026-01-06
+8700012,8700152,Paris Gare de Lyon,Lyon Part Dieu,116,0,,2026-01-06
+8700012,8700065,Paris Lyon Banlieue,Toulouse-Matabiau,328,2,,2026-01-06
+8700012,7800020,Paris Lyon Banlieue,Zagreb Glavni kolodvor,1035,8,,2026-01-06
+8700012,5500728,Paris Lyon Banlieue,Budapest-Nyugati,869,7,,2026-01-06
+8700012,8300262,Paris Gare de Lyon,Roma Tiburtina,654,2,,2026-01-06
+8700012,8300047,Paris Gare de Lyon,Milano Porta Garibaldi,414,2,,2026-01-06
+8700012,8300522,,,-1,0,,2026-01-06
+8700012,8300153,,,-1,0,,2026-01-06
+8700012,8200100,Paris Lyon Banlieue,Luxembourg,171,2,,2026-01-06
+8700012,8400597,Paris Lyon Banlieue,Tilburg,239,8,,2026-01-06
+8700012,8400058,Paris Lyon Banlieue,Amsterdam Centraal,245,4,,2026-01-06
+8700012,8400530,Paris Lyon Banlieue,Rotterdam Centraal,197,4,,2026-01-06
+8700012,5100065,Paris Lyon Banlieue,Warszawa Centralna,1105,6,,2026-01-06
+8700012,5100028,Paris Lyon Banlieue,Krakow Glowny,1207,4,,2026-01-06
+8700012,5100069,Paris Lyon Banlieue,Wroclaw Glowny,742,8,,2026-01-06
+8700012,5100081,Paris Lyon Banlieue,Poznan Glowny,832,4,,2026-01-06
+8700012,7400002,Paris Lyon Banlieue,Stockholm Central,1287,6,,2026-01-06
+8700012,7900003,Paris Lyon Banlieue,Ljubljana,874,8,,2026-01-06
+8700012,5600207,Paris Lyon Banlieue,Bratislava hl.st.,772,8,,2026-01-06
+8700047,8103000,Bordeaux-St-Jean,Wien Hbf,828,8,,2026-01-06
+8700047,8800004,Bordeaux-St-Jean,Bruxelles Midi,271,2,,2026-01-06
+8700047,8800007,Bordeaux-St-Jean,Antwerpen Centraal,340,2,,2026-01-06
+8700047,5400014,Bordeaux-St-Jean,Praha hl.n.,880,8,,2026-01-06
+8700047,8011160,Bordeaux-St-Jean,Berlin Hbf,695,8,,2026-01-06
+8700047,8000096,Bordeaux-St-Jean,Stuttgart Hbf,378,2,,2026-01-06
+8700047,8000261,Bordeaux-St-Jean,München Hbf,534,4,,2026-01-06
+8700047,8002549,Bordeaux-St-Jean,Hamburg Hbf,677,4,,2026-01-06
+8700047,8003368,Bordeaux-St-Jean,Köln Messe/Deutz,400,4,,2026-01-06
+8700047,8000105,Bordeaux-St-Jean,Frankfurt(Main)Hbf,421,2,,2026-01-06
+8700047,8000085,Bordeaux-St-Jean,Düsseldorf Hbf,488,6,,2026-01-06
+8700047,8010205,Bordeaux-St-Jean,Leipzig Hbf,622,6,,2026-01-06
+8700047,8000080,Bordeaux-St-Jean,Dortmund Hbf,474,4,,2026-01-06
+8700047,8000098,Bordeaux-St-Jean,Essen Hbf,449,2,,2026-01-06
+8700047,8000050,Bordeaux-St-Jean,Bremen Hbf,628,4,,2026-01-06
+8700047,8010085,Bordeaux-St-Jean,Dresden Hbf,712,8,,2026-01-06
+8700047,8000152,Bordeaux-St-Jean,Hannover Hbf,582,4,,2026-01-06
+8700047,8000284,Bordeaux-St-Jean,Nürnberg Hbf,571,4,,2026-01-06
+8700047,8000086,Bordeaux-St-Jean,Duisburg Hbf,432,2,,2026-01-06
+8700047,8601242,Bordeaux-St-Jean,Koebenhavns Lufthavn st,1057,6,,2026-01-06
+8700047,7100064,Bordeaux-St-Jean,Barcelona Sants,385,2,,2026-01-06
+8700047,8700012,Bordeaux-St-Jean,Paris Lyon Banlieue,170,2,,2026-01-06
+8700047,8700074,Bordeaux-St-Jean,Marseille-St-Charles,386,0,,2026-01-06
+8700047,8700152,Bordeaux-St-Jean,Lyon Part Dieu,397,2,,2026-01-06
+8700047,8700065,Bordeaux-St-Jean,Toulouse-Matabiau,147,0,,2026-01-06
+8700047,7800020,Bordeaux-St-Jean,Zagreb Glavni kolodvor,1184,8,,2026-01-06
+8700047,5500728,Bordeaux-St-Jean,Budapest-Nyugati,1143,9,,2026-01-06
+8700047,8300262,Bordeaux-St-Jean,Roma Tiburtina,834,4,,2026-01-06
+8700047,8300047,Bordeaux-St-Jean,Milano Porta Garibaldi,594,4,,2026-01-06
+8700047,8300522,Bordeaux-St-Jean,Torino Porta Susa,509,2,,2026-01-06
+8700047,8300153,Bordeaux-St-Jean,Genova Piazza Principe,644,4,,2026-01-06
+8700047,8200100,Bordeaux-St-Jean,Luxembourg,307,2,,2026-01-06
+8700047,8400597,Bordeaux-St-Jean,Tilburg,416,6,,2026-01-06
+8700047,8400058,Bordeaux-St-Jean,Amsterdam Centraal,423,2,,2026-01-06
+8700047,8400530,Bordeaux-St-Jean,Rotterdam Centraal,375,2,,2026-01-06
+8700047,5100065,Bordeaux-St-Jean,Warszawa Centralna,1214,8,,2026-01-06
+8700047,5100028,Bordeaux-St-Jean,Krakow Glowny,1429,8,,2026-01-06
+8700047,5100069,Bordeaux-St-Jean,Wroclaw Glowny,997,8,,2026-01-06
+8700047,5100081,Bordeaux-St-Jean,Poznan Glowny,1067,8,,2026-01-06
+8700047,7400002,Bordeaux-St-Jean,Stockholm Central,1450,6,,2026-01-06
+8700047,7900003,Bordeaux-St-Jean,Ljubljana,1023,8,,2026-01-06
+8700047,5600207,Bordeaux-St-Jean,Bratislava hl.st.,1044,6,,2026-01-06
+8700074,8103000,Marseille-St-Charles,Wien Hbf,890,4,,2026-01-06
+8700074,8800004,Marseille-St-Charles,Bruxelles Midi,333,2,,2026-01-06
+8700074,8800007,Marseille-St-Charles,Antwerpen Centraal,376,2,,2026-01-06
+8700074,5400014,Marseille-St-Charles,Praha hl.n.,1118,4,,2026-01-06
+8700074,8011160,Marseille-St-Charles,Berlin Hbf,781,6,,2026-01-06
+8700074,8000096,Marseille-St-Charles,Stuttgart Hbf,491,2,,2026-01-06
+8700074,8000261,Marseille-St-Charles,München Hbf,671,6,,2026-01-06
+8700074,8002549,Marseille-St-Charles,Hamburg Hbf,764,6,,2026-01-06
+8700074,8003368,Marseille-St-Charles,Köln Messe/Deutz,460,4,,2026-01-06
+8700074,8000105,Marseille-St-Charles,Frankfurt(Main)Hbf,535,6,,2026-01-06
+8700074,8000085,Marseille-St-Charles,Düsseldorf Hbf,475,2,,2026-01-06
+8700074,8010205,Marseille-St-Charles,Leipzig Hbf,726,6,,2026-01-06
+8700074,8000080,Marseille-St-Charles,Dortmund Hbf,535,2,,2026-01-06
+8700074,8000098,Marseille-St-Charles,Essen Hbf,509,2,,2026-01-06
+8700074,8000050,Marseille-St-Charles,Bremen Hbf,688,4,,2026-01-06
+8700074,8010085,Marseille-St-Charles,Dresden Hbf,816,8,,2026-01-06
+8700074,8000152,Marseille-St-Charles,Hannover Hbf,668,6,,2026-01-06
+8700074,8000284,Marseille-St-Charles,Nürnberg Hbf,672,6,,2026-01-06
+8700074,8000086,Marseille-St-Charles,Duisburg Hbf,492,2,,2026-01-06
+8700074,8601242,Marseille-St-Charles,Koebenhavns Lufthavn st,1155,4,,2026-01-06
+8700074,7100064,Marseille-St-Charles,Barcelona Sants,272,0,,2026-01-06
+8700074,8700012,Marseille-St-Charles,Paris Gare de Lyon,199,0,,2026-01-06
+8700074,8700047,Marseille-St-Charles,Bordeaux-St-Jean,382,0,,2026-01-06
+8700074,8700152,Marseille-St-Charles,Lyon Part Dieu,101,0,,2026-01-06
+8700074,8700065,Marseille-St-Charles,Toulouse-Matabiau,228,0,,2026-01-06
+8700074,7800020,Marseille-St-Charles,Zagreb Glavni kolodvor,1338,6,,2026-01-06
+8700074,5500728,Marseille-St-Charles,Budapest-Nyugati,1286,9,,2026-01-06
+8700074,8300262,Marseille-St-Charles,Roma Tiburtina,688,8,,2026-01-06
+8700074,8300047,Marseille-St-Charles,Milano Porta Garibaldi,442,4,,2026-01-06
+8700074,8300522,Marseille-St-Charles,Torino Porta Susa,363,6,,2026-01-06
+8700074,8300153,Marseille-St-Charles,Genova Piazza Principe,368,4,,2026-01-06
+8700074,8200100,Marseille-St-Charles,Luxembourg,408,2,,2026-01-06
+8700074,8400597,Marseille-St-Charles,Tilburg,452,6,,2026-01-06
+8700074,8400058,Marseille-St-Charles,Amsterdam Centraal,459,2,,2026-01-06
+8700074,8400530,Marseille-St-Charles,Rotterdam Centraal,411,2,,2026-01-06
+8700074,5100065,Marseille-St-Charles,Warszawa Centralna,1333,6,,2026-01-06
+8700074,5100028,Marseille-St-Charles,Krakow Glowny,1489,6,,2026-01-06
+8700074,5100069,Marseille-St-Charles,Wroclaw Glowny,1263,8,,2026-01-06
+8700074,5100081,Marseille-St-Charles,Poznan Glowny,1186,6,,2026-01-06
+8700074,7400002,Marseille-St-Charles,Stockholm Central,1533,4,,2026-01-06
+8700074,7900003,Marseille-St-Charles,Ljubljana,935,8,,2026-01-06
+8700074,5600207,Marseille-St-Charles,Bratislava hl.st.,959,6,,2026-01-06
+8700152,8103000,Lyon Part Dieu,Wien Hbf,766,2,,2026-01-06
+8700152,8800004,Lyon Part Dieu,Bruxelles Midi,250,2,,2026-01-06
+8700152,8800007,Lyon Part Dieu,Antwerpen Centraal,276,2,,2026-01-06
+8700152,5400014,Lyon Part Dieu,Praha hl.n.,862,8,,2026-01-06
+8700152,8011160,Lyon Part Dieu,Berlin Hbf,653,2,,2026-01-06
+8700152,8000096,Lyon Part Dieu,Stuttgart Hbf,362,2,,2026-01-06
+8700152,8000261,Lyon Part Dieu,München Hbf,508,2,,2026-01-06
+8700152,8002549,Lyon Part Dieu,Hamburg Hbf,628,2,,2026-01-06
+8700152,8003368,Lyon Part Dieu,Köln Messe/Deutz Gl.11-12,433,4,,2026-01-06
+8700152,8000105,Lyon Part Dieu,Frankfurt(Main)Hbf,359,0,,2026-01-06
+8700152,8000085,Lyon Part Dieu,Düsseldorf Hbf,451,2,,2026-01-06
+8700152,8010205,Lyon Part Dieu,Leipzig Hbf,603,4,,2026-01-06
+8700152,8000080,Lyon Part Dieu,Dortmund Hbf,490,6,,2026-01-06
+8700152,8000098,Lyon Part Dieu,Essen Hbf,467,6,,2026-01-06
+8700152,8000050,Lyon Part Dieu,Bremen Hbf,613,2,,2026-01-06
+8700152,8010085,Lyon Part Dieu,Dresden Hbf,695,8,,2026-01-06
+8700152,8000152,Lyon Part Dieu,Hannover Hbf,544,2,,2026-01-06
+8700152,8000284,Lyon Part Dieu,Nürnberg Hbf,497,2,,2026-01-06
+8700152,8000086,Lyon Part Dieu,Duisburg Hbf,454,6,,2026-01-06
+8700152,8601242,Lyon Part Dieu,Koebenhavns Lufthavn st,999,8,,2026-01-06
+8700152,7100064,Lyon Part Dieu,Barcelona Sants,288,0,,2026-01-06
+8700152,8700012,Lyon Part Dieu,Paris Gare de Lyon,115,0,,2026-01-06
+8700152,8700047,Lyon Part Dieu,Bordeaux-St-Jean,404,2,,2026-01-06
+8700152,8700074,Lyon Part Dieu,Marseille-St-Charles,99,0,,2026-01-06
+8700152,8700065,Lyon Part Dieu,Toulouse-Matabiau,249,0,,2026-01-06
+8700152,7800020,Lyon Part Dieu,Zagreb Glavni kolodvor,1166,8,,2026-01-06
+8700152,5500728,Lyon Part Dieu,Budapest-Nyugati,1068,7,,2026-01-06
+8700152,8300262,Lyon Part Dieu,Roma Tiburtina,572,6,,2026-01-06
+8700152,8300047,Lyon Part Dieu,Milano Porta Garibaldi,332,6,,2026-01-06
+8700152,8300522,Lyon Part Dieu,Torino Porta Susa,237,0,,2026-01-06
+8700152,8300153,Lyon Part Dieu,Genova Piazza Principe,382,6,,2026-01-06
+8700152,8200100,Lyon Part Dieu,Luxembourg,347,2,,2026-01-06
+8700152,8400597,Lyon Part Dieu,Tilburg,369,6,,2026-01-06
+8700152,8400058,Lyon Part Dieu,Amsterdam Centraal,376,2,,2026-01-06
+8700152,8400530,Lyon Part Dieu,Rotterdam Centraal,328,2,,2026-01-06
+8700152,5100065,Lyon Part Dieu,Warszawa Centralna,1196,8,,2026-01-06
+8700152,5100028,Lyon Part Dieu,Krakow Glowny,1235,6,,2026-01-06
+8700152,5100069,Lyon Part Dieu,Wroclaw Glowny,1139,8,,2026-01-06
+8700152,5100081,Lyon Part Dieu,Poznan Glowny,1049,8,,2026-01-06
+8700152,7400002,Lyon Part Dieu,Stockholm Central,1432,6,,2026-01-06
+8700152,7900003,Lyon Part Dieu,Ljubljana,817,6,,2026-01-06
+8700152,5600207,Lyon Part Dieu,Bratislava hl.st.,846,6,,2026-01-06
+8700065,8103000,Toulouse-Matabiau,Wien Hbf,1020,4,,2026-01-06
+8700065,8800004,Toulouse-Matabiau,Bruxelles Midi,417,2,,2026-01-06
+8700065,8800007,Toulouse-Matabiau,Antwerpen Centraal,487,2,,2026-01-06
+8700065,5400014,Toulouse-Matabiau,Praha hl.n.,1270,4,,2026-01-06
+8700065,8011160,Toulouse-Matabiau,Berlin Hbf,846,4,,2026-01-06
+8700065,8000096,Toulouse-Matabiau,Stuttgart Hbf,524,2,,2026-01-06
+8700065,8000261,Toulouse-Matabiau,München Hbf,680,4,,2026-01-06
+8700065,8002549,Toulouse-Matabiau,Hamburg Hbf,835,4,,2026-01-06
+8700065,8003368,Toulouse-Matabiau,Köln Messe/Deutz,546,4,,2026-01-06
+8700065,8000105,Toulouse-Matabiau,Frankfurt(Main)Hbf,568,4,,2026-01-06
+8700065,8000085,Toulouse-Matabiau,Düsseldorf Hbf,561,2,,2026-01-06
+8700065,8010205,Toulouse-Matabiau,Leipzig Hbf,769,6,,2026-01-06
+8700065,8000080,Toulouse-Matabiau,Dortmund Hbf,621,2,,2026-01-06
+8700065,8000098,Toulouse-Matabiau,Essen Hbf,595,2,,2026-01-06
+8700065,8000050,Toulouse-Matabiau,Bremen Hbf,774,4,,2026-01-06
+8700065,8010085,Toulouse-Matabiau,Dresden Hbf,1039,8,,2026-01-06
+8700065,8000152,Toulouse-Matabiau,Hannover Hbf,728,4,,2026-01-06
+8700065,8000284,Toulouse-Matabiau,Nürnberg Hbf,718,4,,2026-01-06
+8700065,8000086,Toulouse-Matabiau,Duisburg Hbf,578,2,,2026-01-06
+8700065,8601242,Toulouse-Matabiau,Koebenhavns Lufthavn st,1273,6,,2026-01-06
+8700065,7100064,Toulouse-Matabiau,Barcelona Sants,219,2,,2026-01-06
+8700065,8700012,Toulouse-Matabiau,Paris Lyon Banlieue,317,2,,2026-01-06
+8700065,8700047,Toulouse-Matabiau,Bordeaux-St-Jean,140,0,,2026-01-06
+8700065,8700074,Toulouse-Matabiau,Marseille-St-Charles,232,0,,2026-01-06
+8700065,8700152,Toulouse-Matabiau,Lyon Part Dieu,307,2,,2026-01-06
+8700065,7800020,Toulouse-Matabiau,Zagreb Glavni kolodvor,1335,8,,2026-01-06
+8700065,5500728,Toulouse-Matabiau,Budapest-Nyugati,1294,9,,2026-01-06
+8700065,8300262,Toulouse-Matabiau,Roma Tiburtina,1150,8,,2026-01-06
+8700065,8300047,Toulouse-Matabiau,Milano Porta Garibaldi,667,6,,2026-01-06
+8700065,8300522,Toulouse-Matabiau,Torino Porta Susa,580,6,,2026-01-06
+8700065,8300153,Toulouse-Matabiau,Genova Piazza Principe,701,6,,2026-01-06
+8700065,8200100,Toulouse-Matabiau,Luxembourg,458,2,,2026-01-06
+8700065,8400597,Toulouse-Matabiau,Tilburg,563,6,,2026-01-06
+8700065,8400058,Toulouse-Matabiau,Amsterdam Centraal,570,2,,2026-01-06
+8700065,8400530,Toulouse-Matabiau,Rotterdam Centraal,522,2,,2026-01-06
+8700065,5100065,Toulouse-Matabiau,Warszawa Centralna,1365,8,,2026-01-06
+8700065,5100028,Toulouse-Matabiau,Krakow Glowny,1551,8,,2026-01-06
+8700065,5100069,Toulouse-Matabiau,Wroclaw Glowny,1246,8,,2026-01-06
+8700065,5100081,Toulouse-Matabiau,Poznan Glowny,1091,8,,2026-01-06
+8700065,7400002,Toulouse-Matabiau,Stockholm Central,1655,6,,2026-01-06
+8700065,7900003,Toulouse-Matabiau,Ljubljana,1174,8,,2026-01-06
+8700065,5600207,Toulouse-Matabiau,Bratislava hl.st.,1190,6,,2026-01-06
+7800020,8103000,Zagreb Glavni kolodvor,Wien Hbf,393,6,,2026-01-06
+7800020,8800004,Zagreb Glavni kolodvor,Bruxelles Midi,1076,4,,2026-01-06
+7800020,8800007,Zagreb Glavni kolodvor,Antwerpen Centraal,1107,6,,2026-01-06
+7800020,5400014,Zagreb Glavni kolodvor,Praha hl.n.,684,8,,2026-01-06
+7800020,8011160,Zagreb Glavni kolodvor,Berlin Hbf,841,8,,2026-01-06
+7800020,8000096,Zagreb Glavni kolodvor,Stuttgart Hbf,652,6,,2026-01-06
+7800020,8000261,Zagreb Glavni kolodvor,München Hbf,531,4,,2026-01-06
+7800020,8002549,Zagreb Glavni kolodvor,Hamburg Hbf,917,4,,2026-01-06
+7800020,8003368,Zagreb Glavni kolodvor,Köln Messe/Deutz Gl.11-12,890,2,,2026-01-06
+7800020,8000105,Zagreb Glavni kolodvor,Frankfurt(Main)Hbf,764,6,,2026-01-06
+7800020,8000085,Zagreb Glavni kolodvor,Düsseldorf Hbf,914,2,,2026-01-06
+7800020,8010205,Zagreb Glavni kolodvor,Leipzig Hbf,776,6,,2026-01-06
+7800020,8000080,Zagreb Glavni kolodvor,Dortmund Hbf,968,2,,2026-01-06
+7800020,8000098,Zagreb Glavni kolodvor,Essen Hbf,943,2,,2026-01-06
+7800020,8000050,Zagreb Glavni kolodvor,Bremen Hbf,967,6,,2026-01-06
+7800020,8010085,Zagreb Glavni kolodvor,Dresden Hbf,949,4,,2026-01-06
+7800020,8000152,Zagreb Glavni kolodvor,Hannover Hbf,832,4,,2026-01-06
+7800020,8000284,Zagreb Glavni kolodvor,Nürnberg Hbf,623,6,,2026-01-06
+7800020,8000086,Zagreb Glavni kolodvor,Duisburg Hbf,930,2,,2026-01-06
+7800020,8601242,Zagreb Glavni kolodvor,Koebenhavns Lufthavn st,1369,8,,2026-01-06
+7800020,7100064,Zagreb Glavni kolodvor,Barcelona Sants,2457,6,,2026-01-06
+7800020,8700012,Zagreb Glavni kolodvor,Paris Lyon Banlieue,1055,4,,2026-01-06
+7800020,8700047,Zagreb Glavni kolodvor,Bordeaux-St-Jean,1231,4,,2026-01-06
+7800020,8700074,Zagreb Glavni kolodvor,Marseille-St-Charles,1446,4,,2026-01-06
+7800020,8700152,Zagreb Glavni kolodvor,Lyon Part Dieu,1205,8,,2026-01-06
+7800020,8700065,Zagreb Glavni kolodvor,Toulouse-Matabiau,1441,4,,2026-01-06
+7800020,5500728,Zagreb Glavni kolodvor,Budapest-Nyugati,384,1,,2026-01-06
+7800020,8300262,Zagreb Glavni kolodvor,Roma Tiburtina,795,4,,2026-01-06
+7800020,8300047,Zagreb Glavni kolodvor,Milano Porta Garibaldi Passante,741,8,,2026-01-06
+7800020,8300522,Zagreb Glavni kolodvor,Torino Porta Susa,869,4,,2026-01-06
+7800020,8300153,Zagreb Glavni kolodvor,Genova Piazza Principe,905,6,,2026-01-06
+7800020,8200100,Zagreb Glavni kolodvor,Luxembourg,1021,6,,2026-01-06
+7800020,8400597,Zagreb Glavni kolodvor,Tilburg,1097,6,,2026-01-06
+7800020,8400058,Zagreb Glavni kolodvor,Amsterdam Centraal,1070,4,,2026-01-06
+7800020,8400530,Zagreb Glavni kolodvor,Rotterdam Centraal,1081,6,,2026-01-06
+7800020,5100065,Zagreb Glavni kolodvor,Warszawa Centralna,1150,4,,2026-01-06
+7800020,5100028,Zagreb Glavni kolodvor,Krakow Glowny,1066,6,,2026-01-06
+7800020,5100069,Zagreb Glavni kolodvor,Wroclaw Glowny,836,2,,2026-01-06
+7800020,5100081,Zagreb Glavni kolodvor,Poznan Glowny,915,2,,2026-01-06
+7800020,7400002,Zagreb Glavni kolodvor,Stockholm Central,2227,8,,2026-01-06
+7800020,7900003,Zagreb Glavni kolodvor,Ljubljana,141,0,,2026-01-06
+7800020,5600207,Zagreb Glavni kolodvor,Bratislava hl.st.,456,8,,2026-01-06
+5500728,8103000,Budapest-Nyugati,Wien Hbf,190,1,,2026-01-06
+5500728,8800004,Budapest-Nyugati,Bruxelles Midi,865,5,,2026-01-06
+5500728,8800007,Budapest-Nyugati,Antwerpen Centraal,943,7,,2026-01-06
+5500728,5400014,Budapest-Nyugati,Praha hl.n.,413,0,,2026-01-06
+5500728,8011160,Budapest-Nyugati,Berlin Hbf,659,2,,2026-01-06
+5500728,8000096,Budapest-Nyugati,Stuttgart Hbf,609,7,,2026-01-06
+5500728,8000261,Budapest-Nyugati,München Hbf,451,5,,2026-01-06
+5500728,8002549,Budapest-Nyugati,Hamburg Hbf,767,5,,2026-01-06
+5500728,8003368,Budapest-Nyugati,Köln Messe/Deutz Gl.11-12,724,5,,2026-01-06
+5500728,8000105,Budapest-Nyugati,Frankfurt(Main)Hbf,627,3,,2026-01-06
+5500728,8000085,Budapest-Nyugati,Düsseldorf Hbf,746,5,,2026-01-06
+5500728,8010205,Budapest-Nyugati,Leipzig Hbf (tief),647,7,,2026-01-06
+5500728,8000080,Budapest-Nyugati,Dortmund Hbf,806,5,,2026-01-06
+5500728,8000098,Budapest-Nyugati,Essen Hbf,795,7,,2026-01-06
+5500728,8000050,Budapest-Nyugati,Bremen Hbf,760,7,,2026-01-06
+5500728,8010085,Budapest-Nyugati,Dresden Hbf,560,2,,2026-01-06
+5500728,8000152,Budapest-Nyugati,Hannover Hbf,682,5,,2026-01-06
+5500728,8000284,Budapest-Nyugati,Nürnberg Hbf,499,3,,2026-01-06
+5500728,8000086,Budapest-Nyugati,Duisburg Hbf,759,5,,2026-01-06
+5500728,8601242,Budapest-Nyugati,Koebenhavns Lufthavn st,1217,5,,2026-01-06
+5500728,7100064,Budapest-Nyugati,Barcelona Sants,1393,9,,2026-01-06
+5500728,8700012,Budapest-Nyugati,Paris Lyon Banlieue,1143,9,,2026-01-06
+5500728,8700047,Budapest-Nyugati,Bordeaux-St-Jean,1200,5,,2026-01-06
+5500728,8700074,Budapest-Nyugati,Marseille-St-Charles,1146,9,,2026-01-06
+5500728,8700152,Budapest-Nyugati,Lyon Part Dieu,1186,9,,2026-01-06
+5500728,8700065,Budapest-Nyugati,Toulouse-Matabiau,1358,9,,2026-01-06
+5500728,7800020,Budapest-Nyugati,Zagreb Glavni kolodvor,418,1,,2026-01-06
+5500728,8300262,Budapest-Nyugati,Roma Tiburtina,971,7,,2026-01-06
+5500728,8300047,Budapest-Nyugati,Milano Porta Garibaldi Passante,825,7,,2026-01-06
+5500728,8300522,Budapest-Nyugati,Torino Porta Susa,1045,7,,2026-01-06
+5500728,8300153,Budapest-Nyugati,Genova Piazza Principe,1081,9,,2026-01-06
+5500728,8200100,Budapest-Nyugati,Luxembourg,880,9,,2026-01-06
+5500728,8400597,Budapest-Nyugati,Tilburg,1046,7,,2026-01-06
+5500728,8400058,Budapest-Nyugati,Amsterdam Centraal,1059,3,,2026-01-06
+5500728,8400530,Budapest-Nyugati,Rotterdam Centraal,1084,7,,2026-01-06
+5500728,5100065,Budapest-Nyugati,Warszawa Centralna,634,4,,2026-01-06
+5500728,5100028,Budapest-Nyugati,Krakow Glowny,480,2,,2026-01-06
+5500728,5100069,Budapest-Nyugati,Wroclaw Glowny,476,2,,2026-01-06
+5500728,5100081,Budapest-Nyugati,Poznan Glowny,555,2,,2026-01-06
+5500728,7400002,Budapest-Nyugati,Stockholm Central,1546,7,,2026-01-06
+5500728,7900003,Budapest-Nyugati,Ljubljana,539,5,,2026-01-06
+5500728,5600207,Budapest-Nyugati,Bratislava hl.st.,145,0,,2026-01-06
+8300262,8103000,Roma Tiburtina,Wien Hbf,692,6,,2026-01-06
+8300262,8800004,Roma Tiburtina,Bruxelles Midi,1065,9,,2026-01-06
+8300262,8800007,Roma Tiburtina,Antwerpen Centraal,1116,8,,2026-01-06
+8300262,5400014,Roma Tiburtina,Praha hl.n.,1054,8,,2026-01-06
+8300262,8011160,Roma Tiburtina,Berlin Hbf,995,6,,2026-01-06
+8300262,8000096,Roma Tiburtina,Stuttgart Hbf,612,4,,2026-01-06
+8300262,8000261,Roma Tiburtina,München Hbf Gl.5-10,545,2,,2026-01-06
+8300262,8002549,Roma Tiburtina,Hamburg Hbf,1102,6,,2026-01-06
+8300262,8003368,Roma Tiburtina,Köln Messe/Deutz Gl.11-12,774,8,,2026-01-06
+8300262,8000105,Roma Tiburtina,Frankfurt(Main)Hbf,709,6,,2026-01-06
+8300262,8000085,Roma Tiburtina,Düsseldorf Hbf,796,8,,2026-01-06
+8300262,8010205,Roma Tiburtina,Leipzig Hbf,765,4,,2026-01-06
+8300262,8000080,Roma Tiburtina,Dortmund Hbf,856,8,,2026-01-06
+8300262,8000098,Roma Tiburtina,Essen Hbf,847,8,,2026-01-06
+8300262,8000050,Roma Tiburtina,Bremen Hbf,1082,5,,2026-01-06
+8300262,8010085,Roma Tiburtina,Dresden Hbf,1094,6,,2026-01-06
+8300262,8000152,Roma Tiburtina,Hannover Hbf,906,8,,2026-01-06
+8300262,8000284,Roma Tiburtina,Nürnberg Hbf,637,4,,2026-01-06
+8300262,8000086,Roma Tiburtina,Duisburg Hbf,809,8,,2026-01-06
+8300262,8601242,Roma Tiburtina,Koebenhavns Lufthavn st,1327,6,,2026-01-06
+8300262,7100064,Roma Tiburtina,Barcelona Sants,1403,4,,2026-01-06
+8300262,8700012,Roma Tiburtina,Paris Gare de Lyon,644,4,,2026-01-06
+8300262,8700047,Roma Tiburtina,Bordeaux-St-Jean,1163,8,,2026-01-06
+8300262,8700074,Roma Tiburtina,Marseille-St-Charles,703,6,,2026-01-06
+8300262,8700152,Roma Tiburtina,Lyon Part Dieu,520,4,,2026-01-06
+8300262,8700065,Roma Tiburtina,Toulouse-Matabiau,959,8,,2026-01-06
+8300262,7800020,Roma Tiburtina,Zagreb Glavni kolodvor,815,4,,2026-01-06
+8300262,5500728,Roma Tiburtina,Budapest-Nyugati,914,9,,2026-01-06
+8300262,8300047,Roma Tiburtina,Milano Porta Garibaldi,217,0,,2026-01-06
+8300262,8300522,Roma Tiburtina,Torino Porta Susa,269,0,,2026-01-06
+8300262,8300153,Roma Tiburtina,Genova Piazza Principe,304,4,,2026-01-06
+8300262,8200100,Roma Tiburtina,Luxembourg,749,6,,2026-01-06
+8300262,8400597,Roma Tiburtina,Tilburg,1066,9,,2026-01-06
+8300262,8400058,Roma Tiburtina,Amsterdam Centraal,1115,9,,2026-01-06
+8300262,8400530,Roma Tiburtina,Rotterdam Centraal,1104,9,,2026-01-06
+8300262,5100065,Roma Tiburtina,Warszawa Centralna,1260,8,,2026-01-06
+8300262,5100028,Roma Tiburtina,Krakow Glowny,1215,8,,2026-01-06
+8300262,5100069,Roma Tiburtina,Wroclaw Glowny,1126,8,,2026-01-06
+8300262,5100081,Roma Tiburtina,Poznan Glowny,1308,8,,2026-01-06
+8300262,7400002,,,-1,0,,2026-01-06
+8300262,7900003,Roma Tiburtina,Ljubljana,603,5,,2026-01-06
+8300262,5600207,Roma Tiburtina,Bratislava hl.st.,790,8,,2026-01-06
+8300047,8103000,Milano Porta Garibaldi Passante,Wien Hbf,604,6,,2026-01-06
+8300047,8800004,Milano Porta Garibaldi,Bruxelles Midi,608,8,,2026-01-06
+8300047,8800007,Milano Porta Garibaldi,Antwerpen Centraal,648,8,,2026-01-06
+8300047,5400014,Milano Porta Garibaldi,Praha hl.n.,789,4,,2026-01-06
+8300047,8011160,Milano Porta Garibaldi,Berlin Hbf,712,8,,2026-01-06
+8300047,8000096,Milano Porta Garibaldi,Stuttgart Hbf,413,4,,2026-01-06
+8300047,8000261,Milano Porta Garibaldi,München Hbf,434,2,,2026-01-06
+8300047,8002549,Milano Porta Garibaldi,Hamburg Hbf,710,8,,2026-01-06
+8300047,8003368,Milano Porta Garibaldi,Köln Messe/Deutz Gl.11-12,523,8,,2026-01-06
+8300047,8000105,Milano Porta Garibaldi,Frankfurt(Main)Hbf,458,8,,2026-01-06
+8300047,8000085,Milano Porta Garibaldi,Düsseldorf Hbf,541,6,,2026-01-06
+8300047,8010205,Milano Porta Garibaldi,Leipzig Hbf,638,8,,2026-01-06
+8300047,8000080,Milano Porta Garibaldi,Dortmund Hbf,590,6,,2026-01-06
+8300047,8000098,Milano Porta Garibaldi,Essen Hbf,567,6,,2026-01-06
+8300047,8000050,Milano Porta Garibaldi,Bremen Hbf,706,6,,2026-01-06
+8300047,8010085,Milano Porta Garibaldi,Dresden Hbf,752,6,,2026-01-06
+8300047,8000152,Milano Porta Garibaldi,Hannover Hbf,626,8,,2026-01-06
+8300047,8000284,Milano Porta Garibaldi,Nürnberg Hbf,524,4,,2026-01-06
+8300047,8000086,Milano Porta Garibaldi,Duisburg Hbf,554,6,,2026-01-06
+8300047,8601242,Milano Porta Garibaldi,Koebenhavns Lufthavn st,1124,8,,2026-01-06
+8300047,7100064,Milano Porta Garibaldi Passante,Barcelona Sants,774,8,,2026-01-06
+8300047,8700012,Milano Porta Garibaldi,Paris Gare de Lyon,419,2,,2026-01-06
+8300047,8700047,Milano Porta Garibaldi,Bordeaux-St-Jean,668,8,,2026-01-06
+8300047,8700074,Milano Porta Garibaldi,Marseille-St-Charles,494,4,,2026-01-06
+8300047,8700152,Milano Porta Garibaldi,Lyon Part Dieu,361,2,,2026-01-06
+8300047,8700065,Milano Porta Garibaldi Passante,Toulouse-Matabiau,1082,8,,2026-01-06
+8300047,7800020,Milano Porta Garibaldi Passante,Zagreb Glavni kolodvor,737,6,,2026-01-06
+8300047,5500728,Milano Porta Garibaldi,Budapest-Nyugati,816,7,,2026-01-06
+8300047,8300262,Milano Porta Garibaldi,Roma Tiburtina,215,0,,2026-01-06
+8300047,8300522,Milano Porta Garibaldi,Torino Porta Susa,50,0,,2026-01-06
+8300047,8300153,Milano Porta Garibaldi Passante,Genova Piazza Principe,124,2,,2026-01-06
+8300047,8200100,Milano Porta Garibaldi,Luxembourg,550,6,,2026-01-06
+8300047,8400597,Milano Porta Garibaldi,Tilburg,797,6,,2026-01-06
+8300047,8400058,Milano Porta Garibaldi,Amsterdam Centraal,731,8,,2026-01-06
+8300047,8400530,Milano Porta Garibaldi,Rotterdam Centraal,683,8,,2026-01-06
+8300047,5100065,Milano Porta Garibaldi Passante,Warszawa Centralna,1257,8,,2026-01-06
+8300047,5100028,Milano Porta Garibaldi,Krakow Glowny,1197,8,,2026-01-06
+8300047,5100069,Milano Porta Garibaldi,Wroclaw Glowny,1220,8,,2026-01-06
+8300047,5100081,Milano Porta Garibaldi,Poznan Glowny,1082,8,,2026-01-06
+8300047,7400002,Milano Porta Garibaldi,Stockholm Central,1506,8,,2026-01-06
+8300047,7900003,Milano Porta Garibaldi Passante,Ljubljana,516,6,,2026-01-06
+8300047,5600207,Milano Porta Garibaldi,Bratislava hl.st.,717,6,,2026-01-06
+8300522,8103000,Torino Porta Susa,Wien Hbf,657,6,,2026-01-06
+8300522,8800004,Torino Porta Susa,Bruxelles Midi,694,6,,2026-01-06
+8300522,8800007,Torino Porta Susa,Antwerpen Centraal,531,2,,2026-01-06
+8300522,5400014,Torino Porta Susa,Praha hl.n.,1019,8,,2026-01-06
+8300522,8011160,Torino Porta Susa,Berlin Hbf,804,8,,2026-01-06
+8300522,8000096,Torino Porta Susa,Stuttgart Hbf,452,4,,2026-01-06
+8300522,8000261,Torino Porta Susa,München Hbf,508,4,,2026-01-06
+8300522,8002549,Torino Porta Susa,Hamburg Hbf,789,6,,2026-01-06
+8300522,8003368,Torino Porta Susa,Köln Messe/Deutz Gl.11-12,604,8,,2026-01-06
+8300522,8000105,Torino Porta Susa,Frankfurt(Main)Hbf,539,8,,2026-01-06
+8300522,8000085,Torino Porta Susa,Düsseldorf Hbf,612,8,,2026-01-06
+8300522,8010205,Torino Porta Susa,Leipzig Hbf,764,8,,2026-01-06
+8300522,8000080,Torino Porta Susa,Dortmund Hbf,661,8,,2026-01-06
+8300522,8000098,Torino Porta Susa,Essen Hbf,638,8,,2026-01-06
+8300522,8000050,Torino Porta Susa,Bremen Hbf,777,8,,2026-01-06
+8300522,8010085,Torino Porta Susa,Dresden Hbf,865,6,,2026-01-06
+8300522,8000152,Torino Porta Susa,Hannover Hbf,705,6,,2026-01-06
+8300522,8000284,Torino Porta Susa,Nürnberg Hbf,617,8,,2026-01-06
+8300522,8000086,Torino Porta Susa,Duisburg Hbf,625,8,,2026-01-06
+8300522,8601242,Torino Porta Susa,Koebenhavns Lufthavn st,1217,8,,2026-01-06
+8300522,7100064,Torino Porta Susa,Barcelona Sants,707,4,,2026-01-06
+8300522,8700012,Torino Porta Susa,Paris Gare de Lyon,333,0,,2026-01-06
+8300522,8700047,Torino Porta Susa,Bordeaux-St-Jean,518,4,,2026-01-06
+8300522,8700074,Torino Porta Susa,Marseille-St-Charles,403,4,,2026-01-06
+8300522,8700152,Torino Porta Susa,Lyon Part Dieu,232,0,,2026-01-06
+8300522,8700065,Torino Porta Susa,Toulouse-Matabiau,549,2,,2026-01-06
+8300522,7800020,Torino Porta Susa,Zagreb Glavni kolodvor,800,6,,2026-01-06
+8300522,5500728,Torino Porta Susa,Budapest-Nyugati,879,9,,2026-01-06
+8300522,8300262,Torino Porta Susa,Roma Tiburtina,270,0,,2026-01-06
+8300522,8300047,Torino Porta Susa,Milano Porta Garibaldi,50,0,,2026-01-06
+8300522,8300153,Torino Porta Susa,Genova Piazza Principe,108,2,,2026-01-06
+8300522,8200100,Torino Porta Susa,Luxembourg,589,6,,2026-01-06
+8300522,8400597,Torino Porta Susa,Tilburg,876,8,,2026-01-06
+8300522,8400058,Torino Porta Susa,Amsterdam Centraal,849,6,,2026-01-06
+8300522,8400530,Torino Porta Susa,Rotterdam Centraal,566,2,,2026-01-06
+8300522,5100065,Torino Porta Susa,Warszawa Centralna,1310,8,,2026-01-06
+8300522,5100028,Torino Porta Susa,Krakow Glowny,1265,8,,2026-01-06
+8300522,5100069,Torino Porta Susa,Wroclaw Glowny,1211,4,,2026-01-06
+8300522,5100081,Torino Porta Susa,Poznan Glowny,1173,6,,2026-01-06
+8300522,7400002,,,-1,0,,2026-01-06
+8300522,7900003,Torino Porta Susa,Ljubljana,554,6,,2026-01-06
+8300522,5600207,Torino Porta Susa,Bratislava hl.st.,769,6,,2026-01-06
+8300153,8103000,Genova Piazza Principe,Wien Hbf,708,4,,2026-01-06
+8300153,8800004,Genova Piazza Principe,Bruxelles Midi,709,6,,2026-01-06
+8300153,8800007,Genova Piazza Principe,Antwerpen Centraal,828,8,,2026-01-06
+8300153,5400014,Genova Piazza Principe,Praha hl.n.,1071,8,,2026-01-06
+8300153,8011160,Genova Piazza Principe,Berlin Hbf,856,8,,2026-01-06
+8300153,8000096,Genova Piazza Principe,Stuttgart Hbf,553,4,,2026-01-06
+8300153,8000261,Genova Piazza Principe,München Hbf,549,4,,2026-01-06
+8300153,8002549,Genova Piazza Principe,Hamburg Hbf,851,6,,2026-01-06
+8300153,8003368,Genova Piazza Principe,Köln Messe/Deutz Gl.11-12,671,8,,2026-01-06
+8300153,8000105,Genova Piazza Principe,Frankfurt(Main)Hbf,590,8,,2026-01-06
+8300153,8000085,Genova Piazza Principe,Düsseldorf Hbf,695,8,,2026-01-06
+8300153,8010205,Genova Piazza Principe,Leipzig Hbf,770,8,,2026-01-06
+8300153,8000080,Genova Piazza Principe,Dortmund Hbf,763,8,,2026-01-06
+8300153,8000098,Genova Piazza Principe,Essen Hbf,724,8,,2026-01-06
+8300153,8000050,Genova Piazza Principe,Bremen Hbf,869,8,,2026-01-06
+8300153,8010085,Genova Piazza Principe,Dresden Hbf,975,8,,2026-01-06
+8300153,8000152,Genova Piazza Principe,Hannover Hbf,767,6,,2026-01-06
+8300153,8000284,Genova Piazza Principe,Nürnberg Hbf,654,6,,2026-01-06
+8300153,8000086,Genova Piazza Principe,Duisburg Hbf,711,8,,2026-01-06
+8300153,8601242,Genova Piazza Principe,Koebenhavns Lufthavn st,1222,8,,2026-01-06
+8300153,7100064,Genova Piazza Principe,Barcelona Sants,754,8,,2026-01-06
+8300153,8700012,Genova Piazza Principe,Paris Gare de Lyon,525,2,,2026-01-06
+8300153,8700047,Genova Piazza Principe,Bordeaux-St-Jean,773,6,,2026-01-06
+8300153,8700074,Genova Piazza Principe,Marseille-St-Charles,365,4,,2026-01-06
+8300153,8700152,Genova Piazza Principe,Lyon Part Dieu,401,2,,2026-01-06
+8300153,8700065,Genova Piazza Principe,Toulouse-Matabiau,618,6,,2026-01-06
+8300153,7800020,Genova Piazza Principe,Zagreb Glavni kolodvor,955,4,,2026-01-06
+8300153,5500728,Genova Piazza Principe,Budapest-Nyugati,931,9,,2026-01-06
+8300153,8300262,Genova Piazza Principe,Roma Tiburtina,309,4,,2026-01-06
+8300153,8300047,Genova Piazza Principe,Milano Porta Garibaldi Passante,122,2,,2026-01-06
+8300153,8300522,Genova Piazza Principe,Torino Porta Susa,113,2,,2026-01-06
+8300153,8200100,Genova Piazza Principe,Luxembourg,690,6,,2026-01-06
+8300153,8400597,Genova Piazza Principe,Tilburg,849,8,,2026-01-06
+8300153,8400058,Genova Piazza Principe,Amsterdam Centraal,1026,8,,2026-01-06
+8300153,8400530,Genova Piazza Principe,Rotterdam Centraal,1015,8,,2026-01-06
+8300153,5100065,Genova Piazza Principe,Warszawa Centralna,1361,8,,2026-01-06
+8300153,5100028,Genova Piazza Principe,Krakow Glowny,1276,6,,2026-01-06
+8300153,5100069,Genova Piazza Principe,Wroclaw Glowny,1211,8,,2026-01-06
+8300153,5100081,Genova Piazza Principe,Poznan Glowny,1214,8,,2026-01-06
+8300153,7400002,Genova Piazza Principe,Stockholm Central,1600,8,,2026-01-06
+8300153,7900003,Genova Piazza Principe,Ljubljana,590,6,,2026-01-06
+8300153,5600207,Genova Piazza Principe,Bratislava hl.st.,805,6,,2026-01-06
+8200100,8103000,Luxembourg,Wien Hbf,653,8,,2026-01-06
+8200100,8800004,Luxembourg,Bruxelles Midi,197,0,,2026-01-06
+8200100,8800007,Luxembourg,Antwerpen Centraal,235,2,,2026-01-06
+8200100,5400014,Luxembourg,Praha hl.n.,712,8,,2026-01-06
+8200100,8011160,Luxembourg,Berlin Hbf,502,4,,2026-01-06
+8200100,8000096,Luxembourg,Stuttgart Hbf,236,4,,2026-01-06
+8200100,8000261,Luxembourg,München Hbf,357,4,,2026-01-06
+8200100,8002549,Luxembourg,Hamburg Hbf,494,4,,2026-01-06
+8200100,8003368,Luxembourg,Köln Messe/Deutz,226,4,,2026-01-06
+8200100,8000105,Luxembourg,Frankfurt(Main)Hbf,234,4,,2026-01-06
+8200100,8000085,Luxembourg,Düsseldorf Hbf,247,4,,2026-01-06
+8200100,8010205,Luxembourg,Leipzig Hbf,436,4,,2026-01-06
+8200100,8000080,Luxembourg,Dortmund Hbf,289,2,,2026-01-06
+8200100,8000098,Luxembourg,Essen Hbf,280,2,,2026-01-06
+8200100,8000050,Luxembourg,Bremen Hbf,461,4,,2026-01-06
+8200100,8010085,Luxembourg,Dresden Hbf,508,4,,2026-01-06
+8200100,8000152,Luxembourg,Hannover Hbf,406,4,,2026-01-06
+8200100,8000284,Luxembourg,Nürnberg Hbf,403,4,,2026-01-06
+8200100,8000086,Luxembourg,Duisburg Hbf,265,4,,2026-01-06
+8200100,8601242,Luxembourg,Koebenhavns Lufthavn st,823,8,,2026-01-06
+8200100,7100064,Luxembourg,Barcelona Sants,684,2,,2026-01-06
+8200100,8700012,Luxembourg,Paris Lyon Banlieue,186,2,,2026-01-06
+8200100,8700047,Luxembourg,Bordeaux-St-Jean,304,2,,2026-01-06
+8200100,8700074,Luxembourg,Marseille-St-Charles,426,2,,2026-01-06
+8200100,8700152,Luxembourg,Lyon Part Dieu,348,2,,2026-01-06
+8200100,8700065,Luxembourg,Toulouse-Matabiau,546,2,,2026-01-06
+8200100,7800020,Luxembourg,Zagreb Glavni kolodvor,1050,6,,2026-01-06
+8200100,5500728,Luxembourg,Budapest-Nyugati,916,7,,2026-01-06
+8200100,8300262,Luxembourg,Roma Tiburtina,781,8,,2026-01-06
+8200100,8300047,Luxembourg,Milano Porta Garibaldi,582,8,,2026-01-06
+8200100,8300522,Luxembourg,Torino Porta Susa,615,2,,2026-01-06
+8200100,8300153,Luxembourg,Genova Piazza Principe,665,8,,2026-01-06
+8200100,8400597,Luxembourg,Tilburg,319,6,,2026-01-06
+8200100,8400058,Luxembourg,Amsterdam Centraal,339,2,,2026-01-06
+8200100,8400530,Luxembourg,Rotterdam Centraal,291,2,,2026-01-06
+8200100,5100065,Luxembourg,Warszawa Centralna,825,6,,2026-01-06
+8200100,5100028,Luxembourg,Krakow Glowny,1095,8,,2026-01-06
+8200100,5100069,Luxembourg,Wroclaw Glowny,767,8,,2026-01-06
+8200100,5100081,Luxembourg,Poznan Glowny,678,6,,2026-01-06
+8200100,7400002,Luxembourg,Stockholm Central,1241,6,,2026-01-06
+8200100,7900003,Luxembourg,Ljubljana,804,6,,2026-01-06
+8200100,5600207,Luxembourg,Bratislava hl.st.,756,8,,2026-01-06
+8400597,8103000,Tilburg,Wien Hbf,652,8,,2026-01-06
+8400597,8800004,Tilburg,Bruxelles Midi,109,4,,2026-01-06
+8400597,8800007,Tilburg,Antwerpen Centraal,59,2,,2026-01-06
+8400597,5400014,Tilburg,Praha hl.n.,681,6,,2026-01-06
+8400597,8011160,Tilburg,Berlin Hbf,368,4,,2026-01-06
+8400597,8000096,Tilburg,Stuttgart Hbf,316,8,,2026-01-06
+8400597,8000261,Tilburg,München Hbf,431,6,,2026-01-06
+8400597,8002549,Tilburg,Hamburg Hbf,319,8,,2026-01-06
+8400597,8003368,Tilburg,Köln Messe/Deutz,166,6,,2026-01-06
+8400597,8000105,Tilburg,Frankfurt(Main)Hbf,236,6,,2026-01-06
+8400597,8000085,Tilburg,Düsseldorf Hbf,134,4,,2026-01-06
+8400597,8010205,Tilburg,Leipzig Hbf,434,8,,2026-01-06
+8400597,8000080,Tilburg,Dortmund Hbf,168,8,,2026-01-06
+8400597,8000098,Tilburg,Essen Hbf,139,6,,2026-01-06
+8400597,8000050,Tilburg,Bremen Hbf,280,6,,2026-01-06
+8400597,8010085,Tilburg,Dresden Hbf,530,8,,2026-01-06
+8400597,8000152,Tilburg,Hannover Hbf,267,4,,2026-01-06
+8400597,8000284,Tilburg,Nürnberg Hbf,363,6,,2026-01-06
+8400597,8000086,Tilburg,Duisburg Hbf,124,6,,2026-01-06
+8400597,8601242,Tilburg,Koebenhavns Lufthavn st,709,8,,2026-01-06
+8400597,7100064,Tilburg,Barcelona Sants,735,6,,2026-01-06
+8400597,8700012,Tilburg,Paris Lyon Banlieue,230,8,,2026-01-06
+8400597,8700047,Tilburg,Bordeaux-St-Jean,413,6,,2026-01-06
+8400597,8700074,Tilburg,Marseille-St-Charles,467,4,,2026-01-06
+8400597,8700152,Tilburg,Lyon Part Dieu,371,4,,2026-01-06
+8400597,8700065,Tilburg,Toulouse-Matabiau,571,6,,2026-01-06
+8400597,7800020,Tilburg,Zagreb Glavni kolodvor,1106,8,,2026-01-06
+8400597,5500728,Tilburg,Budapest-Nyugati,1065,9,,2026-01-06
+8400597,8300262,Tilburg,Roma Tiburtina,1051,6,,2026-01-06
+8400597,8300047,Tilburg,Milano Porta Garibaldi,677,8,,2026-01-06
+8400597,8300522,Tilburg,Torino Porta Susa,603,6,,2026-01-06
+8400597,8300153,Tilburg,Genova Piazza Principe,853,8,,2026-01-06
+8400597,8200100,Tilburg,Luxembourg,298,4,,2026-01-06
+8400597,8400058,Tilburg,Amsterdam Centraal,81,2,,2026-01-06
+8400597,8400530,Tilburg,Rotterdam Centraal,37,0,,2026-01-06
+8400597,5100065,Tilburg,Warszawa Centralna,686,6,,2026-01-06
+8400597,5100028,Tilburg,Krakow Glowny,820,8,,2026-01-06
+8400597,5100069,Tilburg,Wroclaw Glowny,644,8,,2026-01-06
+8400597,5100081,Tilburg,Poznan Glowny,539,6,,2026-01-06
+8400597,7400002,Tilburg,Stockholm Central,1102,8,,2026-01-06
+8400597,7900003,Tilburg,Ljubljana,872,8,,2026-01-06
+8400597,5600207,Tilburg,Bratislava hl.st.,788,8,,2026-01-06
+8400058,8103000,Amsterdam Centraal,Wien Hbf,676,4,,2026-01-06
+8400058,8800004,Amsterdam Centraal,Bruxelles Midi,116,0,,2026-01-06
+8400058,8800007,Amsterdam Centraal,Antwerpen Centraal,80,0,,2026-01-06
+8400058,5400014,Amsterdam Centraal,Praha hl.n.,626,2,,2026-01-06
+8400058,8011160,Amsterdam Centraal,Berlin Hbf,342,0,,2026-01-06
+8400058,8000096,Amsterdam Centraal,Stuttgart Hbf,295,2,,2026-01-06
+8400058,8000261,Amsterdam Centraal,München Hbf,429,2,,2026-01-06
+8400058,8002549,Amsterdam Centraal,Hamburg Hbf,315,2,,2026-01-06
+8400058,8003368,Amsterdam Centraal,Köln Messe/Deutz Gl.11-12,176,2,,2026-01-06
+8400058,8000105,Amsterdam Centraal,Frankfurt(Main)Hbf,247,0,,2026-01-06
+8400058,8000085,Amsterdam Centraal,Düsseldorf Hbf,136,0,,2026-01-06
+8400058,8010205,Amsterdam Centraal,Leipzig Hbf,436,2,,2026-01-06
+8400058,8000080,Amsterdam Centraal,Dortmund Hbf,175,2,,2026-01-06
+8400058,8000098,Amsterdam Centraal,Essen Hbf,144,2,,2026-01-06
+8400058,8000050,Amsterdam Centraal,Bremen Hbf,254,2,,2026-01-06
+8400058,8010085,Amsterdam Centraal,Dresden Hbf,507,2,,2026-01-06
+8400058,8000152,Amsterdam Centraal,Hannover Hbf,241,0,,2026-01-06
+8400058,8000284,Amsterdam Centraal,Nürnberg Hbf,387,2,,2026-01-06
+8400058,8000086,Amsterdam Centraal,Duisburg Hbf,128,0,,2026-01-06
+8400058,8601242,Amsterdam Centraal,Koebenhavns Lufthavn st,683,4,,2026-01-06
+8400058,7100064,Amsterdam Centraal,Barcelona Sants,673,4,,2026-01-06
+8400058,8700012,Amsterdam Centraal,Paris Lyon Banlieue,237,4,,2026-01-06
+8400058,8700047,Amsterdam Centraal,Bordeaux-St-Jean,418,2,,2026-01-06
+8400058,8700074,Amsterdam Centraal,Marseille-St-Charles,464,2,,2026-01-06
+8400058,8700152,Amsterdam Centraal,Lyon Part Dieu,368,2,,2026-01-06
+8400058,8700065,Amsterdam Centraal,Toulouse-Matabiau,582,2,,2026-01-06
+8400058,7800020,Amsterdam Centraal,Zagreb Glavni kolodvor,1072,6,,2026-01-06
+8400058,5500728,Amsterdam Centraal,Budapest-Nyugati,1031,7,,2026-01-06
+8400058,8300262,Amsterdam Centraal,Roma Tiburtina,1151,8,,2026-01-06
+8400058,8300047,Amsterdam Centraal,Milano Porta Garibaldi,684,4,,2026-01-06
+8400058,8300522,Amsterdam Centraal,Torino Porta Susa,610,2,,2026-01-06
+8400058,8300153,Amsterdam Centraal,Genova Piazza Principe,806,8,,2026-01-06
+8400058,8200100,Amsterdam Centraal,Luxembourg,339,2,,2026-01-06
+8400058,8400597,Amsterdam Centraal,Tilburg,81,4,,2026-01-06
+8400058,8400530,Amsterdam Centraal,Rotterdam Centraal,42,0,,2026-01-06
+8400058,5100065,Amsterdam Centraal,Warszawa Centralna,660,2,,2026-01-06
+8400058,5100028,Amsterdam Centraal,Krakow Glowny,820,8,,2026-01-06
+8400058,5100069,Amsterdam Centraal,Wroclaw Glowny,644,8,,2026-01-06
+8400058,5100081,Amsterdam Centraal,Poznan Glowny,513,2,,2026-01-06
+8400058,7400002,Amsterdam Centraal,Stockholm Central,1056,8,,2026-01-06
+8400058,7900003,Amsterdam Centraal,Ljubljana,838,6,,2026-01-06
+8400058,5600207,Amsterdam Centraal,Bratislava hl.st.,761,6,,2026-01-06
+8400530,8103000,Rotterdam Centraal,Wien Hbf,687,6,,2026-01-06
+8400530,8800004,Rotterdam Centraal,Bruxelles Midi,68,0,,2026-01-06
+8400530,8800007,Rotterdam Centraal,Antwerpen Centraal,32,0,,2026-01-06
+8400530,5400014,Rotterdam Centraal,Praha hl.n.,665,6,,2026-01-06
+8400530,8011160,Rotterdam Centraal,Berlin Hbf,367,4,,2026-01-06
+8400530,8000096,Rotterdam Centraal,Stuttgart Hbf,313,4,,2026-01-06
+8400530,8000261,Rotterdam Centraal,München Hbf,440,4,,2026-01-06
+8400530,8002549,Rotterdam Centraal,Hamburg Hbf,340,6,,2026-01-06
+8400530,8003368,Rotterdam Centraal,Köln Messe/Deutz Gl.11-12,187,4,,2026-01-06
+8400530,8000105,Rotterdam Centraal,Frankfurt(Main)Hbf,265,2,,2026-01-06
+8400530,8000085,Rotterdam Centraal,Düsseldorf Hbf,154,2,,2026-01-06
+8400530,8010205,Rotterdam Centraal,Leipzig Hbf,461,4,,2026-01-06
+8400530,8000080,Rotterdam Centraal,Dortmund Hbf,186,4,,2026-01-06
+8400530,8000098,Rotterdam Centraal,Essen Hbf,162,4,,2026-01-06
+8400530,8000050,Rotterdam Centraal,Bremen Hbf,279,6,,2026-01-06
+8400530,8010085,Rotterdam Centraal,Dresden Hbf,527,6,,2026-01-06
+8400530,8000152,Rotterdam Centraal,Hannover Hbf,266,4,,2026-01-06
+8400530,8000284,Rotterdam Centraal,Nürnberg Hbf,398,4,,2026-01-06
+8400530,8000086,Rotterdam Centraal,Duisburg Hbf,139,2,,2026-01-06
+8400530,8601242,Rotterdam Centraal,Koebenhavns Lufthavn st,708,8,,2026-01-06
+8400530,7100064,Rotterdam Centraal,Barcelona Sants,625,4,,2026-01-06
+8400530,8700012,Rotterdam Centraal,Paris Lyon Banlieue,189,4,,2026-01-06
+8400530,8700047,Rotterdam Centraal,Bordeaux-St-Jean,348,2,,2026-01-06
+8400530,8700074,Rotterdam Centraal,Marseille-St-Charles,416,2,,2026-01-06
+8400530,8700152,Rotterdam Centraal,Lyon Part Dieu,320,2,,2026-01-06
+8400530,8700065,Rotterdam Centraal,Toulouse-Matabiau,510,2,,2026-01-06
+8400530,7800020,Rotterdam Centraal,Zagreb Glavni kolodvor,1090,8,,2026-01-06
+8400530,5500728,Rotterdam Centraal,Budapest-Nyugati,951,7,,2026-01-06
+8400530,8300262,Rotterdam Centraal,Roma Tiburtina,882,4,,2026-01-06
+8400530,8300047,Rotterdam Centraal,Milano Porta Garibaldi,636,4,,2026-01-06
+8400530,8300522,Rotterdam Centraal,Torino Porta Susa,557,2,,2026-01-06
+8400530,8300153,Rotterdam Centraal,Genova Piazza Principe,692,4,,2026-01-06
+8400530,8200100,Rotterdam Centraal,Luxembourg,291,2,,2026-01-06
+8400530,8400597,Rotterdam Centraal,Tilburg,38,0,,2026-01-06
+8400530,8400058,Rotterdam Centraal,Amsterdam Centraal,43,0,,2026-01-06
+8400530,5100065,Rotterdam Centraal,Warszawa Centralna,685,6,,2026-01-06
+8400530,5100028,Rotterdam Centraal,Krakow Glowny,834,8,,2026-01-06
+8400530,5100069,Rotterdam Centraal,Wroclaw Glowny,658,8,,2026-01-06
+8400530,5100081,Rotterdam Centraal,Poznan Glowny,538,6,,2026-01-06
+8400530,7400002,Rotterdam Centraal,Stockholm Central,1101,8,,2026-01-06
+8400530,7900003,Rotterdam Centraal,Ljubljana,856,8,,2026-01-06
+8400530,5600207,Rotterdam Centraal,Bratislava hl.st.,772,8,,2026-01-06
+5100065,8103000,Warszawa Centralna,Wien Hbf,465,0,,2026-01-06
+5100065,8800004,Warszawa Centralna,Bruxelles Midi,755,4,,2026-01-06
+5100065,8800007,Warszawa Centralna,Antwerpen Centraal,786,6,,2026-01-06
+5100065,5400014,Warszawa Centralna,Praha hl.n.,486,2,,2026-01-06
+5100065,8011160,Warszawa Centralna,Berlin Hbf,316,0,,2026-01-06
+5100065,8000096,Warszawa Centralna,Stuttgart Hbf,653,4,,2026-01-06
+5100065,8000261,Warszawa Centralna,München Hbf,575,2,,2026-01-06
+5100065,8002549,Warszawa Centralna,Hamburg Hbf,481,2,,2026-01-06
+5100065,8003368,Warszawa Centralna,Köln Messe/Deutz,626,4,,2026-01-06
+5100065,8000105,Warszawa Centralna,Frankfurt(Main)Hbf,584,2,,2026-01-06
+5100065,8000085,Warszawa Centralna,Düsseldorf Hbf,610,2,,2026-01-06
+5100065,8010205,Warszawa Centralna,Leipzig Hbf,406,2,,2026-01-06
+5100065,8000080,Warszawa Centralna,Dortmund Hbf,551,2,,2026-01-06
+5100065,8000098,Warszawa Centralna,Essen Hbf,577,2,,2026-01-06
+5100065,8000050,Warszawa Centralna,Bremen Hbf,530,4,,2026-01-06
+5100065,8010085,Warszawa Centralna,Dresden Hbf,447,2,,2026-01-06
+5100065,8000152,Warszawa Centralna,Hannover Hbf,440,2,,2026-01-06
+5100065,8000284,Warszawa Centralna,Nürnberg Hbf,502,2,,2026-01-06
+5100065,8000086,Warszawa Centralna,Duisburg Hbf,591,2,,2026-01-06
+5100065,8601242,Warszawa Centralna,Koebenhavns Lufthavn st,863,4,,2026-01-06
+5100065,7100064,Warszawa Centralna,Barcelona Sants,1583,8,,2026-01-06
+5100065,8700012,Warszawa Centralna,Paris Lyon Banlieue,1033,8,,2026-01-06
+5100065,8700047,Warszawa Centralna,Bordeaux-St-Jean,1091,8,,2026-01-06
+5100065,8700074,Warszawa Centralna,Marseille-St-Charles,1259,8,,2026-01-06
+5100065,8700152,Warszawa Centralna,Lyon Part Dieu,1013,8,,2026-01-06
+5100065,8700065,Warszawa Centralna,Toulouse-Matabiau,1368,6,,2026-01-06
+5100065,7800020,Warszawa Centralna,Zagreb Glavni kolodvor,1226,4,,2026-01-06
+5100065,5500728,Warszawa Centralna,Budapest-Nyugati,636,2,,2026-01-06
+5100065,8300262,Warszawa Centralna,Roma Tiburtina,1270,8,,2026-01-06
+5100065,8300047,Warszawa Centralna,Milano Porta Garibaldi,1221,8,,2026-01-06
+5100065,8300522,Warszawa Centralna,Torino Porta Susa,1259,8,,2026-01-06
+5100065,8300153,Warszawa Centralna,Genova Piazza Principe,1299,8,,2026-01-06
+5100065,8200100,Warszawa Centralna,Luxembourg,825,6,,2026-01-06
+5100065,8400597,Warszawa Centralna,Tilburg,766,8,,2026-01-06
+5100065,8400058,Warszawa Centralna,Amsterdam Centraal,749,4,,2026-01-06
+5100065,8400530,Warszawa Centralna,Rotterdam Centraal,760,6,,2026-01-06
+5100065,5100028,Warszawa Centralna,Krakow Glowny,152,0,,2026-01-06
+5100065,5100069,Warszawa Centralna,Wroclaw Glowny,228,2,,2026-01-06
+5100065,5100081,Warszawa Centralna,Poznan Glowny,144,0,,2026-01-06
+5100065,7400002,Warszawa Centralna,Stockholm Central,1428,6,,2026-01-06
+5100065,7900003,Warszawa Centralna,Ljubljana,964,8,,2026-01-06
+5100065,5600207,Warszawa Centralna,Bratislava hl.st.,478,2,,2026-01-06
+5100028,8103000,Krakow Glowny,Wien Hbf,328,0,,2026-01-06
+5100028,8800004,Krakow Glowny,Bruxelles Midi,865,4,,2026-01-06
+5100028,8800007,Krakow Glowny,Antwerpen Centraal,916,8,,2026-01-06
+5100028,5400014,Krakow Glowny,Praha hl.n.,357,2,,2026-01-06
+5100028,8011160,Krakow Glowny,Berlin Hbf,441,0,,2026-01-06
+5100028,8000096,Krakow Glowny,Stuttgart Hbf,718,6,,2026-01-06
+5100028,8000261,Krakow Glowny,München Hbf,595,4,,2026-01-06
+5100028,8002549,Krakow Glowny,Hamburg Hbf,616,4,,2026-01-06
+5100028,8003368,Krakow Glowny,Köln Messe/Deutz,717,6,,2026-01-06
+5100028,8000105,Krakow Glowny,Frankfurt(Main)Hbf,642,2,,2026-01-06
+5100028,8000085,Krakow Glowny,Düsseldorf Hbf,732,4,,2026-01-06
+5100028,8010205,Krakow Glowny,Leipzig Hbf,429,0,,2026-01-06
+5100028,8000080,Krakow Glowny,Dortmund Hbf,675,4,,2026-01-06
+5100028,8000098,Krakow Glowny,Essen Hbf,700,4,,2026-01-06
+5100028,8000050,Krakow Glowny,Bremen Hbf,652,4,,2026-01-06
+5100028,8010085,Krakow Glowny,Dresden Hbf,432,4,,2026-01-06
+5100028,8000152,Krakow Glowny,Hannover Hbf,573,4,,2026-01-06
+5100028,8000284,Krakow Glowny,Nürnberg Hbf,567,4,,2026-01-06
+5100028,8000086,Krakow Glowny,Duisburg Hbf,713,4,,2026-01-06
+5100028,8601242,Krakow Glowny,Koebenhavns Lufthavn st,978,6,,2026-01-06
+5100028,7100064,Krakow Glowny,Barcelona Sants,1750,8,,2026-01-06
+5100028,8700012,Krakow Glowny,Paris Lyon Banlieue,1216,8,,2026-01-06
+5100028,8700047,Krakow Glowny,Bordeaux-St-Jean,1235,4,,2026-01-06
+5100028,8700074,Krakow Glowny,Marseille-St-Charles,1328,4,,2026-01-06
+5100028,8700152,Krakow Glowny,Lyon Part Dieu,1142,6,,2026-01-06
+5100028,8700065,Krakow Glowny,Toulouse-Matabiau,1451,4,,2026-01-06
+5100028,7800020,Krakow Glowny,Zagreb Glavni kolodvor,1124,6,,2026-01-06
+5100028,5500728,Krakow Glowny,Budapest-Nyugati,487,2,,2026-01-06
+5100028,8300262,Krakow Glowny,Roma Tiburtina,1134,6,,2026-01-06
+5100028,8300047,Krakow Glowny,Milano Porta Garibaldi,1141,8,,2026-01-06
+5100028,8300522,Krakow Glowny,Torino Porta Susa,1197,8,,2026-01-06
+5100028,8300153,Krakow Glowny,Genova Piazza Principe,1244,8,,2026-01-06
+5100028,8200100,Krakow Glowny,Luxembourg,1228,8,,2026-01-06
+5100028,8400597,Krakow Glowny,Tilburg,979,6,,2026-01-06
+5100028,8400058,Krakow Glowny,Amsterdam Centraal,1159,6,,2026-01-06
+5100028,8400530,Krakow Glowny,Rotterdam Centraal,915,8,,2026-01-06
+5100028,5100065,Krakow Glowny,Warszawa Centralna,148,0,,2026-01-06
+5100028,5100069,Krakow Glowny,Wroclaw Glowny,180,0,,2026-01-06
+5100028,5100081,Krakow Glowny,Poznan Glowny,291,0,,2026-01-06
+5100028,7400002,Krakow Glowny,Stockholm Central,1438,8,,2026-01-06
+5100028,7900003,Krakow Glowny,Ljubljana,708,4,,2026-01-06
+5100028,5600207,Krakow Glowny,Bratislava hl.st.,341,2,,2026-01-06
+5100069,8103000,Wroclaw Glowny,Wien Hbf,334,0,,2026-01-06
+5100069,8800004,Wroclaw Glowny,Bruxelles Midi,662,6,,2026-01-06
+5100069,8800007,Wroclaw Glowny,Antwerpen Centraal,714,8,,2026-01-06
+5100069,5400014,Wroclaw Glowny,Praha hl.n.,241,0,,2026-01-06
+5100069,8011160,Wroclaw Glowny,Berlin Hbf,239,2,,2026-01-06
+5100069,8000096,Wroclaw Glowny,Stuttgart Hbf,500,6,,2026-01-06
+5100069,8000261,Wroclaw Glowny,München Hbf,424,4,,2026-01-06
+5100069,8002549,Wroclaw Glowny,Hamburg Hbf,398,4,,2026-01-06
+5100069,8003368,Wroclaw Glowny,Köln Messe/Deutz Gl.11-12,521,4,,2026-01-06
+5100069,8000105,Wroclaw Glowny,Frankfurt(Main)Hbf,424,2,,2026-01-06
+5100069,8000085,Wroclaw Glowny,Düsseldorf Hbf,514,4,,2026-01-06
+5100069,8010205,Wroclaw Glowny,Leipzig Hbf,211,0,,2026-01-06
+5100069,8000080,Wroclaw Glowny,Dortmund Hbf,457,4,,2026-01-06
+5100069,8000098,Wroclaw Glowny,Essen Hbf,482,4,,2026-01-06
+5100069,8000050,Wroclaw Glowny,Bremen Hbf,432,4,,2026-01-06
+5100069,8010085,Wroclaw Glowny,Dresden Hbf,191,2,,2026-01-06
+5100069,8000152,Wroclaw Glowny,Hannover Hbf,355,4,,2026-01-06
+5100069,8000284,Wroclaw Glowny,Nürnberg Hbf,349,4,,2026-01-06
+5100069,8000086,Wroclaw Glowny,Duisburg Hbf,495,4,,2026-01-06
+5100069,8601242,Wroclaw Glowny,Koebenhavns Lufthavn st,775,8,,2026-01-06
+5100069,7100064,Wroclaw Glowny,Barcelona Sants,1690,8,,2026-01-06
+5100069,8700012,Wroclaw Glowny,Paris Lyon Banlieue,709,6,,2026-01-06
+5100069,8700047,Wroclaw Glowny,Bordeaux-St-Jean,1038,4,,2026-01-06
+5100069,8700074,Wroclaw Glowny,Marseille-St-Charles,1290,7,,2026-01-06
+5100069,8700152,Wroclaw Glowny,Lyon Part Dieu,1191,8,,2026-01-06
+5100069,8700065,Wroclaw Glowny,Toulouse-Matabiau,1254,4,,2026-01-06
+5100069,7800020,Wroclaw Glowny,Zagreb Glavni kolodvor,787,6,,2026-01-06
+5100069,5500728,Wroclaw Glowny,Budapest-Nyugati,487,2,,2026-01-06
+5100069,8300262,Wroclaw Glowny,Roma Tiburtina,1119,6,,2026-01-06
+5100069,8300047,Wroclaw Glowny,Milano Porta Garibaldi Passante,1135,8,,2026-01-06
+5100069,8300522,Wroclaw Glowny,Torino Porta Susa,1190,6,,2026-01-06
+5100069,8300153,Wroclaw Glowny,Genova Piazza Principe,1229,8,,2026-01-06
+5100069,8200100,Wroclaw Glowny,Luxembourg,677,8,,2026-01-06
+5100069,8400597,Wroclaw Glowny,Tilburg,653,6,,2026-01-06
+5100069,8400058,Wroclaw Glowny,Amsterdam Centraal,628,4,,2026-01-06
+5100069,8400530,Wroclaw Glowny,Rotterdam Centraal,652,8,,2026-01-06
+5100069,5100065,Wroclaw Glowny,Warszawa Centralna,230,2,,2026-01-06
+5100069,5100028,Wroclaw Glowny,Krakow Glowny,169,0,,2026-01-06
+5100069,5100081,Wroclaw Glowny,Poznan Glowny,79,0,,2026-01-06
+5100069,7400002,Wroclaw Glowny,Stockholm Central,1226,6,,2026-01-06
+5100069,7900003,Wroclaw Glowny,Ljubljana,683,6,,2026-01-06
+5100069,5600207,Wroclaw Glowny,Bratislava hl.st.,347,2,,2026-01-06
+5100081,8103000,Poznan Glowny,Wien Hbf,434,6,,2026-01-06
+5100081,8800004,Poznan Glowny,Bruxelles Midi,608,4,,2026-01-06
+5100081,8800007,Poznan Glowny,Antwerpen Centraal,639,6,,2026-01-06
+5100081,5400014,Poznan Glowny,Praha hl.n.,339,2,,2026-01-06
+5100081,8011160,Poznan Glowny,Berlin Hbf,169,0,,2026-01-06
+5100081,8000096,Poznan Glowny,Stuttgart Hbf,506,4,,2026-01-06
+5100081,8000261,Poznan Glowny,München Hbf,424,2,,2026-01-06
+5100081,8002549,Poznan Glowny,Hamburg Hbf,344,2,,2026-01-06
+5100081,8003368,Poznan Glowny,Köln Messe/Deutz,476,4,,2026-01-06
+5100081,8000105,Poznan Glowny,Frankfurt(Main)Hbf,437,2,,2026-01-06
+5100081,8000085,Poznan Glowny,Düsseldorf Hbf,460,2,,2026-01-06
+5100081,8010205,Poznan Glowny,Leipzig Hbf,255,2,,2026-01-06
+5100081,8000080,Poznan Glowny,Dortmund Hbf,403,2,,2026-01-06
+5100081,8000098,Poznan Glowny,Essen Hbf,428,2,,2026-01-06
+5100081,8000050,Poznan Glowny,Bremen Hbf,378,2,,2026-01-06
+5100081,8010085,Poznan Glowny,Dresden Hbf,280,2,,2026-01-06
+5100081,8000152,Poznan Glowny,Hannover Hbf,293,2,,2026-01-06
+5100081,8000284,Poznan Glowny,Nürnberg Hbf,355,2,,2026-01-06
+5100081,8000086,Poznan Glowny,Duisburg Hbf,441,2,,2026-01-06
+5100081,8601242,Poznan Glowny,Koebenhavns Lufthavn st,716,4,,2026-01-06
+5100081,7100064,Poznan Glowny,Barcelona Sants,1436,8,,2026-01-06
+5100081,8700012,Poznan Glowny,Paris Lyon Banlieue,715,6,,2026-01-06
+5100081,8700047,Poznan Glowny,Bordeaux-St-Jean,1067,6,,2026-01-06
+5100081,8700074,Poznan Glowny,Marseille-St-Charles,1296,7,,2026-01-06
+5100081,8700152,Poznan Glowny,Lyon Part Dieu,824,4,,2026-01-06
+5100081,8700065,Poznan Glowny,Toulouse-Matabiau,1109,4,,2026-01-06
+5100081,7800020,Poznan Glowny,Zagreb Glavni kolodvor,995,6,,2026-01-06
+5100081,5500728,Poznan Glowny,Budapest-Nyugati,566,2,,2026-01-06
+5100081,8300262,Poznan Glowny,Roma Tiburtina,1222,8,,2026-01-06
+5100081,8300047,Poznan Glowny,Milano Porta Garibaldi,1160,8,,2026-01-06
+5100081,8300522,Poznan Glowny,Torino Porta Susa,1216,8,,2026-01-06
+5100081,8300153,Poznan Glowny,Genova Piazza Principe,1157,8,,2026-01-06
+5100081,8200100,Poznan Glowny,Luxembourg,678,6,,2026-01-06
+5100081,8400597,Poznan Glowny,Tilburg,599,4,,2026-01-06
+5100081,8400058,Poznan Glowny,Amsterdam Centraal,574,2,,2026-01-06
+5100081,8400530,Poznan Glowny,Rotterdam Centraal,598,6,,2026-01-06
+5100081,5100065,Poznan Glowny,Warszawa Centralna,137,0,,2026-01-06
+5100081,5100028,Poznan Glowny,Krakow Glowny,268,2,,2026-01-06
+5100081,5100069,Poznan Glowny,Wroclaw Glowny,77,0,,2026-01-06
+5100081,7400002,Poznan Glowny,Stockholm Central,1497,6,,2026-01-06
+5100081,7900003,Poznan Glowny,Ljubljana,809,8,,2026-01-06
+5100081,5600207,Poznan Glowny,Bratislava hl.st.,451,4,,2026-01-06
+7400002,8103000,Stockholm Central,Wien Hbf,1279,4,,2026-01-06
+7400002,8800004,Stockholm Central,Bruxelles Midi,1207,4,,2026-01-06
+7400002,8800007,Stockholm Central,Antwerpen Centraal,1238,6,,2026-01-06
+7400002,5400014,Stockholm Central,Praha hl.n.,1197,6,,2026-01-06
+7400002,8011160,Stockholm Central,Berlin Hbf,894,6,,2026-01-06
+7400002,8000096,Stockholm Central,Stuttgart Hbf,1123,4,,2026-01-06
+7400002,8000261,Stockholm Central,München Hbf,1094,2,,2026-01-06
+7400002,8002549,Stockholm Central,Hamburg Hbf,702,4,,2026-01-06
+7400002,8003368,Stockholm Central,Köln Messe/Deutz,1016,6,,2026-01-06
+7400002,8000105,Stockholm Central,Frankfurt(Main)Hbf,1006,2,,2026-01-06
+7400002,8000085,Stockholm Central,Düsseldorf Hbf,999,4,,2026-01-06
+7400002,8010205,Stockholm Central,Leipzig Hbf,1007,4,,2026-01-06
+7400002,8000080,Stockholm Central,Dortmund Hbf,942,4,,2026-01-06
+7400002,8000098,Stockholm Central,Essen Hbf,967,4,,2026-01-06
+7400002,8000050,Stockholm Central,Bremen Hbf,787,6,,2026-01-06
+7400002,8010085,Stockholm Central,Dresden Hbf,1059,6,,2026-01-06
+7400002,8000152,Stockholm Central,Hannover Hbf,814,6,,2026-01-06
+7400002,8000284,Stockholm Central,Nürnberg Hbf,1017,2,,2026-01-06
+7400002,8000086,Stockholm Central,Duisburg Hbf,981,4,,2026-01-06
+7400002,8601242,Stockholm Central,Koebenhavns Lufthavn st,357,2,,2026-01-06
+7400002,7100064,Stockholm Central,Barcelona Sants,2588,6,,2026-01-06
+7400002,8700012,Stockholm Central,Paris Lyon Banlieue,1276,6,,2026-01-06
+7400002,8700047,Stockholm Central,Bordeaux-St-Jean,1426,6,,2026-01-06
+7400002,8700074,Stockholm Central,Marseille-St-Charles,1501,6,,2026-01-06
+7400002,8700152,Stockholm Central,Lyon Part Dieu,1408,6,,2026-01-06
+7400002,8700065,Stockholm Central,Toulouse-Matabiau,1572,6,,2026-01-06
+7400002,7800020,Stockholm Central,Zagreb Glavni kolodvor,1732,6,,2026-01-06
+7400002,5500728,Stockholm Central,Budapest-Nyugati,1521,7,,2026-01-06
+7400002,8300262,,,-1,0,,2026-01-06
+7400002,8300047,Stockholm Central,Milano Porta Garibaldi,1493,8,,2026-01-06
+7400002,8300522,Stockholm Central,Torino Porta Susa,1586,8,,2026-01-06
+7400002,8300153,Stockholm Central,Genova Piazza Principe,1576,8,,2026-01-06
+7400002,8200100,Stockholm Central,Luxembourg,1247,6,,2026-01-06
+7400002,8400597,Stockholm Central,Tilburg,1138,6,,2026-01-06
+7400002,8400058,Stockholm Central,Amsterdam Centraal,1111,4,,2026-01-06
+7400002,8400530,Stockholm Central,Rotterdam Centraal,1152,8,,2026-01-06
+7400002,5100065,Stockholm Central,Warszawa Centralna,1451,6,,2026-01-06
+7400002,5100028,Stockholm Central,Krakow Glowny,1467,8,,2026-01-06
+7400002,5100069,Stockholm Central,Wroclaw Glowny,1261,6,,2026-01-06
+7400002,5100081,Stockholm Central,Poznan Glowny,1560,6,,2026-01-06
+7400002,7900003,Stockholm Central,Ljubljana,1481,6,,2026-01-06
+7400002,5600207,Stockholm Central,Bratislava hl.st.,1362,6,,2026-01-06
+7900003,8103000,Ljubljana,Wien Hbf,332,2,,2026-01-06
+7900003,8800004,Ljubljana,Bruxelles Midi,840,4,,2026-01-06
+7900003,8800007,Ljubljana,Antwerpen Centraal,864,6,,2026-01-06
+7900003,5400014,Ljubljana,Praha hl.n.,588,2,,2026-01-06
+7900003,8011160,Ljubljana,Berlin Hbf,647,4,,2026-01-06
+7900003,8000096,Ljubljana,Stuttgart Hbf,490,4,,2026-01-06
+7900003,8000261,Ljubljana,München Hbf,366,2,,2026-01-06
+7900003,8002549,Ljubljana,Hamburg Hbf,742,4,,2026-01-06
+7900003,8003368,Ljubljana,Köln Messe/Deutz Gl.11-12,654,4,,2026-01-06
+7900003,8000105,Ljubljana,Frankfurt(Main)Hbf,588,4,,2026-01-06
+7900003,8000085,,,-1,0,,2026-01-06
+7900003,8010205,Ljubljana,Leipzig Hbf,601,8,,2026-01-06
+7900003,8000080,Ljubljana,Dortmund Hbf,738,6,,2026-01-06
+7900003,8000098,Ljubljana,Essen Hbf,707,4,,2026-01-06
+7900003,8000050,Ljubljana,Bremen Hbf,735,6,,2026-01-06
+7900003,8010085,Ljubljana,Dresden Hbf,730,6,,2026-01-06
+7900003,8000152,Ljubljana,Hannover Hbf,657,4,,2026-01-06
+7900003,8000284,Ljubljana,Nürnberg Hbf,447,4,,2026-01-06
+7900003,8000086,Ljubljana,Duisburg Hbf,694,4,,2026-01-06
+7900003,8601242,Ljubljana,Koebenhavns Lufthavn st,1175,6,,2026-01-06
+7900003,7100064,,,-1,0,,2026-01-06
+7900003,8700012,Ljubljana,Paris Lyon Banlieue,790,6,,2026-01-06
+7900003,8700047,Ljubljana,Bordeaux-St-Jean,932,6,,2026-01-06
+7900003,8700074,Ljubljana,Marseille-St-Charles,1434,8,,2026-01-06
+7900003,8700152,Ljubljana,Lyon Part Dieu,952,8,,2026-01-06
+7900003,8700065,Ljubljana,Toulouse-Matabiau,1290,4,,2026-01-06
+7900003,7800020,Ljubljana,Zagreb Glavni kolodvor,150,0,,2026-01-06
+7900003,5500728,Ljubljana,Budapest-Nyugati,554,5,,2026-01-06
+7900003,8300262,Ljubljana,Roma Tiburtina,644,4,,2026-01-06
+7900003,8300047,Ljubljana,Milano Porta Garibaldi Passante,565,6,,2026-01-06
+7900003,8300522,Ljubljana,Torino Porta Susa,669,4,,2026-01-06
+7900003,8300153,Ljubljana,Genova Piazza Principe,729,6,,2026-01-06
+7900003,8200100,Ljubljana,Luxembourg,790,8,,2026-01-06
+7900003,8400597,Ljubljana,Tilburg,854,8,,2026-01-06
+7900003,8400058,Ljubljana,Amsterdam Centraal,834,6,,2026-01-06
+7900003,8400530,Ljubljana,Rotterdam Centraal,838,8,,2026-01-06
+7900003,5100065,Ljubljana,Warszawa Centralna,873,4,,2026-01-06
+7900003,5100028,Ljubljana,Krakow Glowny,715,4,,2026-01-06
+7900003,5100069,Ljubljana,Wroclaw Glowny,711,4,,2026-01-06
+7900003,5100081,Ljubljana,Poznan Glowny,790,4,,2026-01-06
+7900003,7400002,Ljubljana,Stockholm Central,1553,6,,2026-01-06
+7900003,5600207,Ljubljana,Bratislava hl.st.,395,4,,2026-01-06
+5600207,8103000,Bratislava hl.st.,Wien Hbf,56,0,,2026-01-06
+5600207,8800004,Bratislava hl.st.,Bruxelles Midi,705,4,,2026-01-06
+5600207,8800007,Bratislava hl.st.,Antwerpen Centraal,736,6,,2026-01-06
+5600207,5400014,Bratislava hl.st.,Praha hl.n.,265,0,,2026-01-06
+5600207,8011160,Bratislava hl.st.,Berlin Hbf,511,0,,2026-01-06
+5600207,8000096,Bratislava hl.st.,Stuttgart Hbf,473,6,,2026-01-06
+5600207,8000261,Bratislava hl.st.,München Hbf,346,4,,2026-01-06
+5600207,8002549,Bratislava hl.st.,Hamburg Hbf,607,4,,2026-01-06
+5600207,8003368,Bratislava hl.st.,Köln Messe/Deutz Gl.11-12,564,4,,2026-01-06
+5600207,8000105,Bratislava hl.st.,Frankfurt(Main)Hbf,467,2,,2026-01-06
+5600207,8000085,Bratislava hl.st.,Düsseldorf Hbf,582,4,,2026-01-06
+5600207,8010205,Bratislava hl.st.,Leipzig Hbf,461,6,,2026-01-06
+5600207,8000080,Bratislava hl.st.,Dortmund Hbf,629,6,,2026-01-06
+5600207,8000098,Bratislava hl.st.,Essen Hbf,608,4,,2026-01-06
+5600207,8000050,Bratislava hl.st.,Bremen Hbf,597,6,,2026-01-06
+5600207,8010085,Bratislava hl.st.,Dresden Hbf,412,0,,2026-01-06
+5600207,8000152,Bratislava hl.st.,Hannover Hbf,522,4,,2026-01-06
+5600207,8000284,Bratislava hl.st.,Nürnberg Hbf,335,2,,2026-01-06
+5600207,8000086,Bratislava hl.st.,Duisburg Hbf,595,4,,2026-01-06
+5600207,8601242,Bratislava hl.st.,Koebenhavns Lufthavn st,993,6,,2026-01-06
+5600207,7100064,Bratislava hl.st.,Barcelona Sants,1482,6,,2026-01-06
+5600207,8700012,Bratislava hl.st.,Paris Lyon Banlieue,1162,8,,2026-01-06
+5600207,8700047,Bratislava hl.st.,Bordeaux-St-Jean,1164,8,,2026-01-06
+5600207,8700074,Bratislava hl.st.,Marseille-St-Charles,1329,8,,2026-01-06
+5600207,8700152,Bratislava hl.st.,Lyon Part Dieu,1052,8,,2026-01-06
+5600207,8700065,Bratislava hl.st.,Toulouse-Matabiau,1370,6,,2026-01-06
+5600207,7800020,Bratislava hl.st.,Zagreb Glavni kolodvor,484,8,,2026-01-06
+5600207,5500728,Bratislava hl.st.,Budapest-Nyugati,143,0,,2026-01-06
+5600207,8300262,Bratislava hl.st.,Roma Tiburtina,844,4,,2026-01-06
+5600207,8300047,Bratislava hl.st.,Milano Porta Garibaldi Passante,665,6,,2026-01-06
+5600207,8300522,Bratislava hl.st.,Torino Porta Susa,918,4,,2026-01-06
+5600207,8300153,Bratislava hl.st.,Genova Piazza Principe,954,6,,2026-01-06
+5600207,8200100,Bratislava hl.st.,Luxembourg,720,8,,2026-01-06
+5600207,8400597,Bratislava hl.st.,Tilburg,786,8,,2026-01-06
+5600207,8400058,Bratislava hl.st.,Amsterdam Centraal,759,6,,2026-01-06
+5600207,8400530,Bratislava hl.st.,Rotterdam Centraal,770,8,,2026-01-06
+5600207,5100065,Bratislava hl.st.,Warszawa Centralna,486,4,,2026-01-06
+5600207,5100028,Bratislava hl.st.,Krakow Glowny,350,2,,2026-01-06
+5600207,5100069,Bratislava hl.st.,Wroclaw Glowny,380,4,,2026-01-06
+5600207,5100081,Bratislava hl.st.,Poznan Glowny,407,2,,2026-01-06
+5600207,7400002,Bratislava hl.st.,Stockholm Central,1386,6,,2026-01-06
+5600207,7900003,Bratislava hl.st.,Ljubljana,379,4,,2026-01-06
