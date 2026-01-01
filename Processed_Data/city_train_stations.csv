@@ -1,4 +1,4 @@
-name_station,lat_station,lng_station,name_city,lat_city,lng_city,distance_city_center_to_train_station,transit_time_city_center_train_station
+name_station,lat_station,lng_station,name_city,lat_city,lng_city,distance_city_center_to_train_station,transit_time_mins
 Wien Hbf,48.184923,16.375864,Vienna,48.2083,16.3725,2.6113349599547395,31.336019519456876
 Bruxelles Midi,50.835374,4.335695,Brussels,50.8467,4.3525,1.725819656923182,20.709835883078185
 Antwerpen Centraal,51.215527,4.421005,Antwerp,51.2178,4.4003,1.4640832903667353,17.568999484400823
