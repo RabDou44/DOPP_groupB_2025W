@@ -1,0 +1,44 @@
+name_station,lat_station,lng_station,name_city,lat_city,lng_city
+Wien Hbf,48.184923,16.375864,Vienna,48.2083,16.3725
+Bruxelles Midi,50.835374,4.335695,Brussels,50.8467,4.3525
+Antwerpen Centraal,51.215527,4.421005,Antwerp,51.2178,4.4003
+Praha hl.n.,50.083058,14.436037,Prague,50.0875,14.4214
+Berlin Hbf,52.525589,13.369548,Berlin,52.52,13.405
+Stuttgart Hbf,48.784081,9.181636,Stuttgart,48.7775,9.18
+München Hbf,48.140228,11.558338,Munich,48.1375,11.575
+Hamburg Hbf,53.552732,10.006908,Hamburg,53.55,10.0
+Köln Messe/Deutz,50.940871,6.975,Cologne,50.9364,6.9528
+Frankfurt(Main)Hbf,50.107149,8.663785,Frankfurt,50.1106,8.6822
+Düsseldorf Hbf,51.21996,6.794316,Düsseldorf,51.2333,6.7833
+Leipzig Hbf,51.346546,12.383333,Leipzig,51.34,12.375
+Dortmund Hbf,51.517898,7.459293,Dortmund,51.5139,7.4653
+Essen Hbf,51.451351,7.014795,Essen,51.4508,7.0131
+Bremen Hbf,53.083477,8.813833,Bremen,53.0758,8.8072
+Dresden Hbf,51.040562,13.732038,Dresden,51.05,13.74
+Hannover Hbf,52.376763,9.741016,Hannover,52.3667,9.7167
+Nürnberg Hbf,49.445615,11.082989,Nuremberg,49.4539,11.0775
+Duisburg Hbf,51.429786,6.775906,Duisburg,51.4347,6.7625
+Koebenhavns Lufthavn st,55.672721,12.564618,Copenhagen,55.6761,12.5683
+Barcelona Sants,41.378911,2.140367,Barcelona,41.3828,2.1769
+Paris Gare de Lyon,48.844888,2.37352,Paris,48.8567,2.3522
+Bordeaux-St-Jean,44.825873,-0.556697,Bordeaux,44.84,-0.58
+Marseille-St-Charles,43.302666,5.380407,Marseille,43.2964,5.37
+Lyon Part Dieu,45.760416,4.862114,Lyon,45.76,4.84
+Toulouse-Matabiau,43.611206,1.453616,Toulouse,43.6045,1.444
+Zagreb Glavni kolodvor,45.804438,15.978705,Zagreb,45.8131,15.9775
+Budapest-Nyugati,47.510705,19.057464,Budapest,47.4925,19.0514
+Roma Tiburtina,41.911072,12.531457,Rome,41.8933,12.4828
+Milano Porta Garibaldi,45.484437,9.187299,Milan,45.4669,9.19
+Torino Porta Susa,45.071832,7.665164,Turin,45.0792,7.6761
+Genova Piazza Principe,44.417507,8.922072,Genoa,44.4111,8.9328
+Luxembourg,49.599717,6.134391,Luxembourg,49.6117,6.1319
+Tilburg,51.560938,5.081116,Tilburg,51.55,5.0833
+Amsterdam Centraal,52.37919,4.899426,Amsterdam,52.3728,4.8936
+Rotterdam Centraal,51.925068,4.468839,Rotterdam,51.92,4.48
+Warszawa Centralna,52.232855,20.921112,Warsaw,52.23,21.0111
+Krakow Glowny,50.067192,19.947423,Kraków,50.0614,19.9372
+Wroclaw Glowny,51.098075,17.037084,Wrocław,51.11,17.0325
+Poznan Glowny,52.401996,16.910866,Poznań,52.4083,16.9336
+Stockholm Central,59.330009,18.057629,Stockholm,59.3294,18.0686
+Ljubljana,46.058686,14.51294,Ljubljana,46.0514,14.5061
+Bratislava hl.st.,48.158908,17.106463,Bratislava,48.1439,17.1097
