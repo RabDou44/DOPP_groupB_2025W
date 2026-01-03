@@ -14,6 +14,7 @@
 - https://github.com/Jonty/airline-route-data/tree/main
 - https://www.kaggle.com/datasets/headsortails/train-stations-in-europe
 - https://data.4tu.nl/datasets/f045231a-a153-43cb-a5b2-9b37f4528ccf 
+- https://download.geofabrik.de/europe.html
 
 ### General data :
 - [EC report](https://ec.europa.eu/regional_policy/sources/work/2023-rail-vs-air_en.pdf)
