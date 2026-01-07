@@ -1,3 +1,6 @@
+All the data required to run the main notebook is already available and located in the required directories.
+The notebook train_routes_scraping can be used to test the DB API scraping and processing of the OpenStreetMap data.
+
 OpenStreetMap Data (not necessary if starting from parquet files or from processed data)
     1. Go to https://download.geofabrik.de/europe.html
     2. Download the following .osm.pbf country files to ../Raw_Data/OSM_Data:
